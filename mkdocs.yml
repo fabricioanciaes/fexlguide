@@ -4,12 +4,17 @@ site_description: Fighting EX Layer resources and guides
 site_author: FEXL Discord
 site_url: https://fabricioanciaes.github.io/fexl-guide/
 
+# Change this to your discord invite link
+repo_name: Join the FEXL Discord
+repo_url: https://discord.gg/Jxs6448
+edit_uri: ""
+
 theme:
   name: 'material'
   custom_dir: 'theme'
   palette:
-    primary: 'Teal'
-    accent: 'Teal'
+    primary: 'Blue Grey'
+    accent: 'Cyan'
 
 extra_css:
   - stylesheets/dark_theme.css
