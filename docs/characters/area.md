@@ -1,3 +1,10 @@
+---
+title: Area
+summary: Brief guide of how to play Area
+authors:
+    - lofi1048
+---
+
 # Area
 
 ## Brief Overview

@@ -1,10 +1,47 @@
+# Project information
 site_name: FEXL Guide
+site_description: Fighting EX Layer resources and guides
+site_author: FEXL Discord
+site_url: https://fabricioanciaes.github.io/fexl-guide/
+
 theme:
   name: 'material'
   custom_dir: 'theme'
   palette:
     primary: 'Teal'
     accent: 'Teal'
+
 extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
+
+extra:
+  social:
+    - type: discord
+      link: https://discord.gg/Jxs6448
+
+nav:
+  - Home: 'index.md'
+  - Systems:
+    - Mechanics: 'system/system-mechanics.md'
+    - Deck: 'system/deck.md'
+    - Gougi: 'system/gougi.md'
+  - Characters:
+    - Allen Snider: 'characters/allen-snider.md'
+    - Area: 'characters/area.md'
+    - Blair Dame: 'characters/blair-dame.md'
+    - Darun Mister: 'characters/darun-mister.md'
+    - Doctrine Dark: 'characters/doctrine-dark.md'
+    - Garuda: 'characters/garuda.md'
+    - Hayate: 'characters/hayate.md'
+    - Hokuto: 'characters/hokuto.md'
+    - Jack: 'characters/jack.md'
+    - Kairi: 'characters/kairi.md'
+    - Pullum Purna: 'characters/pullum-purna.md'
+    - Sanane: 'characters/sanane.md'
+    - Shadow Geist: 'characters/shadow-geist.md'
+    - Sharon: 'characters/sharon.md'
+    - Shirase: 'characters/shirase.md'
+    - Skullomania: 'characters/skullomania.md'
+    - Terry Bogard: 'characters/terry-bogard.md'
+    - Vulcano Rosso: 'characters/vulcano-rosso.md'

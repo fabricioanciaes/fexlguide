@@ -1,3 +1,9 @@
+---
+title: Pullum Purna
+summary: Brief guide of how to play Pullum Purna
+authors:
+    - lofi1048
+---
 # Pullum Purna
 
 ## Brief Overview

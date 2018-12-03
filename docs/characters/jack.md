@@ -1,3 +1,9 @@
+---
+title: Jack
+summary: Brief guide of how to play Jack
+authors:
+    - lofi1048
+---
 # Jack
 
 ## Brief Overview

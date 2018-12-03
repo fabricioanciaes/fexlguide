@@ -1,3 +1,9 @@
+---
+title: Hokuto
+summary: Brief guide of how to play Hokuto
+authors:
+    - lofi1048
+---
 # Hokuto
 
 ## Brief Overview

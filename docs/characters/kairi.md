@@ -1,3 +1,9 @@
+---
+title: Kairi
+summary: Brief guide of how to play Kairi
+authors:
+    - lofi1048
+---
 # Kairi
 
 ## Brief Overview

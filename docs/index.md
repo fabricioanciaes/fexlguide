@@ -1,4 +1,11 @@
-# About
+---
+title: Home
+summary: About FEXL Guide
+authors:
+    - lofi1048
+---
+
+# FEXL Guide
 
 FEXL Guide is a resource for new players to learn the game.
 

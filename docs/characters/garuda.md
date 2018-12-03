@@ -1,3 +1,9 @@
+---
+title: Garuda
+summary: Brief guide of how to play Garuda
+authors:
+    - lofi1048
+---
 # Garuda
 
 ## Brief Overview

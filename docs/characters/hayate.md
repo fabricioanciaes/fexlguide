@@ -1,3 +1,9 @@
+---
+title: Hayate
+summary: Brief guide of how to play Hayate
+authors:
+    - lofi1048
+---
 # Hayate
 
 ## Brief Overview

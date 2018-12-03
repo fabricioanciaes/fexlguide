@@ -1,3 +1,9 @@
+---
+title: Sharon
+summary: Brief guide of how to play Sharon
+authors:
+    - lofi1048
+---
 # Sharon
 
 ## Brief Overview

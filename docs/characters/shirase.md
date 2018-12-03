@@ -1,3 +1,9 @@
+---
+title: Shirase
+summary: Brief guide of how to play Shirase
+authors:
+    - lofi1048
+---
 # Shirase
 
 ## Brief Overview

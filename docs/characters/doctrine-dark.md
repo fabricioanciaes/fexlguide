@@ -1,3 +1,9 @@
+---
+title: Doctrine Dark
+summary: Brief guide of how to play Doctrine Dark
+authors:
+    - lofi1048
+---
 # Doctrine Dark
 
 ## Brief Overview
