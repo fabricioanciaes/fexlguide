@@ -1,5 +1,5 @@
 ---
-title: Home
+title: FEXL Guide
 summary: About FEXL Guide
 authors:
     - lofi1048
