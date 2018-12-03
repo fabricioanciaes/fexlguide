@@ -1,2 +1,10 @@
 site_name: FEXL Guide
-theme: 'material'
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'Teal'
+    accent: 'Teal'
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css
