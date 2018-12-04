@@ -4,6 +4,7 @@ summary: Brief guide of how to play Allen Snider
 ---
 
 # Allen Snider
+lorem ipsum
 
 ## Brief Overview
 
