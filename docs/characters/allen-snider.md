@@ -2,9 +2,9 @@
 title: Allen Snider
 summary: Brief guide of how to play Allen Snider
 ---
-
 # Allen Snider
-lorem ipsum
+
+lorem ipsum dolor sit amet
 
 ## Brief Overview
 
