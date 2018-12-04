@@ -9,13 +9,13 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "General"
-      label: "General"
-      folder: "docs"
-      create: true
-      slug: "{{slug}}"
-      fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+    label: "General"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
   - name: "Characters"
     label: "Characters"
     folder: "docs/characters"
