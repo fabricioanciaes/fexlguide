@@ -5,10 +5,6 @@ This is the netlify version
 
 ---
 
-# How to contribute
+# How to contribute to the site
 
-Send a pull request with the changes you want to do on a certain page.
-
-### Building the site
-
-The site needs to be built by running `mkdocs gh-deploy` on terminal. I Guess you need permision to do so, just ask me on discord and then I can deploy it.
+Ask for the repository owner to give you an invite through the Netlify CMS
