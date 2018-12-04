@@ -1,0 +1,34 @@
+backend:
+  name: github
+  repo: fabricioanciaes/fexlguide
+  branch: master
+
+public_folder: "site"
+media_folder: "site/images"
+publish_mode: editorial_workflow
+
+collections:
+  - name: "General"
+      label: "General"
+      folder: "docs"
+      create: true
+      slug: "{{slug}}"
+      fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Characters"
+    label: "Characters"
+    folder: "docs/characters"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "system"
+    label: "System"
+    folder: "docs/system"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
