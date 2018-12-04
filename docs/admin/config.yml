@@ -15,7 +15,7 @@ collections:
     slug: "{{slug}}"
     fields:
     - {label: "Title", name: "title", widget: "string"}
-    - {label: "Summary", name: "sumary", widget: "string"}
+    - {label: "Summary", name: "summary", widget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
   - name: "Characters"
     label: "Characters"
@@ -24,7 +24,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Summary", name: "sumary", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "System"
     label: "System"
@@ -33,5 +33,5 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Summary", name: "sumary", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
