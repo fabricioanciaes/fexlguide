@@ -11,6 +11,10 @@ FEXL Guide is a resource for new players to learn the game.
 
 Feel free to contribute by contacting me (@lofi#1048) on the [FEXL Discord](https://discord.gg/Jxs6448)
 
+Or registering in [https://fexl.netlify.com/admin](https://fexl.netlify.com/admin)
+
+The posts are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so take a few minutes to learn it first.
+
 ---
 
 ## Characters
