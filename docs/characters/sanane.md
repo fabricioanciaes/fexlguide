@@ -12,7 +12,14 @@ What archetype does this character fall under? Rushdown, Grappler, Zoner. Is thi
 
 ## Strengths
 
+* Great screen control
+* Easy execution
+* Rekka mixups
+* Nanigata set ups
+
 ## Weaknesses
+
+* Awkward DP
 
 ## Move Analysis
 
