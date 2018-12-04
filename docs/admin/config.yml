@@ -24,7 +24,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "system"
+  - name: "System"
     label: "System"
     folder: "docs/system"
     create: true
