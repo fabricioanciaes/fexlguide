@@ -1,6 +1,8 @@
 # fexl-guide
 Guides and Resources for Fighting EX Layer Players
 
+This is the netlify version
+
 ---
 
 # How to contribute
