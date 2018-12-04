@@ -1,8 +1,6 @@
 ---
 title: FEXL Guide
 summary: About FEXL Guide
-authors:
-    - lofi1048
 ---
 
 ![Fighting EX Layer](images/misc/fexl.png)

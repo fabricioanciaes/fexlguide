@@ -1,8 +1,7 @@
 ---
 title: Gougi
 summary: Brief overview of how Gougis works
-authors:
-    - lofi1048
+
 ---
 # Gougi
 

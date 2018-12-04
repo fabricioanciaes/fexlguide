@@ -1,8 +1,6 @@
 ---
 title: Vulcano Rosso
 summary: Brief guide of how to play Vulcano Rosso
-authors:
-    - lofi1048
 ---
 # Vulcano Rosso
 

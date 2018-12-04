@@ -1,8 +1,6 @@
 ---
 title: Shadow Geist
 summary: Brief guide of how to play Shadow Geist
-authors:
-    - lofi1048
 ---
 # Shadow Geist
 

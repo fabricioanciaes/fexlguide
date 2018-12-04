@@ -1,8 +1,6 @@
 ---
 title: Blair Dame
 summary: Brief guide of how to play Blair Dame
-authors:
-    - lofi1048
 ---
 # Blair Dame
 

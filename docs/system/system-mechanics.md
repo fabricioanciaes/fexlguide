@@ -1,8 +1,6 @@
 ---
 title: System Mechanics
 summary: Brief overview of the System Mechanics
-authors:
-    - lofi1048
 ---
 # System Mechanics
 

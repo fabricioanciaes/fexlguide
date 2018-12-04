@@ -1,8 +1,6 @@
 ---
 title: Terry Bogard
 summary: Brief guide of how to play Terry Bogard
-authors:
-    - lofi1048
 ---
 # Terry Bogard
 

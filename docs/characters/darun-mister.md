@@ -1,8 +1,6 @@
 ---
 title: Darun Mister
 summary: Brief guide of how to play Darun Mister
-authors:
-    - lofi1048
 ---
 # Darun Mister
 

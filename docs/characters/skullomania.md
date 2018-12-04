@@ -1,8 +1,6 @@
 ---
 title: Skullomania
 summary: Brief guide of how to play Skullomania
-authors:
-    - lofi1048
 ---
 # Skullomania
 

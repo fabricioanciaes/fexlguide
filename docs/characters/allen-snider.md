@@ -1,8 +1,6 @@
 ---
 title: Allen Snider
 summary: Brief guide of how to play Allen Snider
-authors:
-    - lofi1048
 ---
 
 # Allen Snider

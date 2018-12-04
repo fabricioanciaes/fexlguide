@@ -1,8 +1,6 @@
 ---
 title: Sanane
 summary: Brief guide of how to play Sanane
-authors:
-    - lofi1048
 ---
 # Sanane
 

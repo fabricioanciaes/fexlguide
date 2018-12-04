@@ -1,8 +1,6 @@
 ---
 title: Deck
 summary: Brief overview of how Decks works
-authors:
-    - lofi1048
 ---
 
 # Deck
