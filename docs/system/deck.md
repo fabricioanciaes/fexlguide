@@ -2,7 +2,7 @@
 title: Deck
 summary: Brief overview of how Decks works
 ---
-![teste](/docs/images/unnamed.png)
+![teste](images/unnamed.png)
 
 # Deck
 
