@@ -3,7 +3,7 @@ backend:
   repo: fabricioanciaes/fexlguide
   branch: master
 
-media_folder: "docs/images"
+media_folder: "/docs/images"
 publish_mode: editorial_workflow
 
 collections:
