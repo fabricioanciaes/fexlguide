@@ -4,7 +4,7 @@ summary: Brief guide of how to play Area
 ---
 
 # Area
-test
+test a
 
 ## Brief Overview
 
