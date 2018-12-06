@@ -1,5 +1,5 @@
 ---
-title: FEXL Guide
+title: FEXL Guide!
 summary: About FEXL Guide
 ---
 
