@@ -4,7 +4,7 @@ summary: Brief guide of how to play Allen Snider
 ---
 # Allen Snider
 
-lorem ipsum dolor sit amet
+lorem ipsum dolor sit amet test
 
 ## Brief Overview
 
