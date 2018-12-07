@@ -2,12 +2,32 @@
 title: Jack
 summary: Brief guide of how to play Jack
 ---
-
+![Jack](images/characters/portraits/Jack.png)
 ## Brief Overview
-## Type of Character
-What archetype does this character fall under? Rushdown, Grappler, Zoner. Is this character defensive, or offensive? Are they Footsie or Counter Poke Heavy? 
+
+### Type of Character
+Jack is a boxer style character with charge moves, similar to Balrog in the Street Fighter Series. He has command grabs (both a 360 and a super).
+
+### Recommended Decks
+
+- Infinity: 
+   - Having more meter means leads to higher damage combos
+   - Guard Cancel complements his defense as he doesn't have a good reversal (is this true?)
+   - Guard Cancel -> Raging Buffalo is really strong
+
+- Aggro:
+   - 少しクセがあるがジャックの持つ火力を更に高める事が出来る。ランページ30の状態からのループコンボはラウンドの決定打になるほどの火力になる。(help translating)
+
 ## Strengths
+- Seen as one of the best characters in the game
+- Hits really hard, does a lot of damage. Highest practical damage in the game.
+- Has a nice Anti-Air (2HP)
+- Great pokes
+
 ## Weaknesses
+- Very execution intensive character
+- May require you to learn character specific combos
+
 ## Move Analysis
 ### Normal Moves
 
@@ -15,9 +35,9 @@ What archetype does this character fall under? Rushdown, Grappler, Zoner. Is thi
 <tr>
     <th>Move</th>
     <th>Description</th>
-    <th>S</th>
-    <th>S.blk</th>
-    <th>C.blk</th>
+    <th>Startup</th>
+    <th>S.blo</th>
+    <th>C.blo</th>
 </tr>
 <tr>
     <td><b>5LP</b></td>
