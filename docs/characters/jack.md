@@ -8,30 +8,24 @@ summary: Brief guide of how to play Jack
 ## Brief Overview
 ### Type of Character
 Jack is a boxer style character with charge moves, similar to Balrog in the Street Fighter Series. He has command grabs (both a 360 and a super).
+
+!!! success "Strengths"
+    - Seen as one of the best characters in the game
+    - Hits really hard, does a lot of damage. Highest practical damage in the game.
+    - Has a nice Anti-Air `2HP`
+    - Great pokes
+
+!!! danger "Weaknesses"
+    - Very execution intensive character
+    - May require you to learn character specific combos
+
 ### Recommended Decks
 - **Infinity:**
     - Having more meter means leads to higher damage combos
-    - Guard Cancel complements his defense as he doesn't have a good reversal (is this true?)
-    - Guard Cancel -> Raging Buffalo is really strong
+    - `Guard Cancel` complements his defense as he doesn't have a good reversal (is this true?)
+    - `Guard Cancel -> Raging Buffalo` is really strong
 - **Aggro:**
     - 少しクセがあるがジャックの持つ火力を更に高める事が出来る。ランページ30の状態からのループコンボはラウンドの決定打になるほどの火力になる。(help translating)
-
-### Strengths
-- Seen as one of the best characters in the game
-- Hits really hard, does a lot of damage. Highest practical damage in the game.
-- Has a nice Anti-Air (2HP)
-- Great pokes
-
-??? success "Strengths"
-- Seen as one of the best characters in the game
-- Hits really hard, does a lot of damage. Highest practical damage in the game.
-- Has a nice Anti-Air (2HP)
-- Great pokes
-
-
-### Weaknesses
-- Very execution intensive character
-- May require you to learn character specific combos
 
 ---
 
@@ -47,7 +41,7 @@ Jack is a boxer style character with charge moves, similar to Balrog in the Stre
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>5LP</b></td>
+    <td><b>`5LP</b></td>
     <td>4F Startup, Mainly used to mash out of strings</td>
     <td>4</td>
     <td>-5</td>

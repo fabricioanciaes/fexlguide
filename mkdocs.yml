@@ -2,7 +2,7 @@
 site_name: FEXL Guide
 site_description: Fighting EX Layer resources and guides
 site_author: FEXL Discord
-site_url: https://fabricioanciaes.github.io/fexl-guide/
+site_url: https://fexl.netlify.com
 
 # Change this to your discord invite link
 repo_name: Join the FEXL Discord
@@ -24,6 +24,25 @@ extra:
   social:
     - type: discord
       link: https://discord.gg/Jxs6448
+
+markdown_extensions:
+  - admonition
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 nav:
   - Home: 'index.md'
