@@ -2,7 +2,7 @@
 title: Jack
 summary: Brief guide of how to play Jack
 ---
-![Jack](images/characters/portraits/Jack.png)
+![Jack](/images/characters/portraits/Jack.png)
 ## Brief Overview
 
 ### Type of Character
