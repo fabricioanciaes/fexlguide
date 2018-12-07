@@ -15,9 +15,9 @@ What archetype does this character fall under? Rushdown, Grappler, Zoner. Is thi
 <tr>
     <th>Move</th>
     <th>Description</th>
-    <th>Startup</th>
-    <th>S.blo</th>
-    <th>C.blo</th>
+    <th>S</th>
+    <th>S.blk</th>
+    <th>C.blk</th>
 </tr>
 <tr>
     <td><b>5LP</b></td>
