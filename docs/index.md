@@ -15,6 +15,8 @@ Or registering in [https://fexl.netlify.com/admin](https://fexl.netlify.com/admi
 
 The posts are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so take a few minutes to learn it first.
 
+Please, use the Numpad notation while contributing to the guide.
+
 ---
 
 ## Credit
