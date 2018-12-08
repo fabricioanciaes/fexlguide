@@ -46,126 +46,126 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 <tr>
     <td><b>5LP</b></td>
     <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>4</td>
+    <td>-5</td>
+    <td>-1</td>
 </tr>
 <tr>
     <td><b>5MP</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>6</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>5HP</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>13</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>5LK</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>5</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>5MK</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>7</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>5HK</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>8</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>2LP</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>5</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>2MP</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>6</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>2HP</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>8</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>2LK</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>5</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>2MK</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>6</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>2HK</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>7</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>j.LP</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>4</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>j.MP</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>5</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>j.HP</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>5</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>j.LK</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>5</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>j.MK</b></td>
     <td>Description</td>
-    <td>?</td>
+    <td>4</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>j.HK</b></td>
     <<td>Description</td>
-    <td>?</td>
+    <td>8</td>
     <td>?</td>
     <td>?</td>
 </tr>
