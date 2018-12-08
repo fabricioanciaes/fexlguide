@@ -41,7 +41,7 @@ Jack is a boxer style character with charge moves, similar to Balrog in the Stre
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>`5LP</b></td>
+    <td><b>5LP</b></td>
     <td>4F Startup, Mainly used to mash out of strings</td>
     <td>4</td>
     <td>-5</td>

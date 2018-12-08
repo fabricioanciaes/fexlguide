@@ -135,3 +135,38 @@ article preview text color
 .md-nav__link[data-md-state="blur"] {
   color: rgba(255, 255, 255, 0.45)
 }
+
+/* 
+Less padding to the tables
+*/
+
+.md-typeset table:not([class]) th {padding:0.85rem}
+.md-typeset table:not([class]) td {padding:0.85rem}
+
+/*
+Remove min width for the table cells (Helps with framedata tables)
+*/
+
+.md-typeset table:not([class]) th {min-width:0;}
+
+/*
+Zebra tables: Helps readability
+*/
+
+tr:nth-child(even) {
+  background-color:rgba(0,0,0,0.15);
+}
+
+/* 
+Widen out the md-content area and fix sidebar
+*/
+
+.md-grid {
+  max-width:100%;
+}
+
+@media only screen and (min-width: 76.25em){
+  .md-sidebar--secondary {
+    margin-left: 100vw;
+  }
+}
