@@ -239,9 +239,9 @@ Does slightly more damage than normal grab, but is mainly useful for being untec
 <tr>
     <td><b>Fire Force (236236P)</b></td>
     <td>A super version of Soul Force with 5 hits., deals somewhat low damage but is a much safer cancel than Triple Break and can even cancel into Triple Break. Decent chip option as well. Fairly fast, can potentially be used to beat out other projectiles in a fireball war. </td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
 </tr>
 <tr>
     <td><b>Triple Break (236236K)</b></td>
@@ -250,9 +250,9 @@ Does slightly more damage than normal grab, but is mainly useful for being untec
 It's not difficult to learn practical combos that can lead to using all 3 bars of super on Triple Break. The speed and hitbox of Triple Break also allows for some cheeky conversions, making Allen incredibly explosive.
 
 A sample combo may be 2LK 2MK 6MK Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon. </td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
 </tr>
 
 </table>
