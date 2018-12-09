@@ -167,6 +167,20 @@ tr:nth-child(even) {
 }
 
 /* 
+Borders between cells
+*/
+td {
+  border-right:1px dashed rgba(0,0,0,0.2);
+}
+th {
+  border-right:1px dashed rgba(0,0,0,0.8);
+}
+
+td:last-child, th:last-child{
+  border-right: none;
+}
+
+/* 
 Widen out the md-content area and fix sidebar
 */
 

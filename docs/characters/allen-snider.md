@@ -8,30 +8,12 @@ summary: Brief guide of how to play Allen Snider
 ### Type of Character
 Allen is a shotokan style character with a bit of a twist. His solid fireball and Dragon Punch (well, Rising Dragon) and generally good normals are supplemented with relatively easy and damaging loops using his Triple Break super to launch the opponent over and over as long as he has the meter. His command grab and Justice Fist, a super cancellable and high damaging move that's otherwise negative on hit(!) rounds him out and in general is a incredibly solid and accessible character. 
 
-### 5 Minute Guide
-
-(if you don't know what the abbreviations mean, check the notation guide below.)
-
-Take Infinity as your deck, lets you gain 130% meter almost immediately, after doing 10 supers you get a rapidly regenerating super bar
-
-2LK, 2MP, 2MK, 5LK, 5MK are all good buttons to poke with. 236P is a nice fireball.
-
-If someone is jumping in on you, either do 5HK or 623P. You can do 623P as you're getting up if someone is trying to hit you, you'll get combo'd for free if it's blocked.
-
-For combos, start off with light kicks or punches, move up to medium kicks or punches and then to hard kicks or punches. Easiest one is 2LK > 2MK > 2HK.
-
-If your combo lands, as long as you haven't done 2HK yet you can do 6MK and then immediately do 236236P to get a fireball super. This'll deal about 20% of their health in damage.
-
-If you do 236236K instead of 236236P in combos, you can catch the opponent on the way down with 421K and immediately do 236236K again. You can do this over and over as long as you have the meter. When you've done your last 236236K do 623P instead of 421K so that they can't hit you while Allen keeps posing.
-
-
-
 
 !!! success "Strengths"
-    - His projectile (Soul Force, 236P) and dragon punch (Rising Dragon, 623P) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
+    - His projectile (Soul Force, `236P`) and dragon punch (Rising Dragon, `623P`) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
     - Decent chip options with both Soul Force and Fire Force without having to use Gougi such as Berserker
     - Can consistently turn confirms into high damage with Triple Break loops, allowing him to easily cash out damage from his meter.
-    - Has both a dragon punch and his 5HK for anti airing
+    - Has both a dragon punch and his `5HK` for anti airing
     - Decent normals in general
     - His fireball game allows him to generate meter in the neutral very well.
 
@@ -40,6 +22,22 @@ If you do 236236K instead of 236236P in combos, you can catch the opponent on th
     - Somewhat low damage without meter
     - Has a few underwhelming normals (mainly his heavy punches)
     - Many of his damaging options are unsafe and often fully punishable if they don't hit or are blocked.
+
+### 5 Minute Guide
+
+(if you don't know what the abbreviations mean, check the [notation](#notation) guide below.)
+
+Take Infinity as your deck, lets you gain 130% meter almost immediately, after doing 10 supers you get a rapidly regenerating super bar
+
+`2LK`, `2MP`, `2MK`, `5LK`, `5MK` are all good buttons to poke with. `236P` is a nice fireball.
+
+If someone is jumping in on you, either do `5HK` or `623P`. You can do `623P` as you're getting up if someone is trying to hit you, you'll get combo'd for free if it's blocked.
+
+For combos, start off with light kicks or punches, move up to medium kicks or punches and then to hard kicks or punches. Easiest one is `2LK > 2MK > 2HK`.
+
+If your combo lands, as long as you haven't done `2HK` yet you can do `6MK` and then immediately do `236236P` to get a fireball super. This'll deal about 20% of their health in damage.
+
+If you do `236236K` instead of `236236P` in combos, you can catch the opponent on the way down with `421K` and immediately do `236236K` again. You can do this over and over as long as you have the meter. When you've done your last `236236K` do `623P` instead of `421K` so that they can't hit you while Allen keeps posing.
 
 
 
@@ -59,23 +57,44 @@ If you do 236236K instead of 236236P in combos, you can catch the opponent on th
 
 This guide uses Numpad notation. That means that directions correspond to the numbers on your keyboard numpad (ie. 6 is right, 4 is left, 8 s up, 2 is down). 5 means no direction held. For example, the classic Hadoken quartercircle motion would look like 236, the classic Tatsumaki/Hurricane Kick motion is 214 and the classic Shoryuken motion is 623.
 
-LK = Light Kick
-
-MK = Medium Kick
-
-HK = Heavy Kick
-
-LP = Light Punch
-
-MP = Medium Punch
-
-HP = Heavy Punch
-
-MP + MK = Press both MP and MK at the same time.
+<table>
+<tr>
+    <th>Notation</th>
+    <th>Meaning</th>
+</tr>
+<tr>
+    <td>LP</td>
+    <td>Light Punch</td>
+</tr>
+<tr>
+    <td>MP</td>
+    <td>Medium Punch</td>
+</tr>
+<tr>
+    <td>HP</td>
+    <td>Heavy Punch</td>
+</tr>
+<tr>
+    <td>LK</td>
+    <td>Light Kick</td>
+</tr>
+<tr>
+    <td>MK</td>
+    <td>Medium Kick</td>
+</tr>
+<tr>
+    <td>HK</td>
+    <td>Heavy Kick</td>
+</tr>
+<tr>
+    <td>MP+MK</td>
+    <td>Press both MP and MK at the same time.</td>
+</tr>
+</table>
 
 For special moves, the first input is the classic input, the second is the progressive input.
 
-Cancel means you can do something else as soon as your first move hits IE. 2MK on hit can go straight into a special move if you input the special move as 2MK would hit. Special Cancel means you can cancel into Special Moves and Super Cancel means you can cancel into Super Moves.
+Cancel means you can do something else as soon as your first move hits IE. `2MK` on hit can go straight into a special move if you input the special move as `2MK` would hit. Special Cancel means you can cancel into Special Moves and Super Cancel means you can cancel into Super Moves.
 
 Link means you have to let the move finish first before you can do another move.
 
@@ -83,7 +102,7 @@ Lows are moves that have to be blocked crouching. Most crouching kicks hit low.
 
 Mids are moves that can blocked either crouching or standing. Almost all standing moves, special moves, supers and crouching punches hit mid.
 
-Highs/overheads are moves that must be blocked standing. Most jumping attacks and all Hard Attacks (MP + MK) hit high/overhead.
+Highs/overheads are moves that must be blocked standing. Most jumping attacks and all Hard Attacks (`MP + MK`) hit high/overhead.
 
 Startup means how long it takes for the move to actually hit.
 
@@ -347,16 +366,16 @@ A sample beginner combo may be 2LK 2MK 6MK Triple Break > Justice Fist > Triple 
 ## Gameplan
 ### Neutral
 
-Allen has a selection of decent pokes, with his 5 LK, 5MK, 2MP and 2MK being the most useful. These buttons also can easily combo into 2HK or even 6MK into Triple Break or Fire Force, allowing him to cash out damage from his far reaching normals. 2HK by itself is great for its knockdown but is very bad to whiff given its long recovery.
+Allen has a selection of decent pokes, with his `5LK`, `5MK`, `2MP` and `2MK` being the most useful. These buttons also can easily combo into `2HK` or even `6MK` into Triple Break or Fire Force, allowing him to cash out damage from his far reaching normals. `2HK` by itself is great for its knockdown but is very bad to whiff given its long recovery.
 
-Allen also has a very solid fireball game allowing him to chip the opponent out and zone them. If they attempt to get around it with jumping, his Rising Dragon and 5HK allow him to knock the opponent out of the sky. His LP soul force in particular allows him to both control space and even let him run in very safely.
+Allen also has a very solid fireball game allowing him to chip the opponent out and zone them. If they attempt to get around it with jumping, his Rising Dragon and `5HK` allow him to knock the opponent out of the sky. His LP soul force in particular allows him to both control space and even let him run in very safely.
 
 Allen's fast walk speed and run speed allows him to quickly get ground on the opponent and lets him get his pokes into range.
 
 ### Offense
 ### Mix-Ups
 
-Allen doesn't have overhead normals or specials apart from MP+MK, so Allen relies on frame traps and tick throws along with his command grab to open a turtling opponent. His solid crossup kick also lets him get some left-right mixup on opponents recovering from a knockdown. Allen's solid chip options also means that it is no big loss for his strings to be blocked.
+Allen doesn't have overhead normals or specials apart from `MP+MK`, so Allen relies on frame traps and tick throws along with his command grab to open a turtling opponent. His solid crossup kick also lets him get some left-right mixup on opponents recovering from a knockdown. Allen's solid chip options also means that it is no big loss for his strings to be blocked.
 
 ### Set-Ups
 
@@ -365,12 +384,15 @@ Allen doesn't have overhead normals or specials apart from MP+MK, so Allen relie
 
 ### Frame-Traps
 
-!!!
- quote "Any Delayed Chain"
-As there is always a big window for you to chain one move to a higher strength, essentially any button can become a frame trap by simply delaying the next button just enough to allow a gap for an opponent to press a button that'll then get hit by your delayed button before their move can start up. The easiest way of practicing this by setting the training dummy to "After First Hit" and Guard All (Standing) or Guard All (Crouching), and setting either 5LP or 2LP in a slot for "Recording Settings (After Guard). The dummy will try to jab their way out of any gaps and if you've delayed correctly, you'll hit the dummy out of the startup of their jab. 2MP or 2MK are great normals to try and frame trap from.
+!!! quote "Any Delayed Chain"
+    As there is always a big window for you to chain one move to a higher strength, essentially any button can become a frame trap by simply delaying the next button just enough to allow a gap for an opponent to press a button that'll then get hit by your delayed button before their move can start up.
+    
+    The easiest way of practicing this by setting the training dummy to "After First Hit" and Guard All (Standing) or Guard All (Crouching), and setting either `5LP` or `2LP` in a slot for "Recording Settings (After Guard).
+    
+    The dummy will try to jab their way out of any gaps and if you've delayed correctly, you'll hit the dummy out of the startup of their jab. `2MP` or `2MK` are great normals to try and frame trap from.
 
 !!! quote "2MK/2MP > Soul Force"
-    Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start Triple Break loops. 5HP works as well, sadly 5HP still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
+    Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start Triple Break loops. `5HP` works as well, sadly `5HP` still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
 
 
 
@@ -390,11 +412,11 @@ The netplay classic DP lives on in Rising Dragon and it's usually just as bad of
 ## Character Specific Techniques
 ## Combos
 
-As per all characters, Allen can chain from a normal to a higher strength normal, either punch or kick. Chains work off cancels, meaning that the button doesn't have to finish its animation and can go immediately to the next normal. When links are mentioned, that means the normal HAS to finish and then you can get the next normal to come out. These tend to be harder. His 6MK chains from every other normal.
+As per all characters, Allen can chain from a normal to a higher strength normal, either punch or kick. Chains work off cancels, meaning that the button doesn't have to finish its animation and can go immediately to the next normal. When links are mentioned, that means the normal HAS to finish and then you can get the next normal to come out. These tend to be harder. His `6MK` chains from every other normal.
 
 ### Bread And Butter Combos
 
-(Note: Almost all of these strings will work from a j.MK jumpin starter too.)
+(Note: Almost all of these strings will work from a `j.MK` jumpin starter too.)
 
 #### Universal Strings
 
@@ -404,7 +426,7 @@ As per all characters, Allen can chain from a normal to a higher strength normal
 !!! quote "2/5LK > 2/5MK > (5HK) > 6MK > (Triple Break Loop/ Fire Force)"
     A slightly more risky string as 6MK is poor on block. If the opponent is definitely standing, feel free to put the 5HK in for the extra damage.
     
-    If the 6MK connects, rev up your Triple Break loop.
+    If the `6MK` connects, rev up your Triple Break loop.
 
 !!! quote "Whatever > Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
     A nice and beginner friendly loop. While the individual parts are dangerous to drop, it is fairly easy to pull off regardless.
@@ -414,20 +436,20 @@ As per all characters, Allen can chain from a normal to a higher strength normal
 #### Dash-In combos
 
 !!! quote "2MP > 2MP > 2MK > Soul Force/6MK > (Triple Break Loop/ Fire Force)"
-    The momentum from your dash allows you to link (Not chain, so timing is a lot more strict) a second 2MP which can then link into 2MK.
+    The momentum from your dash allows you to link (Not chain, so timing is a lot more strict) a second `2MP` which can then link into `2MK`.
     
-    This is definitely more difficular than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Mix it up with cancelling your 2MPs into Soul Force to frame trap them.
+    This is definitely more difficular than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Mix it up with cancelling your `2MP`s into Soul Force to frame trap them.
     
     A very respectable punish combo against very unsafe moves like Rising Dragons or many blocked supers.
 
 ### Hit-Confirms
 
 !!! quote "2LK> 2MK > 6MK > Whatever"
-    If 6MK will be blocked, it's better to go into Soul Force or 2HK instead.
+    If `6MK` will be blocked, it's better to go into Soul Force or `2HK` instead.
 
 !!! quote "Whatever > Soul Force"
     Soul Force is both a decent blockstring ender and can go into both Fire Force or Triple Break, making it a no-brainer to cancel into from a chain of normals for the most part.
- Soul Force becomes way more unsafe in the corner however
+    Soul Force becomes way more unsafe in the corner however
 
 ### Anti-Air Conversions
 
@@ -448,12 +470,10 @@ As per all characters, Allen can chain from a normal to a higher strength normal
     As a rule, if you hit them as you're on your way up your jump, you'll probably not land in time for the Triple Break.
 
 !!! quote "j.MK/HK > 5HK"
-
-5HK will fairly often catch the opponent similarly to Triple Break but way less dangerous if it misses.
+    5HK will fairly often catch the opponent similarly to Triple Break but way less dangerous if it misses.
 
 !!! quote "j.MK/HK > Justice Fist > Triple Break"
-
-Despite how dangerous the Justice Fist is to whiff, it actually works fairly reliably. The HP version of Justice Fist can often go under people and whiff, definitely practice this in training on a jumping opponent to get a feel for it. If you can land this, you can do 50% damage very easily off a basic full Triple Break Loop
+    Despite how dangerous the Justice Fist is to whiff, it actually works fairly reliably. The HP version of Justice Fist can often go under people and whiff, definitely practice this in training on a jumping opponent to get a feel for it. If you can land this, you can do 50% damage very easily off a basic full Triple Break Loop
 
 ### Triple Break Loops
 
@@ -461,9 +481,9 @@ Despite how dangerous the Justice Fist is to whiff, it actually works fairly rel
     As mentioned early, this is the basic Triple Break loop. Will work anywhere on the screen and deal roughly 40% damage.
 
 !!! quote "Whatever > Triple Break > 2MP > 5MK > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
-
-A slightly more optimal loop, corner only as 5MK will fall out midscreen. Sneaks in a bit more damage and also builds you more meter. Another corner variant is to do 5MP > 5HP > Justice Fist. Any of these extensions only work after the first Triple Break, just stick to Justice Fist after the 2nd or third Triple Breaks.
+    A slightly more optimal loop, corner only as 5MK will fall out midscreen. Sneaks in a bit more damage and also builds you more meter. Another corner variant is to do `5MP > 5HP > Justice Fist`.
+    
+    Any of these extensions only work after the first Triple Break, just stick to Justice Fist after the 2nd or third Triple Breaks.
 
 !!! quote "Whatever > Triple Break > 5HP > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
-
-Similar to the previous loop, but works midscreen.
+    Similar to the previous loop, but works midscreen.
