@@ -28,9 +28,7 @@ If you do 236236K instead of 236236P in combos, you can catch the opponent on th
 
 
 !!! success "Strengths"
-
-    - His projectile (Soul Force, 236P) and dragon punch (Rising Dragon, 623P) allows  for solid "Super Turbo" style play
- by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
+    - His projectile (Soul Force, 236P) and dragon punch (Rising Dragon, 623P) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
     - Decent chip options with both Soul Force and Fire Force without having to use Gougi such as Berserker
     - Can consistently turn confirms into high damage with Triple Break loops, allowing him to easily cash out damage from his meter.
     - Has both a dragon punch and his 5HK for anti airing
