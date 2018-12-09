@@ -28,16 +28,13 @@ If you do 236236K instead of 236236P in combos, you can catch the opponent on th
 
 
 !!! success "Strengths"
-    - His projectile (Soul Force, 236P) and dragon punch (Rising Dragon, 623P) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
 
+    - His projectile (Soul Force, 236P) and dragon punch (Rising Dragon, 623P) allows  for solid "Super Turbo" style play
+ by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
     - Decent chip options with both Soul Force and Fire Force without having to use Gougi such as Berserker
-
     - Can consistently turn confirms into high damage with Triple Break loops, allowing him to easily cash out damage from his meter.
-
     - Has both a dragon punch and his 5HK for anti airing
-
     - Decent normals in general
-
     - His fireball game allows him to generate meter in the neutral very well.
 
 
@@ -370,7 +367,8 @@ Allen doesn't have overhead normals or specials apart from MP+MK, so Allen relie
 
 ### Frame-Traps
 
-!!! quote "Any Delayed Chain"
+!!!
+ quote "Any Delayed Chain"
 As there is always a big window for you to chain one move to a higher strength, essentially any button can become a frame trap by simply delaying the next button just enough to allow a gap for an opponent to press a button that'll then get hit by your delayed button before their move can start up. The easiest way of practicing this by setting the training dummy to "After First Hit" and Guard All (Standing) or Guard All (Crouching), and setting either 5LP or 2LP in a slot for "Recording Settings (After Guard). The dummy will try to jab their way out of any gaps and if you've delayed correctly, you'll hit the dummy out of the startup of their jab. 2MP or 2MK are great normals to try and frame trap from.
 
 !!! quote "2MK/2MP > Soul Force"
@@ -430,7 +428,8 @@ As per all characters, Allen can chain from a normal to a higher strength normal
     If 6MK will be blocked, it's better to go into Soul Force or 2HK instead.
 
 !!! quote "Whatever > Soul Force"
-    Soul Force is both a decent blockstring ender and can go into both Fire Force or Triple Break, making it a no-brainer to cancel into from a chain of normals for the most part. Soul Force becomes way more unsafe in the corner however
+    Soul Force is both a decent blockstring ender and can go into both Fire Force or Triple Break, making it a no-brainer to cancel into from a chain of normals for the most part.
+ Soul Force becomes way more unsafe in the corner however
 
 ### Anti-Air Conversions
 
