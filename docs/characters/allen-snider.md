@@ -205,7 +205,7 @@ C.blo is similar but when the opponent crouch blocks instead.
     </tr>
     <tr>
         <td><b>j.LK</b></td>
-        <td>Description</td>
+        <td>A downward kick, just use j.MK instead.</td>
         <td>5</td>
         <td>5</td>
         <td>Hits Overhead</td>
