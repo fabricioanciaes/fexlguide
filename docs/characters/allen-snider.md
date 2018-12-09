@@ -72,6 +72,8 @@ HP = Heavy Punch
 
 MP + MK = Press both MP and MK at the same time.
 
+For special moves, the first input is the classic input, the second is the progressive input.
+
 Cancel means you can do something else as soon as your first move hits IE. 2MK on hit can go straight into a special move if you input the special move as 2MK would hit. Special Cancel means you can cancel into Special Moves and Super Cancel means you can cancel into Super Moves.
 
 Link means you have to let the move finish first before you can do another move.
@@ -262,7 +264,7 @@ C.blo is similar but when the opponent crouch blocks instead.
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>Soul Force (236P)</b></td>
+    <td><b>Soul Force (236P/6P)</b></td>
     <td>A regular fireball that travels the length of the screen, the strength of the punch controls the speed of the fireball. 
 
 Super cancels which allows for confirms into Fire Force or even start a Triple Break loop. 
@@ -273,7 +275,7 @@ Generally safe at long ranges but be wary of using it in blockstrings, as upclos
     <td>13/-14/-11</td>
 </tr>
 <tr>
-    <td><b>Rising Dragon (623P)</b></td>
+    <td><b>Rising Dragon (623P/3P)</b></td>
     <td>A rising uppercut that is invulnerable on startup, making it an excellent anti-air and reversal. Massively unsafe on block however with each strength getting progressively worse.
 
 The strength of the button determines the height and number of hits of Rising Dragon.
@@ -284,7 +286,7 @@ Super cancels, Fire force making it less unsafe and Triple Break potentially sta
     <td>5/-35/-33</td>
 </tr>
 <tr>
-    <td><b>Justice Fist (421P)</b></td>
+    <td><b>Justice Fist (421P/4P)</b></td>
     <td>An advanced outstretching lunge which deals great damage but is unsafe on hit, never mind on block. 
 
 Very importantly, it super cancels which makes it excellent as combo filler for Triple Break loops.
@@ -297,7 +299,7 @@ While it does destroy fireballs, it should only be used in combos since it's way
     <td>15/-87/-83</td>
 </tr>
 <tr>
-    <td><b>Vaulting Kick (63214K)</b></td>
+    <td><b>Vaulting Kick (63214K/8K)</b></td>
     <td>An command grab that knocks the opponent to the opposite side of the screen. No difference in button versions.
 
 Does slightly more damage than normal grab, but is mainly useful for being untechable.</td>
@@ -318,14 +320,14 @@ Quick note, in startup framedata (eg. x + y), x means the startup until Super Fr
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>Fire Force (236236P)</b></td>
+    <td><b>Fire Force (236236P/46P)</b></td>
     <td>A super version of Soul Force with 5 hits., deals somewhat low damage but is a much safer cancel than Triple Break and can even cancel into Triple Break. Decent chip option as well. Fairly fast, can potentially be used to beat out other projectiles in a fireball war. Similarly to Soul Force, it becomes much more unsafe in the corner as it relies on pushback to keep you safe. </td>
     <td>4 + 4</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
-    <td><b>Triple Break (236236K)</b></td>
+    <td><b>Triple Break (236236K/46K)</b></td>
     <td>A triple kick which send the opponent flying up into the air. Low damage but makes it incredibly easy to get juggle combos which can lead into Triple Break again. 
 
 It's not difficult to learn practical combos that can lead to using all 3 bars of super on Triple Break. The speed and hitbox of Triple Break also allows for some cheeky conversions, making Allen incredibly explosive.
