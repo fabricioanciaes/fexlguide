@@ -12,7 +12,7 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 !!! success "Strengths"
     - His projectile (Soul Force, `236P`) and dragon punch (Rising Dragon, `623P`) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
     - Decent chip options with both Soul Force and Fire Force without having to use Gougi such as Berserker
-    - Can consistently turn confirms into high damage with Triple Break loops, allowing him to easily cash out damage from his meter.
+    - Can consistently turn confirms into high damage with [Triple Break Loop](#triplebreakloops)s, allowing him to easily cash out damage from his meter.
     - Has both a dragon punch and his `5HK` for anti airing
     - Decent normals in general
     - His fireball game allows him to generate meter in the neutral very well.
@@ -46,7 +46,8 @@ If you do `236236K` instead of `236236P` in combos, you can catch the opponent o
 !!! tip "Infinity"
     - Allen really wants meter for his damage, which Infinity provides almost immediately with its 3 Meter Ups
     - Guard Cancel is generally solid anyway, but Allen has both a strong combo starter with Justice Fist and a reversal with Rising Dragon to punish people's blockstrings and pressure
-    - Rage is a very nice bonus, allowing Allen to consistently get full Triple Break Loops in the later rounds.
+    - Rage is a very nice bonus, allowing Allen to consistently get full 
+[Triple Break Loop](#triplebreakloops)s in the later rounds.
 
 
 ---
@@ -157,7 +158,7 @@ C.blo is similar but when the opponent crouch blocks instead.
     </tr>
     <tr>
         <td><b>5HK</b></td>
-        <td>Allen's dedicated anti-air button. This one works better for catching people jumping in far away, as its angle is pretty poor for people jumping right on top of you. Super cancellable, so is a decent way of starting Triple Break loops. Whiffs on crouchers. Super Cancels.</td>
+        <td>Allen's dedicated anti-air button. This one works better for catching people jumping in far away, as its angle is pretty poor for people jumping right on top of you. Super cancellable, so is a decent way of starting [Triple Break Loop](#triplebreakloops)s. Whiffs on crouchers. Super Cancels.</td>
         <td>8</td>
         <td>-3</td>
         <td>-1</td>
@@ -287,7 +288,7 @@ C.blo is similar but when the opponent crouch blocks instead.
     <td><b>Soul Force (236P/6P)</b></td>
     <td>A regular fireball that travels the length of the screen, the strength of the punch controls the speed of the fireball. 
 
-Super cancels which allows for confirms into Fire Force or even start a Triple Break loop. 
+Super cancels which allows for confirms into Fire Force or even start a [Triple Break Loop](#triplebreakloops). 
 
 Generally safe at long ranges but be wary of using it in blockstrings, as upclose it is outright punishable on block. Soul Force has decent pushback midscreen but will not pushback in the corner. </td>
     <td>13/-14/-11</td>
@@ -309,7 +310,7 @@ Super cancels, Fire force making it less unsafe and Triple Break potentially sta
     <td><b>Justice Fist (421P/4P)</b></td>
     <td>An advanced outstretching lunge which deals great damage but is unsafe on hit, never mind on block. 
 
-Very importantly, it super cancels which makes it excellent as combo filler for Triple Break loops.
+Very importantly, it super cancels which makes it excellent as combo filler for [Triple Break Loop](#triplebreakloops)s.
 
 The strength of the button determines the length Allen travels.
 
@@ -392,7 +393,7 @@ Allen doesn't have overhead normals or specials apart from `MP+MK`, so Allen rel
     The dummy will try to jab their way out of any gaps and if you've delayed correctly, you'll hit the dummy out of the startup of their jab. `2MP` or `2MK` are great normals to try and frame trap from.
 
 !!! quote "2MK/2MP > Soul Force"
-    Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start Triple Break loops. `5HP` works as well, sadly `5HP` still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
+    Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start [Triple Break Loop](#triplebreakloops)s. `5HP` works as well, sadly `5HP` still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
 
 
 
@@ -423,10 +424,10 @@ As per all characters, Allen can chain from a normal to a higher strength normal
 !!! quote "2/5LK > 2/5MK > 2HK"
     A nice, safe and fairly rewarding chain as it scores you a knockdown and works off your standing or crouching kicks.
 
-!!! quote "2/5LK > 2/5MK > (5HK) > 6MK > (Triple Break Loop/ Fire Force)"
+!!! quote "2/5LK > 2/5MK > (5HK) > 6MK > ([Triple Break Loop](#triplebreakloops)/ Fire Force)"
     A slightly more risky string as 6MK is poor on block. If the opponent is definitely standing, feel free to put the 5HK in for the extra damage.
     
-    If the `6MK` connects, rev up your Triple Break loop.
+    If the `6MK` connects, rev up your [Triple Break Loop](#triplebreakloops).
 
 !!! quote "Whatever > Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
     A nice and beginner friendly loop. While the individual parts are dangerous to drop, it is fairly easy to pull off regardless.
@@ -435,7 +436,7 @@ As per all characters, Allen can chain from a normal to a higher strength normal
 
 #### Dash-In combos
 
-!!! quote "2MP > 2MP > 2MK > Soul Force/6MK > (Triple Break Loop/ Fire Force)"
+!!! quote "2MP > 2MP > 2MK > Soul Force/6MK > ([Triple Break Loop](#triplebreakloops)/ Fire Force)"
     The momentum from your dash allows you to link (Not chain, so timing is a lot more strict) a second `2MP` which can then link into `2MK`.
     
     This is definitely more difficular than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Mix it up with cancelling your `2MP`s into Soul Force to frame trap them.
@@ -454,7 +455,7 @@ As per all characters, Allen can chain from a normal to a higher strength normal
 ### Anti-Air Conversions
 
 !!! quote "5HK Triple Break"
-    This allows Allen to potentially deal 50%+ off antiairs using a Triple Break Loop. Annoyingly, this can easily drop off max range 5HK connects, making it pretty risky to confirm.
+    This allows Allen to potentially deal 50%+ off antiairs using a [Triple Break Loop](#triplebreakloops). Annoyingly, this can easily drop off max range 5HK connects, making it pretty risky to confirm.
 
 !!! quote "5HK Fire Force"
     A less rewarding but much less unsafe super cancel. Depending on how you hit it, may just deal 1 hit or get the full 5 hits. If you have the spare meter, this is a pretty safe way of squeezing out extra damage.
@@ -473,7 +474,7 @@ As per all characters, Allen can chain from a normal to a higher strength normal
     5HK will fairly often catch the opponent similarly to Triple Break but way less dangerous if it misses.
 
 !!! quote "j.MK/HK > Justice Fist > Triple Break"
-    Despite how dangerous the Justice Fist is to whiff, it actually works fairly reliably. The HP version of Justice Fist can often go under people and whiff, definitely practice this in training on a jumping opponent to get a feel for it. If you can land this, you can do 50% damage very easily off a basic full Triple Break Loop
+    Despite how dangerous the Justice Fist is to whiff, it actually works fairly reliably. The HP version of Justice Fist can often go under people and whiff, definitely practice this in training on a jumping opponent to get a feel for it. If you can land this, you can do 50% damage very easily off a basic full [Triple Break Loop](#triplebreakloops)
 
 ### Triple Break Loops
 
