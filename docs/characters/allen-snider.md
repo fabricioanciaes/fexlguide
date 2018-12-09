@@ -37,7 +37,7 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 
 <table>
 <tr>
-    <th>Move</th>
+    <th>Normal</th>
     <th>Description</th>
     <th>Startup</th>
     <th>S.blo</th>
@@ -45,130 +45,155 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 </tr>
 <tr>
     <td><b>5LP</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Allen's fastest normal with somewhat decent range, whiffs on crouchers Special Cancels.</td>
+    <td>4</td>
+    <td>-5</td>
+    <td>-1</td>
 </tr>
 <tr>
     <td><b>5MP</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>A fairly mediocre mid, 2MP is preferred. Allen's only standing punch that doesn't whiff on crouchers. Special Cancels.</td>
+    <td>6</td>
+    <td>-5</td>
+    <td>-1</td>
 </tr>
 <tr>
     <td><b>5HP</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>A stubby mid that whiffs on crouchers from further away, not worth using in neutral. Special Cancels. Stick to 5HK for anti-airing. Super Cancels.</td>
+    <td>13</td>
+    <td>-2</td>
+    <td>0</td>
 </tr>
 <tr>
     <td><b>5LK</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Nice and quick long reaching normal, sadly doesn't hit low despite its animation. Special Cancels.</td>
+    <td>5</td>
+    <td>-8</td>
+    <td>-4</td>
 </tr>
 <tr>
     <td><b>5MK</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Another long range normal, thankfully doesn't whiff on crouchers, making it decent for blockstrings. Special Cancels.</td>
+    <td>7</td>
+    <td>-12</td>
+    <td>-8</td>
 </tr>
 <tr>
     <td><b>5HK</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Allen's dedicated anti-air button. This one works better for catching people jumping in far away, as its angle is pretty poor for people jumping right on top of you. Super cancellable, so is a decent way of starting Triple Break loops. Whiffs on crouchers. Super Cancels.</td>
+    <td>8</td>
+    <td>-3</td>
+    <td>-1</td>
 </tr>
 <tr>
     <td><b>2LP</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Good jab with long range that's only 1 frame slower than 5LP, decent for tick throws. Special Cancels.</td>
+    <td>5</td>
+    <td>-4</td>
+    <td>-0</td>
 </tr>
 <tr>
     <td><b>2MP</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Solid mid hitting normal, links into itself with dashing momentum and into 2MK as well. Special Cancels.</td>
+    <td>6</td>
+    <td>-4</td>
+    <td>0</td>
 </tr>
 <tr>
     <td><b>2HP</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>An okay mid hitting punch, 2HK's long range makes it better for blockstrings. Super Cancels</td>
+    <td>8</td>
+    <td>-5</td>
+    <td>-2</td>
 </tr>
 <tr>
     <td><b>2LK</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Very fast long ranged kick that hits low, solid button in general. Special Cancels.</td>
+    <td>5</td>
+    <td>Hits Low</td>
+    <td>-2</td>
 </tr>
 <tr>
     <td><b>2MK</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Like 2LK with slightly longer, another solid button and can very much be used like any Street Fighter shoto's 2MK. Special Cancels.</td>
+    <td>6</td>
+    <td>Hits Low</td>
+    <td>-3</td>
 </tr>
 <tr>
     <td><b>2HK</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Allen's sweep, excellent range, low profile and fantastic frame data makes it great for ending block strings and dodging high attacks/fireballs. Special and Super Cancels, but as it knocks down on hit it can't be used to continue combos.</td>
+    <td>7</td>
+    <td>Hits Low</td>
+    <td>-2</td>
 </tr>
 <tr>
     <td><b>j.LP</b></td>
-    <td>Description</td>
+    <td>Downward reaching jab, not particularly useful.</td>
+    <td>4</td>
     <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Hits Overhead</td>
 </tr>
 <tr>
     <td><b>j.MP</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Similar to j.LP but slower, just use j.HP for the same normal but better.</td>
+    <td>5</td>
+    <td>13</td>
+    <td>Hits Overhead</td>
 </tr>
 <tr>
     <td><b>j.HP</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Probably the best jumping punch he has. However, his kick aerials are stronger in any case.</td>
+    <td>5</td>
+    <td>13</td>
+    <td>Hits Overhead</td>
 </tr>
 <tr>
     <td><b>j.LK</b></td>
     <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>5</td>
+    <td>5</td>
+    <td>Hits Overhead</td>
 </tr>
 <tr>
     <td><b>j.MK</b></td>
-    <td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>Allen's best general aerial, faster than j.LK for some reason and can also cross up on opponents. Stick to this one for your jump ins.</td>
+    <td>4</td>
+    <td>13</td>
+    <td>Hits Overhead</td>
 </tr>
 <tr>
     <td><b>j.HK</b></td>
-    <<td>Description</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <<td>Decent air to air and deals a solid chunk of damage, use this when your opponent is a bit too jump happy.</td>
+    <td>8</td>
+    <td>13</td>
+    <td>Hits Overhead</td>
 </tr>
+</table>
+
+### Command Normals
+
+<table>
+<tr>
+    <th>Command Normal</th>
+    <th>Description</th>
+    <th>Startup</th>
+    <th>S.blo</th>
+    <th>C.blo</th>
+</tr>
+<tr>
+    <td><b>6MK</b></td>
+    <td>Can be chained into from any normal, super cancelable only. The slow startup and poor frame advantage means this should only be used in strings that have already hit. Still, it's a great way of getting into Triple Break from a confirmed string.</td>
+    <td>17</td>
+    <td>-12</td>
+    <td>-8</td>
+</tr>
+<tr>
+    <td><b>MP+MK (Hard Attack)</b></td>
+    <td>Allen's universal overhead, should mainly be used to catch people trying to block Allen's many good lows and should be always be super cancelled as it is actually - on hit! Still, fairly decent to throw out once in a while. While Allen jumps, its speed and actual hurtbox makes it pretty poor for getting over low normals.</td>
+    <td>32</td>
+    <td>-34</td>
+    <td>-4</td>
 </table>
 
 ### Specials
@@ -188,20 +213,20 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 Super cancels which allows for confirms into Fire Force or even start a Triple Break loop. 
 
 Generally safe at long ranges but be wary of using it in blockstrings, as upclose it is outright punishable on block. Soul Force has decent pushback midscreen but will not pushback in the corner. </td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
+    <td>13/-14/-11</td>
+    <td>13/-14/-11</td>
+    <td>13/-14/-11</td>
 </tr>
 <tr>
     <td><b>Rising Dragon (623P)</b></td>
-    <td>A rising uppercut that is invulnerable on startup, making it an excellent anti-air and reversal. Massively unsafe on block however.
+    <td>A rising uppercut that is invulnerable on startup, making it an excellent anti-air and reversal. Massively unsafe on block however with each strength getting progressively worse.
 
 The strength of the button determines the height and number of hits of Rising Dragon.
 
 Super cancels, Fire force making it less unsafe and Triple Break potentially starting a loop on hit but will be just as unsafe on block.  </td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
+    <td>5/-18/-16</td>
+    <td>5/-31/-29</td>
+    <td>5/-35/-33</td>
 </tr>
 <tr>
     <td><b>Justice Fist (421P)</b></td>
@@ -209,25 +234,26 @@ Super cancels, Fire force making it less unsafe and Triple Break potentially sta
 
 Very importantly, it super cancels which makes it excellent as combo filler for Triple Break loops.
 
-The strength of the button determines the length Allen travels and the startup(?).
+The strength of the button determines the length Allen travels.
 
 While it does destroy fireballs, it should only be used in combos since it's way too dangerous to  miss. Fantastic combo filler, don't use it to end combos if you can help it, especially in the corner.</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
+    <td>15/-79/-75</td>
+    <td>15/-83/-79</td>
+    <td>15/-87/-83</td>
 </tr>
 <tr>
     <td><b>Vaulting Kick (63214K)</b></td>
-    <td>An command grab that knocks the opponent to the opposite side of the screen.
+    <td>An command grab that knocks the opponent to the opposite side of the screen. No difference in button versions.
 
 Does slightly more damage than normal grab, but is mainly useful for being untechable.</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
+    <td>3</td>
+    <td>Grab</td>
+    <td>Grab</td>
 </tr>
 </table>
 
 ### Supers
+Quick note, in startup framedata (eg. x + y), x means the startup until Super Freeze and Y is the startup for the super to come out afterwards.
 <table>
 <tr>
     <th>Super</th>
@@ -238,8 +264,8 @@ Does slightly more damage than normal grab, but is mainly useful for being untec
 </tr>
 <tr>
     <td><b>Fire Force (236236P)</b></td>
-    <td>A super version of Soul Force with 5 hits., deals somewhat low damage but is a much safer cancel than Triple Break and can even cancel into Triple Break. Decent chip option as well. Fairly fast, can potentially be used to beat out other projectiles in a fireball war. </td>
-    <td>?</td>
+    <td>A super version of Soul Force with 5 hits., deals somewhat low damage but is a much safer cancel than Triple Break and can even cancel into Triple Break. Decent chip option as well. Fairly fast, can potentially be used to beat out other projectiles in a fireball war. Similarly to Soul Force, it becomes much more unsafe in the corner as it relies on pushback to keep you safe. </td>
+    <td>4 + 4</td>
     <td>?</td>
     <td>?</td>
 </tr>
@@ -249,8 +275,8 @@ Does slightly more damage than normal grab, but is mainly useful for being untec
 
 It's not difficult to learn practical combos that can lead to using all 3 bars of super on Triple Break. The speed and hitbox of Triple Break also allows for some cheeky conversions, making Allen incredibly explosive.
 
-A sample combo may be 2LK 2MK 6MK Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon. </td>
-    <td>?</td>
+A sample beginner combo may be 2LK 2MK 6MK Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon. </td>
+    <td>6 + 9</td>
     <td>?</td>
     <td>?</td>
 </tr>
@@ -261,23 +287,85 @@ A sample combo may be 2LK 2MK 6MK Triple Break > Justice Fist > Triple Break > J
 
 ## Gameplan
 ### Neutral
+
+Allen has a selection of decent pokes, with his 5 LK, 5MK, 2MP and 2MK being the most useful. These buttons also can easily combo into 2HK or even 6MK into Triple Break or Fire Force, allowing him to cash out damage from his far reaching normals. 2HK by itself is great for its knockdown but is very bad to whiff given its long recovery.
+
+Allen also has a very solid fireball game allowing him to chip the opponent out and zone them. If they attempt to get around it with jumping, his Rising Dragon and 5HK allow him to knock the opponent out of the sky. His LP soul force in particular allows him to both control space and even let him run in very safely.
+
+Allen's fast walk speed and run speed allows him to quickly get ground on the opponent and lets him get his pokes into range.
+
 ### Offense
 ### Mix-Ups
+
+Allen doesn't have overhead normals or specials apart from MP+MK, so Allen relies on frame traps and tick throws along with his command grab to open a turtling opponent. His solid crossup kick also lets him get some left-right mixup on opponents recovering from a knockdown. Allen's solid chip options also means that it is no big loss for his strings to be blocked.
+
 ### Set-Ups
+
+##### Vaulting Kick into Fire Force
+
+Simple chip option from fullscreen, sadly you don't get time for much of a runup before the opponent recovers.
+
 ### Frame-Traps
+
+#### 2MK/2MP > Soul Force
+
+Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start Triple Break loops. 5HP works as well, sadly 5HP still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
+
+
+
 ### Defense
 
-Outside of the usual defense options, Allen does have Rising Dragon to potentially worm his way out of gaps in the opponent's pressure
+Outside of the usual defense options, Allen does have Rising Dragon to potentially worm his way out of gaps in the opponent's pressure.
+
+Guard cancel allows him to Justice Fist his way out of pressure, making for an excellent combo starter 
 
 ### Reversals
+
+The netplay classic DP lives on in Rising Dragon and it's usually just as bad of an idea. Fire Force is somewhat decent as it is much less punishable than a blocked Rising Dragon.
+
 ### Escapes
 
 ---
 
 ## Character Specific Techniques
 ## Combos
+
+As per all characters, Allen can chain from a normal to a higher strength normal, either punch or kick. Chains work off cancels, meaning that the button doesn't have to finish its animation and can go immediately to the next normal. When links are mentioned, that means the normal HAS to finish and then you can get the next normal to come out. These tend to be harder. His 6MK chains from every other normal.
+
 ### BNB’s
+
+(Note: Almost all of these strings will work from a j.MK jumpin starter too.)
+
+#### Universal Strings
+
+##### 2/5LK > 2/5MK > 2HK
+
+A nice, safe and fairly rewarding chain as it scores you a knockdown and works off your standing or crouching kicks.
+
+##### 2/5LK > 2/5MK > (5HK) > 6MK > (Triple Break Loop/ Fire Force)
+
+A slightly more risky string as 6MK is poor on block. If the opponent is definitely standing, feel free to put the 5HK in for the extra damage. If the 6MK connects, rev up your Triple Break loop.
+
+##### Whatever > Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon
+
+A nice and beginner friendly loop. While the individual parts are dangerous to drop, it is fairly easy to pull off regardless. It's extremely important to not end the combo with Justice Fist, especially in the corner (and you will be in the corner, as this combo has fantastic corner carry.)
+
+#### Dash-In combos
+
+##### 2MP > 2MP > 2MK > Soul Force/6MK > (Triple Break Loop/ Fire Force)
+
+The momentum from your dash allows you to link (Not chain, so timing is a lot more strict) a second 2MP which can then link into 2MK. This is definitely more difficular than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Mix it up with cancelling your 2MPs into Soul Force to frame trap them. A very respectable punish combo very unsafe moves like DPs.
+
 ### Hit-Confirms
+
+#### 2LK> 2MK > 6MK > Whatever
+
+If 6MK will be blocked, it's better to go into Soul Force or 2HK instead.
+
+#### Whatever > Soul Force
+
+Soul Force is both a decent blockstring ender and can go into both Fire Force or Triple Break, making it a no-brainer to cancel into from a chain of normals for the most part.
+
 ### Anti-Air Conversions
 
 #### 5HK Triple Break
@@ -289,3 +377,7 @@ This allows Allen to potentially deal 50%+ off antiairs using a Triple Break Loo
 A less rewarding but much less unsafe super cancel. Depending on how you hit it, may just deal 1 hit or get the full 5 hits. If you have the spare meter, this is a pretty safe way of squeezing out extra damage.
 
 ### Air to Air Conversions
+
+#### j.MK/HK > Triple Break
+
+Allen sadly lacks any aerial specials or supers to really get 100% reliable aerial conversions. Depending on both your height and the opponent's height, you can fairly often get Triple Break to catch them as they fall. As a rule, if you hit them as you're on your way up your jump, you'll probably not land in time for the Triple Break.
