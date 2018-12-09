@@ -59,7 +59,7 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 </tr>
 <tr>
     <td><b>5HP</b></td>
-    <td>A stubby mid that whiffs on crouchers, not worth using in neutral. Special Cancels. Stick to 5HK for anti-airing. Super Cancels.</td>
+    <td>A stubby mid that whiffs on crouchers from further away, not worth using in neutral. Special Cancels. Stick to 5HK for anti-airing. Super Cancels.</td>
     <td>13</td>
     <td>-2</td>
     <td>0</td>
@@ -307,21 +307,65 @@ Simple chip option from fullscreen, sadly you don't get time for much of a runup
 
 ### Frame-Traps
 
-#### 2MK/2MP > 5HP
+#### 2MK/2MP > Soul Force
+
+Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start Triple Break loops. 5HP works as well, sadly 5HP still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
+
+
 
 ### Defense
 
-Outside of the usual defense options, Allen does have Rising Dragon to potentially worm his way out of gaps in the opponent's pressure
+Outside of the usual defense options, Allen does have Rising Dragon to potentially worm his way out of gaps in the opponent's pressure.
+
+Guard cancel allows him to Justice Fist his way out of pressure, making for an excellent combo starter 
 
 ### Reversals
+
+The netplay classic DP lives on in Rising Dragon and it's usually just as bad of an idea. Fire Force is somewhat decent as it is much less punishable than a blocked Rising Dragon.
+
 ### Escapes
 
 ---
 
 ## Character Specific Techniques
 ## Combos
+
+As per all characters, Allen can chain from a normal to a higher strength normal, either punch or kick. Chains work off cancels, meaning that the button doesn't have to finish its animation and can go immediately to the next normal. When links are mentioned, that means the normal HAS to finish and then you can get the next normal to come out. These tend to be harder. His 6MK chains from every other normal.
+
 ### BNB’s
+
+(Note: Almost all of these strings will work from a j.MK jumpin starter too.)
+
+#### Universal Strings
+
+##### 2/5LK > 2/5MK > 2HK
+
+A nice, safe and fairly rewarding chain as it scores you a knockdown and works off your standing or crouching kicks.
+
+##### 2/5LK > 2/5MK > (5HK) > 6MK > (Triple Break Loop/ Fire Force)
+
+A slightly more risky string as 6MK is poor on block. If the opponent is definitely standing, feel free to put the 5HK in for the extra damage. If the 6MK connects, rev up your Triple Break loop.
+
+##### Whatever > Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon
+
+A nice and beginner friendly loop. While the individual parts are dangerous to drop, it is fairly easy to pull off regardless. It's extremely important to not end the combo with Justice Fist, especially in the corner (and you will be in the corner, as this combo has fantastic corner carry.)
+
+#### Dash-In combos
+
+##### 2MP > 2MP > 2MK > Soul Force/6MK > (Triple Break Loop/ Fire Force)
+
+The momentum from your dash allows you to link (Not chain, so timing is a lot more strict) a second 2MP which can then link into 2MK. This is definitely more difficular than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Mix it up with cancelling your 2MPs into Soul Force to frame trap them. A very respectable punish combo very unsafe moves like DPs.
+
 ### Hit-Confirms
+
+#### 2LK> 2MK > 6MK > Whatever
+
+If 6MK will be blocked, it's better to go into Soul Force or 2HK instead.
+
+#### Whatever > Soul Force
+
+Soul Force is both a decent blockstring ender and can go into both Fire Force or Triple Break, making it a no-brainer to cancel into from a chain of normals for the most part.
+
 ### Anti-Air Conversions
 
 #### 5HK Triple Break
@@ -333,3 +377,7 @@ This allows Allen to potentially deal 50%+ off antiairs using a Triple Break Loo
 A less rewarding but much less unsafe super cancel. Depending on how you hit it, may just deal 1 hit or get the full 5 hits. If you have the spare meter, this is a pretty safe way of squeezing out extra damage.
 
 ### Air to Air Conversions
+
+#### j.MK/HK > Triple Break
+
+Allen sadly lacks any aerial specials or supers to really get 100% reliable aerial conversions. Depending on both your height and the opponent's height, you can fairly often get Triple Break to catch them as they fall. As a rule, if you hit them as you're on your way up your jump, you'll probably not land in time for the Triple Break.
