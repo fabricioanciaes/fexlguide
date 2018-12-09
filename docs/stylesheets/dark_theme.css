@@ -20,6 +20,15 @@ Main headlines
   color: white !important;
 }
 
+.md-content h1,
+.md-content h2,
+.md-content h3,
+.md-content h4,
+.md-content h5,
+.md-content h6 {
+  color: white !important;
+}
+
 /*
 Tables
 */
