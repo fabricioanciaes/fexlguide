@@ -37,7 +37,7 @@ For combos, start off with light kicks or punches, move up to medium kicks or pu
 
 If your combo lands, as long as you haven't done `2HK` yet you can do `6MK` and then immediately do `236236P` to get a fireball super. This'll deal about 20% of their health in damage.
 
-If you do `236236K` instead of `236236P` in combos, you can catch the opponent on the way down with `421K` and immediately do `236236K` again. You can do this over and over as long as you have the meter. When you've done your last `236236K` do `623P` instead of `421K` so that they can't hit you while Allen keeps posing.
+If you do `236236K` instead of `236236P` in combos, you can catch the opponent on the way down with `421P` and immediately do `236236K` again. You can do this over and over as long as you have the meter. When you've done your last `236236K` do `623P` instead of `421P` so that they can't hit you while Allen keeps posing.
 
 
 
