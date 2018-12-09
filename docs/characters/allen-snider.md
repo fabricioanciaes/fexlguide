@@ -364,6 +364,9 @@ Allen doesn't have overhead normals or specials apart from MP+MK, so Allen relie
 
 ### Frame-Traps
 
+!!! quote "Any Delayed Chain"
+As there is always a big window for you to chain one move to a higher strength, essentially any button can become a frame trap by simply delaying the next button just enough to allow a gap for an opponent to press a button that'll then get hit by your delayed button before their move can start up. The easiest way of practicing this by setting the training dummy to "After First Hit" and Guard All (Standing) or Guard All (Crouching), and setting either 5LP or 2LP in a slot for "Recording Settings (After Guard). The dummy will try to jab their way out of any gaps and if you've delayed correctly, you'll hit the dummy out of the startup of their jab. 2MP or 2MK are great normals to try and frame trap from.
+
 !!! quote "2MK/2MP > Soul Force"
     Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start Triple Break loops. 5HP works as well, sadly 5HP still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
 
@@ -387,7 +390,7 @@ The netplay classic DP lives on in Rising Dragon and it's usually just as bad of
 
 As per all characters, Allen can chain from a normal to a higher strength normal, either punch or kick. Chains work off cancels, meaning that the button doesn't have to finish its animation and can go immediately to the next normal. When links are mentioned, that means the normal HAS to finish and then you can get the next normal to come out. These tend to be harder. His 6MK chains from every other normal.
 
-### BNB’s
+### Bread And Butter Combos
 
 (Note: Almost all of these strings will work from a j.MK jumpin starter too.)
 
@@ -413,7 +416,7 @@ As per all characters, Allen can chain from a normal to a higher strength normal
     
     This is definitely more difficular than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Mix it up with cancelling your 2MPs into Soul Force to frame trap them.
     
-    A very respectable punish combo very unsafe moves like DPs.
+    A very respectable punish combo against very unsafe moves like Rising Dragons or many blocked supers.
 
 ### Hit-Confirms
 
@@ -421,7 +424,7 @@ As per all characters, Allen can chain from a normal to a higher strength normal
     If 6MK will be blocked, it's better to go into Soul Force or 2HK instead.
 
 !!! quote "Whatever > Soul Force"
-    Soul Force is both a decent blockstring ender and can go into both Fire Force or Triple Break, making it a no-brainer to cancel into from a chain of normals for the most part.
+    Soul Force is both a decent blockstring ender and can go into both Fire Force or Triple Break, making it a no-brainer to cancel into from a chain of normals for the most part. Soul Force becomes way more unsafe in the corner however
 
 ### Anti-Air Conversions
 
@@ -440,3 +443,24 @@ As per all characters, Allen can chain from a normal to a higher strength normal
     Depending on both your height and the opponent's height, you can fairly often get Triple Break to catch them as they fall.
     
     As a rule, if you hit them as you're on your way up your jump, you'll probably not land in time for the Triple Break.
+
+!!! quote "j.MK/HK > 5HK"
+
+5HK will fairly often catch the opponent similarly to Triple Break but way less dangerous if it misses.
+
+!!! quote "j.MK/HK > Justice Fist > Triple Break"
+
+Despite how dangerous the Justice Fist is to whiff, it actually works fairly reliably. The HP version of Justice Fist can often go under people and whiff, definitely practice this in training on a jumping opponent to get a feel for it. If you can land this, you can do 50% damage very easily off a basic full Triple Break Loop
+
+### Triple Break Loops
+
+!!! quote "Whatever > Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
+    As mentioned early, this is the basic Triple Break loop. Will work anywhere on the screen and deal roughly 40% damage.
+
+!!! quote "Whatever > Triple Break > 2MP > 5MK > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
+
+A slightly more optimal loop, corner only as 5MK will fall out midscreen. Sneaks in a bit more damage and also builds you more meter. Another corner variant is to do 5MP > 5HP > Justice Fist. Any of these extensions only work after the first Triple Break, just stick to Justice Fist after the 2nd or third Triple Breaks.
+
+!!! quote "Whatever > Triple Break > 5HP > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
+
+Similar to the previous loop, but works midscreen.
