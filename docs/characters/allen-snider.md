@@ -8,8 +8,27 @@ summary: Brief guide of how to play Allen Snider
 ### Type of Character
 Allen is a shotokan style character with a bit of a twist. His solid fireball and Dragon Punch (well, Rising Dragon) and generally good normals are supplemented with relatively easy and damaging loops using his Triple Break super to launch the opponent over and over as long as he has the meter. His command grab and Justice Fist, a super cancellable and high damaging move that's otherwise negative on hit(!) rounds him out and in general is a incredibly solid and accessible character. 
 
+### 5 Minute Guide
+
+(if you don't know what the abbreviations mean, check the notation guide below.)
+
+Take Infinity as your deck, lets you gain 130% meter almost immediately, after doing 10 supers you get a rapidly regenerating super bar
+
+2LK, 2MP, 2MK, 5LK, 5MK are all good buttons to poke with. 236P is a nice fireball.
+
+If someone is jumping in on you, either do 5HK or 623P. You can do 623P as you're getting up if someone is trying to hit you, you'll get combo'd for free if it's blocked.
+
+For combos, start off with light kicks or punches, move up to medium kicks or punches and then to hard kicks or punches. Easiest one is 2LK > 2MK > 2HK.
+
+If your combo lands, as long as you haven't done 2HK yet you can do 6MK and then immediately do 236236P to get a fireball super. This'll deal about 20% of their health in damage.
+
+If you do 236236K instead of 236236P in combos, you can catch the opponent on the way down with 421K and immediately do 236236K again. You can do this over and over as long as you have the meter. When you've done your last 236236K do 623P instead of 421K so that they can't hit you while Allen keeps posing.
+
+
+
+
 !!! success "Strengths"
-    - His projectile (Soul Force, 236P) and dragon punch (Rising Dragon, 623P) allows  for solid "Super Turbo" style play
+    - His projectile (Soul Force, 236P) and dragon punch (Rising Dragon, 623P) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
     - Decent chip options with both Soul Force and Fire Force without having to use Gougi such as Berserker
     - Can consistently turn confirms into high damage with Triple Break loops, allowing him to easily cash out damage from his meter.
     - Has both a dragon punch and his 5HK for anti airing
@@ -34,6 +53,43 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 ---
 
 ## Move Analysis
+
+### Notation
+
+This guide uses Numpad notation. That means that directions correspond to the numbers on your keyboard numpad (ie. 6 is right, 4 is left, 8 s up, 2 is down). 5 means no direction held. For example, the classic Hadoken quartercircle motion would look like 236, the classic Tatsumaki/Hurricane Kick motion is 214 and the classic Shoryuken motion is 623.
+
+LK = Light Kick
+
+MK = Medium Kick
+
+HK = Heavy Kick
+
+LP = Light Punch
+
+MP = Medium Punch
+
+HP = Heavy Punch
+
+MP + MK = Press both MP and MK at the same time.
+
+For special moves, the first input is the classic input, the second is the progressive input.
+
+Cancel means you can do something else as soon as your first move hits IE. 2MK on hit can go straight into a special move if you input the special move as 2MK would hit. Special Cancel means you can cancel into Special Moves and Super Cancel means you can cancel into Super Moves.
+
+Link means you have to let the move finish first before you can do another move.
+
+Lows are moves that have to be blocked crouching. Most crouching kicks hit low.
+
+Mids are moves that can blocked either crouching or standing. Almost all standing moves, special moves, supers and crouching punches hit mid.
+
+Highs/overheads are moves that must be blocked standing. Most jumping attacks and all Hard Attacks (MP + MK) hit high/overhead.
+
+Startup means how long it takes for the move to actually hit.
+
+S.blo stands for standing block. In this case, it shows the difference in time between you recovering from your attack and the opponent recovering from blocking your attack. If it's 0, you both recover and can act at the same time. If it's -1 or lower, the opponent recovers faster and can act before you. If it's 1 or higher, you recover faster and can act before the opponent.
+
+C.blo is similar but when the opponent crouch blocks instead.
+
 ### Normal Moves
 
 <table>
@@ -151,7 +207,7 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
     </tr>
     <tr>
         <td><b>j.LK</b></td>
-        <td>Description</td>
+        <td>A downward kick, just use j.MK instead.</td>
         <td>5</td>
         <td>5</td>
         <td>Hits Overhead</td>
@@ -208,7 +264,7 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>Soul Force (236P)</b></td>
+    <td><b>Soul Force (236P/6P)</b></td>
     <td>A regular fireball that travels the length of the screen, the strength of the punch controls the speed of the fireball. 
 
 Super cancels which allows for confirms into Fire Force or even start a Triple Break loop. 
@@ -219,7 +275,7 @@ Generally safe at long ranges but be wary of using it in blockstrings, as upclos
     <td>13/-14/-11</td>
 </tr>
 <tr>
-    <td><b>Rising Dragon (623P)</b></td>
+    <td><b>Rising Dragon (623P/3P)</b></td>
     <td>A rising uppercut that is invulnerable on startup, making it an excellent anti-air and reversal. Massively unsafe on block however with each strength getting progressively worse.
 
 The strength of the button determines the height and number of hits of Rising Dragon.
@@ -230,7 +286,7 @@ Super cancels, Fire force making it less unsafe and Triple Break potentially sta
     <td>5/-35/-33</td>
 </tr>
 <tr>
-    <td><b>Justice Fist (421P)</b></td>
+    <td><b>Justice Fist (421P/4P)</b></td>
     <td>An advanced outstretching lunge which deals great damage but is unsafe on hit, never mind on block. 
 
 Very importantly, it super cancels which makes it excellent as combo filler for Triple Break loops.
@@ -243,7 +299,7 @@ While it does destroy fireballs, it should only be used in combos since it's way
     <td>15/-87/-83</td>
 </tr>
 <tr>
-    <td><b>Vaulting Kick (63214K)</b></td>
+    <td><b>Vaulting Kick (63214K/8K)</b></td>
     <td>An command grab that knocks the opponent to the opposite side of the screen. No difference in button versions.
 
 Does slightly more damage than normal grab, but is mainly useful for being untechable.</td>
@@ -264,14 +320,14 @@ Quick note, in startup framedata (eg. x + y), x means the startup until Super Fr
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>Fire Force (236236P)</b></td>
+    <td><b>Fire Force (236236P/46P)</b></td>
     <td>A super version of Soul Force with 5 hits., deals somewhat low damage but is a much safer cancel than Triple Break and can even cancel into Triple Break. Decent chip option as well. Fairly fast, can potentially be used to beat out other projectiles in a fireball war. Similarly to Soul Force, it becomes much more unsafe in the corner as it relies on pushback to keep you safe. </td>
     <td>4 + 4</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
-    <td><b>Triple Break (236236K)</b></td>
+    <td><b>Triple Break (236236K/46K)</b></td>
     <td>A triple kick which send the opponent flying up into the air. Low damage but makes it incredibly easy to get juggle combos which can lead into Triple Break again. 
 
 It's not difficult to learn practical combos that can lead to using all 3 bars of super on Triple Break. The speed and hitbox of Triple Break also allows for some cheeky conversions, making Allen incredibly explosive.
