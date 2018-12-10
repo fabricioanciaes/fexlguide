@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: Template For Characters
 summary: Ipsum lorem and all that
 ---
 ![Allen](/images/characters/portraits/Allen.png)
@@ -16,7 +16,7 @@ So-and-so does all sorts.
 
 !!! failure "Weaknesses"
     - Weakness A
--Weakness B
+    - Weakness B
 
 ### 5 Minute Guide
 
