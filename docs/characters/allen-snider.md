@@ -10,7 +10,6 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 
 
 !!! success "Strengths"
-
     - His projectile (Soul Force, `236P`) and dragon punch (Rising Dragon, `623P`) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
     - Decent chip options with both Soul Force and Fire Force without having to use Gougi such as Berserker
     - Can consistently turn confirms into high damage with [Triple Break Loop](#triplebreakloops)s, allowing him to easily cash out damage from his meter.
@@ -46,18 +45,28 @@ If you do `236236K` instead of `236236P` in combos, you can catch the opponent o
 ### Recommended Decks
 
 !!! tip "Infinity"
- 
-- Solid and easy to activate Blue Gougi and extremely powerful Yellow Gougi makes this deck a no-brainer pick.
+
+    - Solid and easy to activate Blue Gougi and extremely powerful Yellow Gougi makes this deck a no-brainer pick.
     - Allen really wants meter for his damage, which Infinity provides almost immediately with its 3 Meter Ups
     - Guard Cancel is generally solid anyway, but Allen has both a strong combo starter with Justice Fist and a reversal with Rising Dragon to punish people's blockstrings and pressure
-    - Rage is a very nice bonus, allowing Allen to consistently get full 
-[Triple Break Loop](#triplebreakloops)s in the later rounds.
+    - Rage is a very nice bonus, allowing Allen to consistently get full [Triple Break Loops](#triplebreakloops) in the later rounds.
 
 !!! tip "Aggro" 
-- Very solid Blue Gougi and 2 fairly easy to Trigger Yellow Gougi means this Deck cashes out very quickly. - Chip up is a difficult Blue Gougi to Trigger quickly, but has a genuinely quite solid effect. It will increase the chip of Soul Force by 50% and increase Fire Force's chip by 100%. - Grab Up is very handy as Allen relies more than usual on his normal throw to open opponents up. - Erase Blow is not immediately useful, but is good against Doctrine Dark's EX-Plosive. - Illusion is a very handy automatic escape from highly damaging combos, which mitigates dropping combos or being overzealous with Rising Dragon. -Rampage is a very nice buff to Allen's damage, and Allen can play aggressively and use Soul Force to keep the Rampage stacks topped up.
+
+    - Very solid Blue Gougi and 2 fairly easy to Trigger Yellow Gougi means this Deck cashes out very quickly. 
+    - Chip up is a difficult Blue Gougi to Trigger quickly, but has a genuinely quite solid effect. It will increase the chip of Soul Force by 50% and increase Fire Force's chip by 100%. 
+    - Grab Up is very handy as Allen relies more than usual on his normal throw to open opponents up. 
+    - Erase Blow is not immediately useful, but is good against Doctrine Dark's EX-Plosive. 
+    - Illusion is a very handy automatic escape from highly damaging combos, which mitigates dropping combos or being overzealous with Rising Dragon. 
+    - Rampage is a very nice buff to Allen's damage, and Allen can play aggressively and use Soul Force to keep the Rampage stacks topped up.
 
 !!! tip "Nightmare" 
-- Has the easiest Blue Gougi in the game to Trigger with 2 solid Yellow Gougi, Soul Drain unfortunately being very difficult to Trigger. - Speed Up makes Allen's approach even better - Ghost is both easy to Trigger with Allen's fireball game and extended combos (such as his [Triple Break Loop](#triplebreakloops)) and exceptionally powerful, allowing Allen to approach and mix up the opponent while being completely invisible - Energy Drain is a very solid Yellow Gougi, getting Allen his meter. Also very easy to Trigger given that Allen's 2HK is safe and special cancellable, allowing him to easily end meterless combos in a knockdown. - Soul Drain is very much a Round 5 Gougi but does have a powerful Effect that stacks with his Energy Drain.
+
+    - Has the easiest Blue Gougi in the game to Trigger with 2 solid Yellow Gougi, Soul Drain unfortunately being very difficult to Trigger. 
+    - Speed Up makes Allen's approach even better 
+    - Ghost is both easy to Trigger with Allen's fireball game and extended combos (such as his [Triple Break Loop](#triplebreakloops)) and exceptionally powerful, allowing Allen to approach and mix up the opponent while being completely invisible 
+    - Energy Drain is a very solid Yellow Gougi, getting Allen his meter. Also very easy to Trigger given that Allen's 2HK is safe and special cancellable, allowing him to easily end meterless combos in a knockdown. 
+    - Soul Drain is very much a Round 5 Gougi but does have a powerful Effect that stacks with his Energy Drain.
 
 
 
