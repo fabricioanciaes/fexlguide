@@ -10,6 +10,7 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 
 
 !!! success "Strengths"
+
     - His projectile (Soul Force, `236P`) and dragon punch (Rising Dragon, `623P`) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with the uppercut move.
     - Decent chip options with both Soul Force and Fire Force without having to use Gougi such as Berserker
     - Can consistently turn confirms into high damage with [Triple Break Loop](#triplebreakloops)s, allowing him to easily cash out damage from his meter.
@@ -19,6 +20,7 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 
 
 !!! failure "Weaknesses"
+
     - Somewhat low damage without meter
     - Has a few underwhelming normals (mainly his heavy punches)
     - Many of his damaging options are unsafe and often fully punishable if they don't hit or are blocked.
@@ -43,7 +45,8 @@ If you do `236236K` instead of `236236P` in combos, you can catch the opponent o
 
 ### Recommended Decks
 
-!!! tip "Infinity" 
+!!! tip "Infinity"
+ 
 - Solid and easy to activate Blue Gougi and extremely powerful Yellow Gougi makes this deck a no-brainer pick.
     - Allen really wants meter for his damage, which Infinity provides almost immediately with its 3 Meter Ups
     - Guard Cancel is generally solid anyway, but Allen has both a strong combo starter with Justice Fist and a reversal with Rising Dragon to punish people's blockstrings and pressure
@@ -471,14 +474,18 @@ As per all characters, Allen can chain from a normal to a higher strength normal
     This allows Allen to potentially deal 50%+ off antiairs using a [Triple Break Loop](#triplebreakloops). Annoyingly, this can easily drop off max range 5HK connects, making it pretty risky to confirm.
 
 !!! quote "5HK > Fire Force"
-    A less rewarding but much less unsafe super cancel. Depending on how you hit it, may just deal 1 hit or get the full 5 hits. If you have the spare meter, this is a pretty safe way of squeezing out extra damage. Make sure you delay it though, as the opponent can still sail over the Fire Force and punish it depending on how the `5HK` hits.
+    A less rewarding but much less unsafe super cancel. Depending on how you hit it, may just deal 1 hit or get the full 5 hits. If you have the spare meter, this is a pretty safe way of squeezing out extra damage.
+ Make sure you delay it though, as the opponent can still sail over the Fire Force and punish it depending on how the `5HK` hits.
 
 !!! quote "Rising Dragon > Triple Break"
     This is very much on the ballsy side, but allows you to use Rising Dragon to get past jump-ins that beat your `5HK` (And there's quite a few, such as Darun's j.HK, Shadowgeist's Shadow Sword Kick and Pullum Purna's Drill Purrus) and get your [Triple Break Loop](#triplebreakloops).
 
 ### Air to Air Conversions
 
-!!! quote "j.MK/HK > Triple Break"  Depending on both your height and the opponent's height, you can fairly often get Triple Break to catch them as they fall. As a rule, if you hit them as you're on your way up your jump, you'll probably not land in time for the Triple Break.
+!!! quote "j.MK/HK > Triple Break"
+  
+Depending on both your height and the opponent's height, you can fairly often get Triple Break to catch them as they fall.
+ As a rule, if you hit them as you're on your way up your jump, you'll probably not land in time for the Triple Break.
 
 !!! quote "j.MK/HK > 5HK"
     `5HK` will fairly often catch the opponent similarly to Triple Break but way less dangerous if it misses.
