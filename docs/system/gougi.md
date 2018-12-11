@@ -40,7 +40,7 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
     <th>Notes</th> 
 </tr>
 <tr>
-    <td><b>IMAGE</b></td>
+    <td>![Allen](/images/characters/portraits/Allen.png)</td>
     <td>Rampage</td>
     <td>Deal over 40 Damage in a single Combo. / Damage increase the more you attack.</td>
     <td>As you attack the opponent, you build up stacks (up to 30) that increase your damage by 0.75%(?). You will lose these stacks if the opponent hasn't been hit or forced to blocked for 5 consecutive seconds. Landing hits will build up far more stacks than hits that are blocked. </td>
