@@ -499,3 +499,15 @@ This is THE Allen Snider combo. Easily converts from any move that super cancels
 ### Primers/Tutorials
 
 ### Tech
+
+## Glossary
+
+### Kara Cancel
+
+Kara Cancelling (Or "Empty" cancelling) is a fairly old fighting game glitch that lets you start up a move and then almost immediately input a more "difficult" action/move. The input system thinks you've done the simpler move by accident and lets you go straight into your more complicated move. In Allen's case, by Kara Cancelling `2HK` and doing Vaulting Kick, you get the movement from the start of 2HK and then grab, teleporting Allen forward surprisingly far. There's no particular trick to this, just do it quickly and you'll see Allen suddenly scoot forward and maybe catch a few frames of the 2HK startup.
+
+### Tick Throw
+
+Tick Throws are generally when you drop strings, often only doing jabs and attempted a delayed grab (do it instantly and the opponent will probably still have throw immunity from blockstun, causing the grab to whiff), catching a blocking opponent who is expecting a string to start or continue. 
+
+Sadly, Allen doesn't get to enjoy being + after his jabs, but this is still a very effective way of sneaking in grabs while starting from a string, and it causes the opponent to second-guess blocking strings.
