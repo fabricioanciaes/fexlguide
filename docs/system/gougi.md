@@ -26,6 +26,35 @@ Essentially, Blue Gougi are nice bonuses while Yellow Gougi are the powerful eff
 
 While there will be "best" Decks for characters, if you want to mess around with the Decks, first consider what the character wants to do. Grab Master probably won't get much mileage on Kairi and his lack of command grabs for example. Doctrine Dark has excellent mixup but not an amazing approach so Shinobi with its Ghost Gougi covers his weakness and allows his strength to excel.
 
-Also, do you want to enjoy the effects of your Gougi as soon as possible or are you okay being relatively weaker than your opponent for the beginning of the match? Some Decks require completely changing the way you play to Trigger the Gougi such as Miracle or Super Nova. Shinobi has very good effects especially considering how easy the Triggers are, but compared to a fully activated Juggernaut is less obviously powerful.
+Also, do you want to enjoy the effects of your Gougi as soon as possible or are you okay being relatively weaker than your opponent for the beginning of the match? Some Decks require completely changing the way you play to Trigger the Gougi such as Miracle or Super Nova. Shinobi has very good effects especially considering how easy the Triggers are, but compared to a fully activated Juggernaut is arguably less powerful.
 
-Most characters thankfully have more than one optimal deck in any case, so you'll still be able to mess around and not hamper yourself.
+Most characters thankfully have more than one optimal deck in any case, so you'll still be able to mess around and not hamper yourself. See the character pages for recommendations.
+
+## List of Gougi
+
+<table>
+<tr>
+    <th></th>
+    <th>Gougi</th>
+    <th>Trigger/Effect</th>
+    <th>Notes</th> 
+</tr>
+<tr>
+    <td>![Allen](/images/characters/portraits/Allen.png)</td>
+    <td>Rampage</td>
+    <td>Deal over 40 Damage in a single Combo. / Damage increase the more you attack.</td>
+    <td>As you attack the opponent, you build up stacks (up to 30) that increase your damage by 0.75%(?). You will lose these stacks if the opponent hasn't been hit or forced to blocked for 5 consecutive seconds. Landing hits will build up far more stacks than hits that are blocked. </td>
+</tr>
+<tr>
+    <td><b>IMAGE</b></td>
+    <td>Illusion</td>
+    <td>Receive over 300 points of Damage. / Become able to escape combos once per round.</td>
+    <td>you get to escape a combo fuck I don't know</td>
+</tr>
+<tr>
+    <td><b>IMAGE</b></td>
+    <td>Hades</td>
+    <td>Get knocked down 12 times / Gain Super Armour</td>
+    <td>Super Armour means that your character doesn't recoil from most hits. You will still take damage, but you will be able to fully act. This means your character can get full punishes on BEING hit by an opponent, walk through projectiles and consistently win trades. However, being knocked down, juggled or launched will still work as normal against Super Armour. Damage that is Super Armour'd through will be unscaled, so notably multihit moves and supers will actually do more damage than normal (For example, Allen Snider's Fire Force.) </td>
+</tr>
+</table>
