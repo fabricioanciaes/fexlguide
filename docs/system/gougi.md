@@ -57,4 +57,144 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
     <td>Get knocked down 12 times / Gain Super Armour</td>
     <td>Super Armour means that your character doesn't recoil from most hits. You will still take damage, but you will be able to fully act. This means your character can get full punishes on BEING hit by an opponent, walk through projectiles and consistently win trades. However, being knocked down, juggled or launched will still work as normal against Super Armour. Damage that is Super Armour'd through will be unscaled, so notably multihit moves and supers will actually do more damage than normal (For example, Allen Snider's Fire Force.) </td>
 </tr>
+<td><b>IMAGE</b></td>
+    <td>Guard Break</td>
+    <td>Attack your opponent with 4 Hard Attacks. / Hard Attacks become Guard Breaks.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Ghost</td>
+    <td>Avoid your opponent for 12 seconds / Turn invisible during Forward Dashes.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Guard Cancel</td>
+    <td>Guard 30 attacks. / Become able to cancel Guards into Special Attack/Super Combos.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Rage</td>
+    <td>Spend 10 Blocks of Super Meter / Gain the ability to recover Super Meter.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Overload</td>
+    <td>While having MAX Super Meter, attack 25 Special Attacks. / Activate all other Gougi.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Mammoth</td>
+    <td>Spend 20 blocks of Super Meter. / Increase Damage by 35%.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Hunting Dash</td>
+    <td>Attack your opponent with an Attack out of a Dash 15 times. / Input Down, Up to perform a Short Hop. (This uses Meter)</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Utsusemi</td>
+    <td>Perform a Recovery 5 times. / Turn invisible during Recoveries.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>6 Chain</td>
+    <td>Perform 15 Chain Combos. / Chain Combos becomes 6 Chains.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Pierce</td>
+    <td>Attack your opponents 30 times. / Normal Attacks deal Chip Damage.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Heads or Tails</td>
+    <td>Complete 1 Round. / Win - Activate 6 Chain / Lose - Health 50% -> Hades will activate.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>EX Arrow</td>
+    <td>Block an Aerial Attack 4 times. / By inputting Down > Up, you can jump directly to your opponent.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Energy Drain</td>
+    <td>Knock your opponent down 4 times. / Drain Super Meter from a downed opponent.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Soul Drain</td>
+    <td>Drain a total of 99 Super Meter from your opponent. / Drain Super Meter and Health by getting near your opponent.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Desperation</td>
+    <td>Perform Special Attacks or Super Combos 8 times. / Damage increases the more you land Special Attacks/Super Combos</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Meter Power</td>
+    <td>Build 5 bars of Super Meter / Gain a Damage boost depending on how much Super Meter you have.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Critical</td>
+    <td>Avoid your opponent for 12 seconds. / Gain a large Damage boost for a limited time.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Meter Gross</td>
+    <td>Perform 2 Reversals / Gain Meter when performing Reversals</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Power Reversal</td>
+    <td>Attack 5 Reversals. / Reversals gain a Damage boost.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Disrupt</td>
+    <td>Perform a Super Cancel from a Super Combo 2 times. / Spend all Super Meter to perform a powerful Super Combo.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Kraken Power</td>
+    <td>Perform a Special Throw or Throw Super Combo 5 times. / Increase Special Throw and Throw Super Combo Damage by 20%.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Kraken Grab</td>
+    <td>Spend a total of 10 seconds close to your opponent. / Special/Super Throw Range 30% UP. (Some exceptions.)</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Chip Up</td>
+    <td>Deal 40 points of Chip Damage. / Increase Chip Damage by 1.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Grab Up</td>
+    <td>Land 2 Normal Throws. / Increase Normal Throw range by 20%.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Erase Blow</td>
+    <td>Attack your opponent with Heavy Attacks 3 times. / Gain the ability to negate projectiles with Heavy Attacks.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Meter Up</td>
+    <td>Attack your opponent 10 times. / Increase Super Meter Gain by 10%.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Speed Up</td>
+    <td>Allow 10 Seconds to pass in game. / Increase Movement Speed by 10%.</td>
+    <td>Notes </td>
+</tr>
+<td><b>IMAGE</b></td>
+    <td>Attack Up</td>
+    <td>Build 1 Bar of Super Meter. / Increase Damage by 5%.</td>
+    <td>Notes </td>
+</tr>
 </table>
