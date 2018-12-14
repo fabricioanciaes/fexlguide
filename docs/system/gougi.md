@@ -30,6 +30,123 @@ Also, do you want to enjoy the effects of your Gougi as soon as possible or are 
 
 Most characters thankfully have more than one optimal deck in any case, so you'll still be able to mess around and not hamper yourself. See the character pages for recommendations.
 
+## List of Decks
+
+<table>
+<tr>
+    <th></th>
+    <th>Deck</th>
+    <th>Gougi Used</th>
+    <th>Recommended Characters</th>
+    <th>Notes</th> 
+</tr>
+<tr>
+    <td>IMAGE</td>
+    <td><b>Aggro</b></td>
+    <td>Rampage, Illusion, Chip Up, Grab Up, Erase Blow</td>
+    <td>Allen Snider</td>
+    <td>This deck is probably the most solid deck to pick if you're not quite sure what to take. All the effects are decently powerful and intuitive and can be used by the whole cast.</td>
+</tr>
+<tr>
+    <td>IMAGE</td>
+    <td><b>Juggernaut</b></td>
+    <td>Hades, Guard Break, Meter Up, Speed Up</td>
+    <td>Darun Mister</td>
+    <td>Another pretty decent beginner Deck, Hades will completely destroy anyone who doesn't understand how to beat super armour, and the blue Gougi are all easy to activate with good effects.</td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Shinobi</b></td>
+    <td>Ghost, Guard Cancel, Guard Break, Speed Up, Attack Up</td>
+    <td>Doctrine Dark</td>
+    <td>One of the best decks in the game, Ghost's fantastic Effect for offense and Guard Cancel, one of the best Gougi, for defense makes for a incredibly versatile deck.</td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Infinity</b></td>
+    <td>Rage, Guard Cancel, Meter Up, Meter Up, Meter Up</td>
+    <td>Allen Snider</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Miracle</b></td>
+    <td>Rage, Guard Cancel, Meter Up, Meter Up, Meter Up</td>
+    <td>Allen Snider</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Stealth Raptor</b></td>
+    <td>Hunting Dash, Utsusemi, Grab Up, Speed Up, Speed Up</td>
+    <td>Doctrine Dark</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Berserker</b></td>
+    <td>6 Chain, Pierce, Grab Up, Meter Up, Erase</td>
+    <td>Shadow Geist</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Double Face</b></td>
+    <td>Heads or Tails, Guard Cancel, Illusion, Grab Up, Speed Up</td>
+    <td>Doctrine Dark</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Sky Dancer</b></td>
+    <td>EX Arrow, Guard Break, Illusion, Chip Up, Frenzy</td>
+    <td>Doctrine Dark</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Nightmare</b></td>
+    <td>Energy Drain, Soul Drain, Ghost, Speed Up, Speed Up</td>
+    <td>Shadow Geist, Blair Dame</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Babel</b></td>
+    <td>Desperation, Guard Cancel, Attack Up, Speed Up, Meter Up</td>
+    <td>???</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Thunderbolt</b></td>
+    <td>Teleport, Critical, Attack Up, Meter Up, Frenzy</td>
+    <td>Darun Mister</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Fantasista</b></td>
+    <td>Meter Gross, Power Reversal, Disrupt, Attack Up, Meter Up</td>
+    <td>???</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Supernova</b></td>
+    <td>Overload, Rage, Guard Break, Disrupt, Meter Power</td>
+    <td>???</td>
+    <td>Notes </td>
+</tr>
+<tr>
+<td>IMAGE</td>
+    <td><b>Grab Master</b></td>
+    <td>Kraken Power, Kraken Grab, Grab Up, Speed Up, Erase Blow</td>
+    <td>???</td>
+    <td>Notes </td>
+</tr>
+</table>
+
 ## List of Gougi
 
 <table>
