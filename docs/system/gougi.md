@@ -93,28 +93,28 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 <td>IMAGE</td>
     <td><b>Double Face</b></td>
     <td>Heads or Tails, Guard Cancel, Illusion, Grab Up, Speed Up</td>
-    <td>Doctrine Dark</td>
+    <td>No one in particular</td>
     <td>Notes </td>
 </tr>
 <tr>
 <td>IMAGE</td>
     <td><b>Sky Dancer</b></td>
     <td>EX Arrow, Guard Break, Illusion, Chip Up, Frenzy</td>
-    <td>Doctrine Dark</td>
+    <td>Doctrine Dark, Garuda</td>
     <td>Notes </td>
 </tr>
 <tr>
 <td>IMAGE</td>
     <td><b>Nightmare</b></td>
     <td>Energy Drain, Soul Drain, Ghost, Speed Up, Speed Up</td>
-    <td>Shadow Geist, Blair Dame</td>
+    <td>Shadow Geist, Blair Dame, Skullomania</td>
     <td>Notes </td>
 </tr>
 <tr>
 <td>IMAGE</td>
     <td><b>Babel</b></td>
     <td>Desperation, Guard Cancel, Attack Up, Speed Up, Meter Up</td>
-    <td>???</td>
+    <td>Blair Dame</td>
     <td>Notes </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 <td>IMAGE</td>
     <td><b>Grab Master</b></td>
     <td>Kraken Power, Kraken Grab, Grab Up, Speed Up, Erase Blow</td>
-    <td>???</td>
+    <td>Darun Mister</td>
     <td>Notes </td>
 </tr>
 </table>
