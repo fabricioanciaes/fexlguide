@@ -267,7 +267,7 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
     <td>Desperation</td>
 <td>Babel</td>
     <td>Perform Special Attacks or Super Combos 8 times. / Damage increases the more you land Special Attacks/Super Combos</td>
-    <td>Each individual Special or Super move hit builds a stack (Must hit, can't be blocked, maxes out at 99 stacks), increases the damage of Specials or Supers by roughly 7.5% per stack. Is a genuinely solid increase in damage for special moves with a reasonable Trigger to pull off.</td>
+    <td>Each individual Special or Super move hit builds a stack (Must hit, can't be blocked, maxes out at 99 stacks), increases the damage of Specials or Supers by roughly 7.5% per stack. Is a genuinely solid increase in damage for special moves with a reasonable Trigger to pull off. However, it suffers from a really major downside in that all stacks are lost if the move is blocked or whiffed, making it actually a fairly underwhelming Gougi overall. Is still good for characters that can hit-confirm into specials and don't need to throw them out constantly .</td>
 </tr>
 <td><b>IMAGE</b></td>
     <td>Meter Power</td>
