@@ -117,7 +117,11 @@ Mids are moves that can blocked either crouching or standing. Almost all standin
 
 Highs/overheads are moves that must be blocked standing. Most jumping attacks and all Hard Attacks (`MP + MK`) hit high/overhead.
 
+FEXL runs at 60 frames per second, so 1 frame is a 60th of a second. 2 frames would be 1/30th etc.
+
 Startup means how long it takes for the move to actually hit.
+
+Active means how long the move will actually hit for before recovering. The more active frames the better as a rule.
 
 S.blo stands for standing block. In this case, it shows the difference in time between you recovering from your attack and the opponent recovering from blocking your attack. If it's 0, you both recover and can act at the same time. If it's -1 or lower, the opponent recovers faster and can act before you. If it's 1 or higher, you recover faster and can act before the opponent.
 
@@ -130,6 +134,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <th>Normal</th>
         <th>Description</th>
         <th>Startup</th>
+        <th>Active</th>
         <th>S.blo</th>
         <th>C.blo</th>
     </tr>
@@ -137,12 +142,14 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>5LP</b></td>
         <td>Allen's fastest normal with somewhat decent range, whiffs on crouchers Special Cancels.</td>
         <td>4</td>
+        <td>2</td>
         <td>-5</td>
         <td>-1</td>
     </tr>
     <tr>
         <td><b>5MP</b></td>
-        <td>A fairly mediocre mid, 2MP is preferred. Allen's only standing punch that doesn't whiff on crouchers. Special Cancels.</td>
+        <td>A fairly mediocre mid, 2MP is preferred. Allen's only standing punch that doesn't whiff on crouchers. Is a decent meaty given its active frames. Special Cancels.</td>
+        <td>6</td>
         <td>6</td>
         <td>-5</td>
         <td>-1</td>
@@ -151,6 +158,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>5HP</b></td>
         <td>A stubby mid that whiffs on crouchers from further away, not worth using in neutral. Special Cancels. Stick to 5HK for anti-airing. Super Cancels.</td>
         <td>13</td>
+        <td>3</td>
         <td>-2</td>
         <td>0</td>
     </tr>
@@ -158,6 +166,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>5LK</b></td>
         <td>Nice and quick long reaching normal, sadly doesn't hit low despite its animation. Special Cancels.</td>
         <td>5</td>
+        <td>6</td>
         <td>-8</td>
         <td>-4</td>
     </tr>
@@ -165,6 +174,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>5MK</b></td>
         <td>Another long range normal, thankfully doesn't whiff on crouchers, making it decent for blockstrings. Special Cancels.</td>
         <td>7</td>
+        <td>6</td>
         <td>-12</td>
         <td>-8</td>
     </tr>
@@ -172,12 +182,14 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>5HK</b></td>
         <td>Allen's dedicated anti-air button. This one works better for catching people jumping in far away, as its angle is pretty poor for people jumping right on top of you. Super cancellable, so is a decent way of starting [Triple Break Loop](#triplebreakloops)s. Whiffs on crouchers. Super Cancels.</td>
         <td>8</td>
-        <td>-3</td>
+        <td>8</td>
+        <td>-3</ktd>
         <td>-1</td>
     </tr>
     <tr>
         <td><b>2LP</b></td>
         <td>Good jab with long range that's only 1 frame slower than 5LP, decent for tick throws. Special Cancels.</td>
+        <td>5</td>
         <td>5</td>
         <td>-4</td>
         <td>-0</td>
@@ -186,6 +198,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>2MP</b></td>
         <td>Solid mid hitting normal, links into itself with dashing momentum and into 2MK as well. Special Cancels.</td>
         <td>6</td>
+        <td>6</td>
         <td>-4</td>
         <td>0</td>
     </tr>
@@ -193,6 +206,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>2HP</b></td>
         <td>An okay mid hitting punch, 2HK's long range makes it better for blockstrings. Super Cancels</td>
         <td>8</td>
+        <td>6</td>
         <td>-5</td>
         <td>-2</td>
     </tr>
@@ -200,6 +214,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>2LK</b></td>
         <td>Very fast long ranged kick that hits low, solid button in general. Special Cancels.</td>
         <td>5</td>
+        <td>6</td>
         <td>Hits Low</td>
         <td>-2</td>
     </tr>
@@ -207,6 +222,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>2MK</b></td>
         <td>Like 2LK with slightly longer, another solid button and can very much be used like any Street Fighter shoto's 2MK. Special Cancels.</td>
         <td>6</td>
+        <td>5</td>
         <td>Hits Low</td>
         <td>-3</td>
     </tr>
@@ -214,6 +230,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>2HK</b></td>
         <td>Allen's sweep, excellent range, low profile and fantastic frame data makes it great for ending block strings and dodging high attacks/fireballs. Special and Super Cancels, but as it knocks down on hit it can't be used to continue combos.</td>
         <td>7</td>
+        <td>?</td>
         <td>Hits Low</td>
         <td>-2</td>
     </tr>
@@ -222,12 +239,14 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td>Downward reaching jab, not particularly useful.</td>
         <td>4</td>
         <td>?</td>
+        <td>?</td>
         <td>Hits Overhead</td>
     </tr>
     <tr>
         <td><b>j.MP</b></td>
         <td>Similar to j.LP but slower, just use j.HP for the same normal but better.</td>
         <td>5</td>
+        <td>?</td>
         <td>13</td>
         <td>Hits Overhead</td>
     </tr>
@@ -235,6 +254,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>j.HP</b></td>
         <td>Probably the best jumping punch he has. However, his kick aerials are stronger in any case.</td>
         <td>5</td>
+        <td>?</td>
         <td>13</td>
         <td>Hits Overhead</td>
     </tr>
@@ -242,6 +262,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>j.LK</b></td>
         <td>A downward kick, just use j.MK instead.</td>
         <td>5</td>
+        <td>?</td>
         <td>5</td>
         <td>Hits Overhead</td>
     </tr>
@@ -249,6 +270,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>j.MK</b></td>
         <td>Allen's best general aerial, faster than j.LK for some reason and can also cross up on opponents. Stick to this one for your jump ins.</td>
         <td>4</td>
+        <td>?</td>
         <td>13</td>
         <td>Hits Overhead</td>
     </tr>
@@ -256,6 +278,7 @@ C.blo is similar but when the opponent crouch blocks instead.
         <td><b>j.HK</b></td>
         <td>Decent air to air and deals a solid chunk of damage, use this when your opponent is a bit too jump happy.</td>
         <td>8</td>
+        <td>?</td>
         <td>13</td>
         <td>Hits Overhead</td>
     </tr>
@@ -325,6 +348,8 @@ Super cancels, Fire force making it less unsafe and Triple Break potentially sta
 Very importantly, it super cancels which makes it excellent as combo filler for [Triple Break Loop](#triplebreakloops)s.
 
 The strength of the button determines the length Allen travels.
+
+Has a pretty near "clean hit" mechanic, where hitting with the tip of the fist deals more damage (29 damage to 34) and sets the opponent aflame (cosmetic only, no actual effect.)
 
 While it does destroy fireballs, it should only be used in combos since it's way too dangerous to  miss. Fantastic combo filler, don't use it to end combos if you can help it, especially in the corner.</td>
     <td>15/-79/-75</td>
@@ -491,7 +516,7 @@ As per all characters, Allen can chain from a normal to a higher strength normal
 
 ### Triple Break Loops
 
-This is THE Allen Snider combo. Easily converts from any move that super cancels and repeated as long as you have the meter. Also gives you an oppurtunity to figure out what Allen is actually shouting (Four Two Kick? Fortune Break?)
+This is THE Allen Snider combo. Easily converts from any move that super cancels and repeated as long as you have the meter. Also gives you an oppurtunity to figure out what Allen is actually shouting (Four Two Kick? Fortune Break?). You can potentially squeeze more damage out by getting clean hits of Justice Fist, but really, it's best to make sure the combo is finished.
 
 !!! quote "Whatever > Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
     As mentioned early, this is the basic Triple Break loop. Will work anywhere on the screen and deal roughly 40% damage.
@@ -509,6 +534,8 @@ This is THE Allen Snider combo. Easily converts from any move that super cancels
 ### VODs
 
 ### Primers/Tutorials
+
+
 
 ### Tech
 
