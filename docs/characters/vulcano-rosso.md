@@ -11,11 +11,11 @@ Vulcano Russo is a rushdown/vortex character with a somewhat unorthodox kit. He 
 
 !!! success "Strengths"
     - Extremely strong vortex that can lead back into itself.
-    - Superb mix up with his command dash and command short hop, allows him to convert his pressure into a full combo. - Strong anti-air normals with fairly decent conversions 
+    - Superb mix up with his command dash and command short hop, allows him to convert his pressure into a full combo. - Strong anti-air normals with fairly decent conversions - Good mobility with decent walk speed and run speed and a command dash
     
 !!! failure "Weaknesses"
     - Somewhat low damage even with meter, struggles to cash in more than one bar of meter in a combo.
-    - No real fireball game, forcing him to be up close to get anything done - Right pain in the arse to refer to his move by their actual names.
+    - No real fireball game, forcing him to be up close to get anything done - Outside of setups with Vulcanus, lacks a lot of ways to end blockstrings safely other than cutting them short. Has to rely on using his counters to catch punish attempts or attempting frame traps with his Rekka series. - Right pain in the arse to refer to his move by their actual names.
 
 
 ### 5 Minute Guide
@@ -385,12 +385,16 @@ How is their mobility? Are they fast? Is their jump arc notable?
 ### Offense
 ### Mix-Ups
 
-High-low mixups? Do they focus more on frame traps or tickthrows? Any left-right mix up? Do they have a solid throw game? Do any gougis they take give them mix up options?
+Vulcano Rosso is all about mixing up the opponent. Rosso still has access to the regular mixup tools, so remember to use your Lows, normal Throws, Hard Attack crossup j.LK, empty jump-ins into Lows and frame-traps to open the opponent up. 
+
+However, Rosso also has a built-in Short Hop with his Le Ali Di Aero(PP/PP) allowing him to get incredibly quick Overheads and a even better empty jump-in to Low than usual, both of which can be combo'd from. Rosso's Vulcanus(214P/4P) also forces the opponent to block and becomes even better if used meaty. You can also force the opponent to quickly switch the direction they block by using Sciara Del Fuoco (236K/6K) to dash through the opponent.
+
+Naturally, mixups can be enforced on most knockdowns, but a great way to set this up is with Rosso's staple combo, listed in t
 
 ### Set-Ups
+!!! quote "Meaty Vulcanus (214MP/4MP) > 2MK > Le Ali Di Aero(PP/PP) > Rage Of Vesuvio (236P/6P) > Torre Pendente Di Pisa (214214P/64P)"
+    A difficult but worthwhile combo that also doubles as a mixup even if blocked or dropped. The Super puts the opponent into the exact same situation, allowing this set-up to repeated over and over. Going from Low to Overhead extremely quick is just par for the course for Vulcano Rosso.
 
-!!! quote "Some move that knocks down into another move"
-    Is this a chip setup? Is it for oki/vortex?
 
 ### Frame-Traps
 
@@ -430,14 +434,13 @@ All characters can chain from a normal to a higher strength normal, either punch
 
 #### Universal Strings
 
-!!! quote "2/5LK > 2/5MK > 2HK"
-    A nice, safe(?) and fairly rewarding chain as it scores you a knockdown and works off your standing or crouching kicks.
+!!! quote "2/5LK > 2MK > 2HK"
+    A somewhat okay string. Unfortunately, 2HK is - on block and can be punished by 2LK easily. If you space it correctly so that you are pushed back far enough, particularly in the corner, you can be pushed out far enough that you can block in time. 
 
-!!! quote "2/5LK > 2/5MK > Command Normal > (Special/Super)"
-    A slightly more risky string as Command Normal is poor on block.
+!!! quote "2/5LK > 2MK > Rage Of Vesuvio (236P/6P) > Torre Pendente Di Pisa (214214P/64P)"
 
-!!! quote "2/5LK > 2/5MK > Special > Super"
-    A nice and beginner friendly combo. Drop the combo at the special.    
+!!! quote "2/5LK > 2MK > Rage Of Vesuvio (236P/6P) > P Follow Up > Torre Pendente Di Pisa (214214P/64P)"
+    Basically THE combo for Vulcano Russo. Works anywhere on the screen, lets you get a good vortex setup by chasing after the opponent and is even better in the corner. This is the general framework for your combo.s  
 
 #### Dash-In combos
 
