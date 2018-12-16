@@ -82,7 +82,7 @@ Blocking while crouching will block Highs as well, and will block Lows which are
 
 Crouch blocking, like most 2D fighting games, is by far the most foolproof kind of block. Many Lows are unreactably fast and on good, rewarding normals such as LKs, MKs and HKs while most Overheads are on jumping Attacks that are much easier to react to, and certain Unique Normals that are also easier to react to and are often not as rewarding as Lows. You want to Crouch Block by default and switch to Standing Block only if you see the opponent attempting a overhead attack.
 
-FEXL does have one mechanic that does change this however. Standing Block will actually let you recover from blocking quicker than Crouching Block. Therefore, certain moves will become unsafe if blocked standing, compared to blocking crouched. Doctrine Dark's Death Spinkick (`4MK`) is -4 on Crouching block, which is only punishable by standing LPs, which are usually out of range anyway. Standing blocks make this move -8 on block instead, which can be punished by most MKs and MPs. For a further explanation on how frame data works, click here.
+FEXL does have one mechanic that does change this however. Standing Block will actually let you recover from blocking quicker than Crouching Block. Therefore, certain moves will become unsafe if blocked standing, compared to blocking crouched. Doctrine Dark's Death Spinkick (`4MK`) is -4 on Crouching block, which is only punishable by standing LPs, which are usually out of range anyway. Standing blocks make this move -8 on block instead, which can be punished by most MKs and MPs. For a further explanation on how frame data works, [click here](#framedata).
 
 ### Chip Damage
 
