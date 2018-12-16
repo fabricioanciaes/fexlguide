@@ -13,8 +13,8 @@ theme:
   name: 'material'
   custom_dir: 'theme'
   palette:
-    primary: 'Blue Grey'
-    accent: 'Cyan'
+    primary: 'Amber'
+    accent: 'Amber'
 
 extra_css:
   - stylesheets/dark_theme.css

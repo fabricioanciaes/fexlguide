@@ -193,3 +193,15 @@ Widen out the md-content area and fix sidebar
     margin-left: 100vw;
   }
 }
+
+/* 
+make a certain td occupy the whole screen on mobile.
+Useful for text heavy tables
+*/
+
+@media(max-width:768px) {
+  .text-heavy {
+    min-width: calc(100vw - 1.8rem) !important;
+    background-color:red;
+  }
+}
