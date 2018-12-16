@@ -75,11 +75,48 @@ This guide uses Numpad notation. That means that directions correspond to the nu
 </tr>
 </table>
 
-For special moves, the first input is the classic input, the second is the progressive input.
+This guide uses Numpad notation. That means that directions correspond to the numbers on your keyboard numpad (ie. 6 is right, 4 is left, 8 s up, 2 is down). 5 means no direction held. For example, the classic Hadoken quartercircle motion would look like 236, the classic Tatsumaki/Hurricane Kick motion is 214 and the classic Shoryuken motion is 623.
+
+<table>
+<tr>
+    <th>Notation</th>
+    <th>Meaning</th>
+</tr>
+<tr>
+    <td>LP</td>
+    <td>Light Punch</td>
+</tr>
+<tr>
+    <td>MP</td>
+    <td>Medium Punch</td>
+</tr>
+<tr>
+    <td>HP</td>
+    <td>Heavy Punch</td>
+</tr>
+<tr>
+    <td>LK</td>
+    <td>Light Kick</td>
+</tr>
+<tr>
+    <td>MK</td>
+    <td>Medium Kick</td>
+</tr>
+<tr>
+    <td>HK</td>
+    <td>Heavy Kick</td>
+</tr>
+<tr>
+    <td>MP+MK</td>
+    <td>Press both MP and MK at the same time.</td>
+</tr>
+</table>
+
+For the special and super moves listed later on, the first input is the classic input, the second is the progressive input.
 
 Cancel means you can do something else as soon as your first move hits IE. `2MK` on hit can go straight into a special move if you input the special move as `2MK` would hit. Special Cancel means you can cancel into Special Moves and Super Cancel means you can cancel into Super Moves.
 
-Link means you have to let the move finish first before you can do another move.
+Link means you have to let the move finish first before you can do another move. An example is `2MP` into `2MK` where 2MP has to completely start up, hit and recover before the 2MK can come out.
 
 Lows are moves that have to be blocked crouching. Most crouching kicks hit low.
 
@@ -87,7 +124,11 @@ Mids are moves that can blocked either crouching or standing. Almost all standin
 
 Highs/overheads are moves that must be blocked standing. Most jumping attacks and all Hard Attacks (`MP + MK`) hit high/overhead.
 
+FEXL runs at 60 frames per second, so 1 frame is a 60th of a second. 2 frames would be 1/30th etc.
+
 Startup means how long it takes for the move to actually hit.
+
+Active means how long the move will actually hit for before recovering. The more active frames the better as a rule.
 
 S.blo stands for standing block. In this case, it shows the difference in time between you recovering from your attack and the opponent recovering from blocking your attack. If it's 0, you both recover and can act at the same time. If it's -1 or lower, the opponent recovers faster and can act before you. If it's 1 or higher, you recover faster and can act before the opponent.
 
