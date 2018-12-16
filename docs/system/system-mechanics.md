@@ -40,15 +40,28 @@ A combo is a series of attacks you make that the opponent takes and cannot act b
 
 FEXL has a fun combo system that allows you to do a normal attack such as `5LP` and if it hits, blocked or otherwise, it'll allow you to immediately go into a stronger attack such as `5MP` or `5MK`. You can switch from crouching to standard normals and vice versa at any time in the chain. This lets you do chains like:
 
-!!! success "Possible String examples" - `5LP` > `5MP` > `5HP` - `5LK` > `5MK` > `5HP` - `2LK` > `2MK` > `2HK` - `5LK` > `5MP` > `2HK` - `2LP` > `2MP` > `5HK`
+!!! success "Possible String examples"
+
+    - `5LP` > `5MP` > `5HP`
+    - `5LK` > `5MK` > `5HP`
+    - `2LK` > `2MK` > `2HK`
+    - `5LK` > `5MP` > `2HK`
+    - `2LP` > `2MP` > `5HK`
 
 You cannot chain into a normal of the same strength and you can't chain into a lower strength so these won't work :
 
-!!! failure "Impossible String examples" - `2LK` > `2LP` > `5MP` > `5MK` > `2HK` - `5HP` > `2MK` > `2HK` - `5HP` > `2LK` > `5LK`
+!!! failure "Impossible String examples"
 
-There is a specific Gougi called 6 Chain which slightly changes up the rules. This allows you to actually go from a punch to the same strength kick which is normally not possible. Otherwise, the same rules apply.
+    - `2LK` > `2LP` > `5MP` > `5MK` > `2HK`
+    - `5HP` > `2MK` > `2HK`
+    - `5HP` > `2LK` > `5LK`
 
-!!! success "Only Possible when 6 Chain is in effect" - `5LP` > `5LK` > `5MP` > `5MK` > `5HP` > `5HK` - `5LP` > `2LK` > `2MP` > `5MK` > `5HP` > `2HK`
+There is a specific Gougi called [6 Chain](/system/gougi/#6chain) which slightly changes up the rules. This allows you to actually go from a punch to the same strength kick which is normally not possible. Otherwise, the same rules apply.
+
+!!! success "Only Possible when 6 Chain is in effect"
+    
+    - `5LP` > `5LK` > `5MP` > `5MK` > `5HP` > `5HK`
+    - `5LP` > `2LK` > `2MP` > `5MK` > `5HP` > `2HK`
 
 Naturally, these chains make comboing and stringing together attacks much easier and are well worth learning. The first thing you should get comfortable with when picking the game or a new character is finding a chain that you can reliably land and lets you deal good damage and/or is safe to do against someone blocking. Lastly, most characters have command normals (called Unique Normals in the move list in-game.) All characters have a Hard Attack listed that can not be chained into, but often they will have another listed move that CAN be chained into from any normal move. For example, Allen has `6MK` which can chained into from `5HK` which would be impossble if it was a regular normal. You can use these particular command normals to further extend your chain, getting 4 or more hits for your chains.
 
@@ -82,7 +95,9 @@ Blocking while crouching will block Highs as well, and will block Lows which are
 
 Crouch blocking, like most 2D fighting games, is by far the most foolproof kind of block. Many Lows are unreactably fast and on good, rewarding normals such as LKs, MKs and HKs while most Overheads are on jumping Attacks that are much easier to react to, and certain Unique Normals that are also easier to react to and are often not as rewarding as Lows. You want to Crouch Block by default and switch to Standing Block only if you see the opponent attempting a overhead attack.
 
-FEXL does have one mechanic that does change this however. Standing Block will actually let you recover from blocking quicker than Crouching Block. Therefore, certain moves will become unsafe if blocked standing, compared to blocking crouched. Doctrine Dark's Death Spinkick (`4MK`) is -4 on Crouching block, which is only punishable by standing LPs, which are usually out of range anyway. Standing blocks make this move -8 on block instead, which can be punished by most MKs and MPs. For a further explanation on how frame data works, [click here](#framedata).
+!!! tip "Blocking while standing reduces blockstun"
+
+    FEXL does have one mechanic that does change this however. Standing Block will actually let you recover from blocking quicker than Crouching Block. Therefore, certain moves will become unsafe if blocked standing, compared to blocking crouched. Doctrine Dark's Death Spinkick (`4MK`) is -4 on Crouching block, which is only punishable by standing LPs, which are usually out of range anyway. Standing blocks make this move -8 on block instead, which can be punished by most MKs and MPs. For a further explanation on how frame data works, [click here](#frame-data).
 
 ### Chip Damage
 

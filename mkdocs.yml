@@ -49,7 +49,6 @@ nav:
   - Home: 'index.md'
   - Systems:
     - Mechanics: 'system/system-mechanics.md'
-    - Deck: 'system/deck.md'
     - Gougi: 'system/gougi.md'
   - Characters:
     - Allen Snider: 'characters/allen-snider.md'

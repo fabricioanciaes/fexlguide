@@ -67,8 +67,8 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 <tr id="infinity">
     <td><a href="#infinity">Infinity</a></td>
     <td><a href="#rage">Rage</a>, <a href="#guardcancel">Guard Cancel</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a></td>
-    <td>Allen Snider</td>
-    <td>Notes </td>
+    <td>Allen Snider, Jack, Shirase</td>
+    <td>Specially good for meter dependant characters. Loop characters heavily benefit from this deck because of the meter ups.</td>
 </tr>
 
 <tr id="miracle">
@@ -89,7 +89,7 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
     <td><a href="#berserker">Berserker</a></td>
     <td><a href="#6chain">6 Chain</a>, <a href="#pierce">Pierce</a>, <a href="#grabup">Grab Up</a>, <a href="#meterup">Meter Up</a>, <a href="#erase">Erase</a></td>
     <td>Shadow Geist</td>
-    <td>Notes </td>
+    <td>Focused on chip damage. 6chain and pierce heavily synergize with each other for that purpose. Since you're focused on making your opponent block, you can also sneak throws more easily thanks to the Grab Up gougi too.</td>
 </tr>
 
 <tr id="doubleface">
@@ -110,7 +110,7 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
     <td><a href="#nightmare">Nightmare</a> </td>
     <td><a href="#energydrain">Energy Drain</a>, <a href="#souldrain">Soul Drain</a>, <a href="#ghost">Ghost</a>, <a href="#speedup">Speed Up</a>, <a href="#speedup">Speed Up</a></td>
     <td>Shadow Geist, Blair Dame, Skullomania</td>
-    <td>Notes </td>
+    <td>Steal resources from your opponent, which is a possible counterpick for infinity decks. Ghost gougi also helps with mixups and characters that have trouble in approaching</td>
 </tr>
 
 <tr id="babel">
@@ -154,8 +154,7 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 
 <table>
   <tr>
-    <th></th>
-    <th>Gougi</th>
+    <th colspan="2">Gougi</th>
     <th>Used in Decks</th>
     <th>Trigger</th>
     <th>Effect</th>
@@ -336,7 +335,7 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
       chain system to lower strength to higher strength gets the addition that
       you can go to a punch to a same strength kick (ie. MP > MK becomes a
       chain, not a link) before going to the higher Strength. This lets you do
-      something like LP > LK > MP > MK > HP > HK. Allows you to pull off some
+      something like <code>LP > LK > MP > MK > HP > HK</code>. Allows you to pull off some
       ridiculous blockstrings/strings (mostly from dash ins, getting full 6
       chains is impossible without some momentum) and combines very well with
       Pierce.
