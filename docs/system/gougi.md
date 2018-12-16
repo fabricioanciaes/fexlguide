@@ -35,7 +35,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 
 <table>
 <tr>
-    <th></th>
     <th>Deck</th>
     <th>Gougi Used</th>
     <th>Recommended Characters</th>
@@ -43,7 +42,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="aggro">
-    <td>Image</td>
     <td><a href="#aggro">Aggro</a></td>
     <td>
     <a href="#rampage">Rampage</a>, <a href="#illusion">Illusion</a> , <a href="#chipup">Chip Up</a>, <a href="#grabup">Grab Up</a>, <a href="#eraseblow">Erase Blow</a>
@@ -53,7 +51,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="juggernaut">
-    <td>IMAGE</td>
     <td><a href="#juggernaut">Juggernaut</a></td>
     <td><a href="#hades">Hades</a>, <a href="#guardbreak">Guard Break</a>, <a href="#meterup">Meter Up</a>, <a href="#speedup">Speed Up</a></td>
     <td>Darun Mister</td>
@@ -61,7 +58,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="shinobi">
-    <td>IMAGE</td>
     <td><a href="#shinobi">Shinobi</a></td>
     <td><a href="#ghost">Ghost</a>, <a href="#guardcancel">Guard Cancel</a>, <a href="#guardbreak">Guard Break</a>, <a href="#speedup">Speed Up</a>, <a href="#attackup">Attack Up</a></td>
     <td>Doctrine Dark</td>
@@ -69,7 +65,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="infinity">
-    <td>IMAGE</td>
     <td><a href="#infinity">Infinity</a></td>
     <td><a href="#rage">Rage</a>, <a href="#guardcancel">Guard Cancel</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a></td>
     <td>Allen Snider</td>
@@ -77,7 +72,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="miracle">
-    <td>IMAGE</td>
     <td><a href="#miracle">Miracle</a></td>
     <td><a href="#rage">Rage</a>, <a href="#guardcancel">Guard Cancel</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a></td>
     <td>Allen Snider</td>
@@ -85,7 +79,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="stealthraptor">
-    <td>IMAGE</td>
     <td><a href="#stealthraptor">Stealth Raptor</a></td>
     <td><a href="#huntingdash">Hunting Dash</a>, <a href="#utsusemi">Utsusemi</a>, <a href="#grabup">Grab Up</a>, <a href="#speedup">Speed Up</a>, <a href="#speedup">Speed Up</a></td>
     <td>Doctrine Dark</td>
@@ -93,7 +86,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="berserker">
-    <td>IMAGE</td>
     <td><a href="#berserker">Berserker</a></td>
     <td><a href="#6chain">6 Chain</a>, <a href="#pierce">Pierce</a>, <a href="#grabup">Grab Up</a>, <a href="#meterup">Meter Up</a>, <a href="#erase">Erase</a></td>
     <td>Shadow Geist</td>
@@ -101,7 +93,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="doubleface">
-    <td>IMAGE</td>
     <td><a href="#doubleface">Double Face</a></td>
     <td><a href="#headsortails">Heads or Tails</a>, <a href="#guardcancel">Guard Cancel</a>, <a href="#illusion">Illusion</a>, <a href="#grabup">Grab Up</a>, <a href="#speedup">Speed Up</a></td>
     <td>No one in particular</td>
@@ -109,7 +100,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="skydancer">
-    <td>IMAGE</td>
     <td><a href="#skydancer">Sky Dancer</a></td>
     <td><a href="#exarrow">EX Arrow</a>, <a href="#guardbreak">Guard Break</a>, <a href="#illusion">Illusion</a>, <a href="#chipup">Chip Up</a>, <a href="#frenzy">Frenzy</a></td>
     <td>Doctrine Dark, Garuda</td>
@@ -117,7 +107,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="nightmare">
-    <td>IMAGE</td>
     <td><a href="#nightmare">Nightmare</a> </td>
     <td><a href="#energydrain">Energy Drain</a>, <a href="#souldrain">Soul Drain</a>, <a href="#ghost">Ghost</a>, <a href="#speedup">Speed Up</a>, <a href="#speedup">Speed Up</a></td>
     <td>Shadow Geist, Blair Dame, Skullomania</td>
@@ -125,7 +114,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="babel">
-    <td>IMAGE</td>
     <td><a href="#babel">Babel</a></td>
     <td><a href="#desperation">Desperation</a>, <a href="#guardcancel">Guard Cancel</a>, <a href="#attackup">Attack Up</a>, <a href="#speedup">Speed Up</a>, <a href="#meterup">Meter Up</a></td>
     <td>Blair Dame</td>
@@ -133,7 +121,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="thunderbolt">
-    <td>IMAGE</td>
     <td><a href="#thunderbolt">Thunderbolt</a></td>
     <td><a href="#teleport">Teleport</a>, <a href="#critical">Critical</a>, <a href="#attackup">Attack Up</a>, <a href="#meterup">Meter Up</a>, <a href="#frenzy">Frenzy</a></td>
     <td>Darun Mister</td>
@@ -141,7 +128,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="fantasista">
-    <td>IMAGE</td>
     <td><a href="#fantasista">Fantasista</a></td>
     <td><a href="#metergross">Meter Gross</a>, <a href="#powerreversal">Power Reversal</a>, <a href="#disrupt">Disrupt</a>, <a href="#attackup">Attack Up</a>, <a href="#meterup">Meter Up</a></td>
     <td>???</td>
@@ -149,7 +135,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="supernova">
-    <td>IMAGE</td>
     <td><a href="#supernova">Supernova</a></td>
     <td><a href="#overload">Overload</a>, <a href="#rage">Rage</a>, <a href="#guardbreak">Guard Break</a>, <a href="#disrupt">Disrupt</a>, <a href="#meterpower">Meter Power</a></td>
     <td>???</td>
@@ -157,7 +142,6 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 </tr>
 
 <tr id="grabmaster">
-    <td>IMAGE</td>
     <td><a href="#grabmaster">Grab Master</a></td>
     <td><a href="#krakenpower">Kraken Power</a>, <a href="#krakengrab">Kraken Grab</a>, <a href="#grabup">Grab Up</a>, <a href="#speedup">Speed Up</a>, <a href="#eraseblow">Erase Blow</a></td>
     <td>Darun Mister</td>
