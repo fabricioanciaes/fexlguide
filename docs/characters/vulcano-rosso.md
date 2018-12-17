@@ -480,6 +480,6 @@ Rosso doesn't have particularly good strings that end in safe Specials or Supers
 
 ### 3 Bar Super Sequence
 
-!!! quote "Accelerando(214214K/64K) (Cancel on 12th Hit) > Ponte Dei Sospiri (236236P/46P) (Cancel on 3rd hit > Accelerando(214214K/64K)" If you HAVE to spend 3 bars, this is the most damaging Super Sequence. Unless this will definitely kill though, this is basically never worth the bar.
+!!! quote "Accelerando(214214K/64K) (Cancel on 12th Hit) > Ponte Dei Sospiri (236236P/46P) (Cancel on 3rd hit > Accelerando(214214K/64K)" If you HAVE to spend 3 bars, this is the most damaging Super Sequence. Unless this will definitely kill though, this is never worth the bar.
 
 
