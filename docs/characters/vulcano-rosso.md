@@ -11,11 +11,11 @@ Vulcano Russo is a rushdown/vortex character with a somewhat unorthodox kit. He 
 
 !!! success "Strengths"
     - Extremely strong vortex that can lead back into itself.
-    - Superb mix up with his command dash and command short hop, allows him to convert his pressure into a full combo. - Strong anti-air normals with fairly decent conversions 
+    - Superb mix up with his command dash and command short hop, allows him to convert his pressure into a full combo. - Strong anti-air normals with fairly decent conversions - Good mobility with decent walk speed and run speed and a command dash
     
 !!! failure "Weaknesses"
     - Somewhat low damage even with meter, struggles to cash in more than one bar of meter in a combo.
-    - No real fireball game, forcing him to be up close to get anything done - Right pain in the arse to refer to his move by their actual names.
+    - No real fireball game, forcing him to be up close to get anything done - Outside of setups with Vulcanus, lacks a lot of ways to end blockstrings safely other than cutting them short. Has to rely on using his counters to catch punish attempts or attempting frame traps with his Rekka series. - Right pain in the arse to refer to his move by their actual names.
 
 
 ### 5 Minute Guide
@@ -374,23 +374,34 @@ Quick note, in startup framedata (eg. x + y), x means the startup until Super Fr
 ## Gameplan
 ### Neutral
 
-What are the character's pokes?
+Rosso wants to mainly use his crouching normals and 2LK to poke and approach, as his 5MK is a dedicated anti-air that easily whiffs on crouchers. Rosso lacks a faraway fireball game, but can still somewhat zone opponents with his Vulcanus(214P/4P). 
 
-Do they have a fireball game? Do their specials have application in the neutral? (IE. Allen's fireball game, D.Dark's EXplosives and Dark Wire)
+If you've taken a deck with Ghost, you want to try to lame the opponent out at the start of the match until you Trigger Ghost.
 
-How do they antiair?
+Against other characters fireball game (or other specials with long range), you can attempt to use your counters to get the jump on the opponent. Ideally try to approach the traditional way with running in and blocking unless you really have the read with your counters.
 
-How is their mobility? Are they fast? Is their jump arc notable?
+For anti-airing, your 2MK and 2HP are pretty excellent normals that can be both Super Cancelled into Torre Pendente Di Pisa (214214P/64P), leading to his setups.
+
+Vulcano Rosso has fantastic walk speed and run speed, with a quick low jump. This makes his jump approaches harder to react to. You need to use his mobility as Rosso thrives up close.
 
 ### Offense
 ### Mix-Ups
 
-High-low mixups? Do they focus more on frame traps or tickthrows? Any left-right mix up? Do they have a solid throw game? Do any gougis they take give them mix up options?
+Vulcano Rosso is all about mixing up the opponent. Rosso still has access to the regular mixup tools, so remember to use your Lows, normal Throws, Hard Attack crossup j.LK, empty jump-ins into Lows and frame-traps to open the opponent up. 
+
+However, Rosso also has a built-in Short Hop with his Le Ali Di Aero(PP/PP) allowing him to get incredibly quick Overheads and a even better empty jump-in to Low than usual, both of which can be combo'd from. Rosso's Vulcanus(214P/4P) also forces the opponent to block and becomes even better if used meaty. You can also force the opponent to quickly switch the direction they block by using Sciara Del Fuoco (236K/6K) to dash through the opponent.
+
+Naturally, mixups can be enforced on most knockdowns, but a great way to set this up is with Rosso's staple combo, listed in the Universal Strings below.
 
 ### Set-Ups
 
-!!! quote "Some move that knocks down into another move"
-    Is this a chip setup? Is it for oki/vortex?
+!!! quote "Any knockdown > (Sciara Del Fuoco (236K/6K) if you need to catch up) > Vulcanus (214MP/4MP)"
+
+Basically the thing you do when you get a knockdown, forces the opponent to block and if they don't, you get to combo for free. While they are blocking, you also get to mix them up for free. Try to set this up whenever possible.
+
+!!! quote "Meaty Vulcanus (214MP/4MP) > 2MK > Le Ali Di Aero(PP/PP) > Rage Of Vesuvio (236P/6P) > Torre Pendente Di Pisa (214214P/64P)"
+    A difficult but worthwhile combo that also doubles as a mixup even if blocked or dropped. The Super puts the opponent into the exact same situation, allowing this set-up to repeated over and over. Going from Low to Overhead extremely quick is just par for the course for Vulcano Rosso.
+
 
 ### Frame-Traps
 
@@ -401,21 +412,25 @@ High-low mixups? Do they focus more on frame traps or tickthrows? Any left-right
     
     The dummy will try to jab their way out of any gaps and if you've delayed correctly, you'll hit the dummy out of the startup of their jab. `2MP` or `2MK` are great normals to try and frame trap from.
 
-!!! quote "Some normal > Other normal or special"
-    Specific examples.
+
+
+!!! quote "2MP/2MK > Rage Of Vesuvio (236P/6P)"
+    Rosso's main way of frame trapping normally from these normals. Sadly is unsafe if blocked so is fairly risky to go for. However, attempting the Umiliazione Di Canossa(214K/4K) adds yet another layer, as someone punishing the Rage Of Vesuvio can then caught by the counter. This in turn is also unsafe if the opponent doesn't take the bait or simply does an attack that doesn't trigger the specific strength of the counter (IE. Lows will beat 214MK.)
 
 
 
 ### Defense
-Does your character have anything interesting outside of the normal defensive routes (it's good to note normal defense regardless). Do they just have to hold pressure or can they worm their way out? Do they take any decks that help them with defense (Guard cancel etc.)
+
+While Vulcano Rosso can make defense a living hell for other characters, Rosso isn't particularly good at defense himself. A lack of good Special Reversals  and pretty poor Supers mean that Rosso mostly has to hold any pressure or otherwise rely on Guard Cancel if he's running a deck that uses it. Thankfully, as Rosso can often have meter in stock, he's quite happy to pay the 1 bar.
+
 
 ### Reversals
 
-Do they have wising dwagon (also all supers have invuln as well I guess)
+Rosso lacks particularly good reversals. His counters have startup before the actual counter becomes active, making them very poor as reversals. If you need to use a reversal, either use Accelerando(214214K/64K) or 236236P. Ponte Dei Sospiri (236236P/46P)
 
 ### Escapes
 
-Is your character particularly good for getting out? Teleports for example? Any Gougi that helps?
+Vulcano Rosso despite lacking good reversals does have ways of escaping quickly. His Sciara Del Fuoco (236K/6K) is pretty decent for dashing through the opponent. Along with his mobility and preferred decks that include Ghost or Utsusemi, Vulcano Rosso can sneak his way through gaps.
 
 ---
 
@@ -430,46 +445,41 @@ All characters can chain from a normal to a higher strength normal, either punch
 
 #### Universal Strings
 
-!!! quote "2/5LK > 2/5MK > 2HK"
-    A nice, safe(?) and fairly rewarding chain as it scores you a knockdown and works off your standing or crouching kicks.
+!!! quote "2/5LK > 2MK > 2HK"
+    A somewhat okay string. Unfortunately, 2HK is - on block and can be punished by 2LK easily. If you space it correctly so that you are pushed back far enough, particularly in the corner, you can be pushed out far enough that you can block in time. 
 
-!!! quote "2/5LK > 2/5MK > Command Normal > (Special/Super)"
-    A slightly more risky string as Command Normal is poor on block.
+!!! quote "2/5LK > 2MK > Rage Of Vesuvio (236P/6P) > P Follow Up > K Follow Up" A decent meterless string with alright options for follow up. If you have the bar, you'll want to do the combo listed below.
 
-!!! quote "2/5LK > 2/5MK > Special > Super"
-    A nice and beginner friendly combo. Drop the combo at the special.    
+!!! quote "2/5LK > 2MK > Rage Of Vesuvio (236P/6P) > P Follow Up > Torre Pendente Di Pisa (214214P/64P)" Basically THE combo for Vulcano Russo. Works anywhere on the screen, lets you get a good vortex setup by chasing after the opponent and is even better in the corner. This is the general framework for your combo.s  
 
 #### Dash-In combos
 
-!!! quote "2MP > 2MP > 2MK > Special/Command Normal > ([Example Super Loop](#examplesuperloops)/ Other Super)"
+!!! quote "2MP > 2MP > 2MK > Rage Of Vesuvio (236P/6P) > P Follow Up > Torre Pendente Di Pisa (214214P/64P)"
+
     The momentum from your dash allows you to link (Not chain, so timing is a lot more strict) a second `2MP` which can then link into `2MK`.
     
-    This is definitely more difficular than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Mix it up with cancelling your `2MP`s into `Something`.
-    
-    A very respectable punish combo against very unsafe moves like Rising Dragons or many blocked supers.
+    This is definitely more difficult than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Frametrap with cancelling your `2MP`s or `2MK`s into either `5HK` or Rage Of Vesuvio (236P/6P). A very respectable punish combo against very unsafe moves like Rising Dragons or many blocked supers.
 
 ### Hit-Confirms
 
-!!! quote "2LK> 2MK > Command normal > Whatever"
-    If `command normal` will be blocked, it's better to go into `X` or `Y` instead.
+!!! quote "2LK> 2MK > Whatever"
 
-!!! quote "Whatever > Special"
-    Special is safe on block or chips or whatever.
+Rosso doesn't have particularly good strings that end in safe Specials or Supers. If you aren't hit confirming, it's best to end with the 2MK. At certain spacings, you can sneak in a 2HK, but as it knocks down it has no combo potential.
+    
 
 ### Anti-Air Conversions
 
-!!! quote "AntiAir Normal > Super / Special"
-    Does Range matter? Is it an immediate cancel?
+!!! quote "5MP/5MK>2HP > Torre Pendente Di Pisa (214214P/64P)"
+    A fairly consistent conversion that gets really nice knockdown and corner carry.
 
 ### Air to Air Conversions
 
-!!! quote "j.MK/HK > Special / Super"
-    Is this Height dependent? Do you need to land?
+!!! quote "j.MK/HK > 5MK > Torre Pendente Di Pisa (214214P/64P)"
+    A fairly decent conversion, sadly Rosso doesn't have any air Specials or Supers to easily confirm into. It's best to attempt a 5MK and buffer the Super. Depending on where you are in your jump arc and where the opponent is, this may not be possible to land, so make sure you know the Super will hit.
 
 
-### Example Super Loop
+### 3 Bar Super Sequence
 
-!!! quote "Whatever > Super > Combo Filler > Super > Combo Filler > Super > Combo Ender"
-    Any particular input tricks? How does hitstun decay affect the later part of the combos?
+!!! quote "Accelerando(214214K/64K) (Cancel on 12th Hit) > Ponte Dei Sospiri (236236P/46P) (Cancel on 3rd hit > Accelerando(214214K/64K)" If you HAVE to spend 3 bars, this is the most damaging Super Sequence. Unless this will definitely kill though, this is never worth the bar.
 
 
