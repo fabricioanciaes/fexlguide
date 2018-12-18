@@ -11,27 +11,13 @@ Doctrine Dark is a fairly unorthodox character that both plays lame and zone-y, 
 
 
 !!! success "Strengths"
-    - EXplosive is a surprisingly strong zoning tool, shutting down many approachs from both air and ground. - Dark Wire can be both combo'd out of and into, making it a great combo starter and combo linker. - Dark Defender allows for fairly easy conversions as an anti-air -With the right gougi, can easily play both very defensively and very offensively, switching as needed.
+    - Surprisingly strong zoning with his Dark Wire, Dark Defender and EX-Plosive, shutting down many approachs from both air and ground. - Dark Wire can be both combo'd out of and into, making it a great combo starter and combo linker. - Dark Defender allows for fairly easy conversions as an anti-air - With the right gougi, can easily play both very defensively and very offensively, switching as needed. -
 
     
 
 !!! failure "Weaknesses"
-    - Has quite a few stubby normals
+    - Has quite a few stubby normals, making his strings fairly awkward and limited
     - Very low damage even with meter, making him a very poor comeback character -  - Doesn't have particularly good ways of spending all his meter in a combo. - No meterless reversals, and his metered reversals aren't great either.
-
-### 5 Minute Guide
-
-(if you don't know what the abbreviations mean, check the [notation](#notation) guide below.)
-
-Hit the buttons until the other player falls down.
-
-### Recommended Decks
-
-!!! tip "Shinobi"
-    - Ghost is the center piece, allowing Doctrine Dark to approach safely. Doctrine Dark also has no problem laming the opponent out for the 8 seconds needed to Trigger Ghost.
-    - Guard Break gives Doctrine Dark a very quick unblockable that staggers the opponent so much he gets a free jump in combo. Dark Wire also allows him to combo into the Hard Attack easily.
-    - Guard Cancel as always is a huge buff to Doctrine Dark's defense and really covers for his weakness.
-
 
 ---
 
@@ -76,11 +62,48 @@ This guide uses Numpad notation. That means that directions correspond to the nu
 </tr>
 </table>
 
-For special moves, the first input is the classic input, the second is the progressive input.
+This guide uses Numpad notation. That means that directions correspond to the numbers on your keyboard numpad (ie. 6 is right, 4 is left, 8 s up, 2 is down). 5 means no direction held. For example, the classic Hadoken quartercircle motion would look like 236, the classic Tatsumaki/Hurricane Kick motion is 214 and the classic Shoryuken motion is 623.
+
+<table>
+<tr>
+    <th>Notation</th>
+    <th>Meaning</th>
+</tr>
+<tr>
+    <td>LP</td>
+    <td>Light Punch</td>
+</tr>
+<tr>
+    <td>MP</td>
+    <td>Medium Punch</td>
+</tr>
+<tr>
+    <td>HP</td>
+    <td>Heavy Punch</td>
+</tr>
+<tr>
+    <td>LK</td>
+    <td>Light Kick</td>
+</tr>
+<tr>
+    <td>MK</td>
+    <td>Medium Kick</td>
+</tr>
+<tr>
+    <td>HK</td>
+    <td>Heavy Kick</td>
+</tr>
+<tr>
+    <td>MP+MK</td>
+    <td>Press both MP and MK at the same time.</td>
+</tr>
+</table>
+
+For the special and super moves listed later on, the first input is the classic input, the second is the progressive input.
 
 Cancel means you can do something else as soon as your first move hits IE. `2MK` on hit can go straight into a special move if you input the special move as `2MK` would hit. Special Cancel means you can cancel into Special Moves and Super Cancel means you can cancel into Super Moves.
 
-Link means you have to let the move finish first before you can do another move.
+Link means you have to let the move finish first before you can do another move. An example is `2MP` into `2MK` where 2MP has to completely start up, hit and recover before the 2MK can come out.
 
 Lows are moves that have to be blocked crouching. Most crouching kicks hit low.
 
@@ -88,13 +111,17 @@ Mids are moves that can blocked either crouching or standing. Almost all standin
 
 Highs/overheads are moves that must be blocked standing. Most jumping attacks and all Hard Attacks (`MP + MK`) hit high/overhead.
 
+FEXL runs at 60 frames per second, so 1 frame is a 60th of a second. 2 frames would be 1/30th etc.
+
 Startup means how long it takes for the move to actually hit.
+
+Active means how long the move will actually hit for before recovering. The more active frames the better as a rule.
 
 S.blo stands for standing block. In this case, it shows the difference in time between you recovering from your attack and the opponent recovering from blocking your attack. If it's 0, you both recover and can act at the same time. If it's -1 or lower, the opponent recovers faster and can act before you. If it's 1 or higher, you recover faster and can act before the opponent.
 
 C.blo is similar but when the opponent crouch blocks instead.
 
-For more frame data, [follow this link](https://docs.google.com/spreadsheets/d/1aQF9jqGPcFRkoLZwxK7pgEhdNT3vwWf_zrRHusydbrE/edit#gid=382523961)
+When editing, use this guide for the frame data, it's all here. https://docs.google.com/spreadsheets/d/1aQF9jqGPcFRkoLZwxK7pgEhdNT3vwWf_zrRHusydbrE/edit#gid=382523961
 
 ### Normal Moves
 
@@ -245,14 +272,7 @@ For more frame data, [follow this link](https://docs.google.com/spreadsheets/d/1
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>6MP</b></td>
-    <td>Worth reminding people that you can go into command normals from any normal. Also, is it a overhead? Super cancellable? Special cancellable? etc.</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
-</tr>
-<tr>
-    <td><b>4MK</b></td>
+    <td><b>6MK</b></td>
     <td>Worth reminding people that you can go into command normals from any normal. Also, is it a overhead? Super cancellable? Special cancellable? etc.</td>
         <td>?</td>
         <td>?</td>
@@ -277,41 +297,26 @@ For more frame data, [follow this link](https://docs.google.com/spreadsheets/d/1
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>Dark Wire (236P/6P)</b></td>
+    <td><b>Special Move 1 (Classic Input/Progressive input)</b></td>
     <td>Describe the special move simply, what function does it have, any special properties? What do the button strengths do? Applications in combos? etc. </td>
     <td>Light Strength framedata/Medium Strength framedata/Heavy Strength framedata</td>
     <td>?/?/?</td>
     <td>?/?/?</td>
 </tr>
 <tr>
-    <td><b>Dark Spark(After Dark Wire do nothing/do nothing)</b></td>
+    <td><b>Special Move 2(623P/3P)</b></td>
     <td>Description</td>
     <td>?/?/?</td>
     <td>?/?/?</td>
     <td>?/?/?</td>
 </tr>
 <tr>
-    <td><b>Dark Hold(After Dark Wire 4P/4P)</b></td>
+    <td><b>Special Move 3(63214K/8K)</b></td>
     <td>Description</td>
     <td>?/?/?</td>
     <td>?/?/?</td>
     <td>?/?/?</td>
 </tr>
-<tr>
-    <td><b>Dark Defender(623P/3P)</b></td>
-    <td>Description</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-</tr>
-<tr>
-    <td><b>EX-Plosive(236K/6K)</b></td>
-    <td>Description</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-</tr>
-
 </table>
 
 ### Supers
@@ -325,21 +330,14 @@ Quick note, in startup framedata (eg. x + y), x means the startup until Super Fr
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>Dark Knife (236236P/46P)</b></td>
+    <td><b>Super 1 (236236P/46P)</b></td>
     <td>Describe the super. Is it only good for combos? Any neutral applications? Is it a relaunch like Allen's Justice Fist? Does it combo particularly well into another super?</td>
     <td>? + ?</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
-    <td><b>Dark Shackle(236236K/46K)</b></td>
-    <td>Description</td>
-    <td>? + ?</td>
-    <td>?</td>
-    <td>?</td>
-</tr>
-<tr>
-    <td><b>EX-Prominence(214214K/64K)</b></td>
+    <td><b>Super 2(236236K/46K)</b></td>
     <td>Description</td>
     <td>? + ?</td>
     <td>?</td>
