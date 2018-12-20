@@ -11,13 +11,26 @@ Doctrine Dark is a fairly unorthodox character that both plays lame and zone-y, 
 
 
 !!! success "Strengths"
-    - Surprisingly strong zoning with his Dark Wire, Dark Defender and EX-Plosive, shutting down many approachs from both air and ground. - Dark Wire can be both combo'd out of and into, making it a great combo starter and combo linker. - Dark Defender allows for fairly easy conversions as an anti-air - With the right gougi, can easily play both very defensively and very offensively, switching as needed. -
-
-    
+    - Surprisingly strong zoning with his Dark Wire, Dark Defender and EX-Plosive, shutting down many approachs from both air and ground. - Dark Wire can be both combo'd out of and into, making it a great combo starter and combo linker. - Dark Defender allows for fairly easy conversions as an anti-air - With the right gougi, can easily play both very defensively and very offensively, switching as needed.
 
 !!! failure "Weaknesses"
     - Has quite a few stubby normals, making his strings fairly awkward and limited
-    - Very low damage even with meter, making him a very poor comeback character -  - Doesn't have particularly good ways of spending all his meter in a combo. - No meterless reversals, and his metered reversals aren't great either.
+    - Very low damage even with meter, making him a poor comeback character - Doesn't have particularly good ways of spending all his meter in a combo. - No meterless reversals, and his metered reversals aren't great either.
+
+### 5 Minute Guide
+
+(if you don't know what the abbreviations mean, check the [notation](#notation) guide below.)
+
+Hit the buttons until the other player falls down.
+
+### Recommended Decks
+
+!!! tip "Shinobi"
+    - Free meter lol
+    - Guard Cancel Lol
+    - despite all my rage i'm just a rat in a cage
+
+
 
 ---
 
