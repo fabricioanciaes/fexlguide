@@ -21,8 +21,7 @@ Allen is a shotokan style character with a bit of a twist. His solid fireball an
 !!! failure "Weaknesses"
     - Somewhat low damage without meter
     - No real 100% guaranteed anti-air / air-to-air conversions, attempting to cash in more damage is a risk
-    - Many of his damaging options are unsafe and often fully punishable if they don't hit or are blocked
-.    - Reversal options are all unsafe or punishable, making them incredibly risky.
+    - Many of his damaging options are unsafe and often fully punishable if they don't hit or are blocked.    - Reversal options are all unsafe or punishable, making them incredibly risky.
 
 ### 5 Minute Guide
 
