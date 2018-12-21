@@ -8,10 +8,16 @@ const listKeys = (data) => {
 }
 
 const getBiggestInArray = (data) => {
+  /* Figures out what is the biggest item in a given array.
+   * Used to get the max table columns.
+   */
   return data.reduce((max, current) => current > max ? current : max, data[0])
 }
 
 const getMaxCols = (data) => {
+  /* Makes sure every table has the same number of columns
+   * Checks the json data for the biggest number of keys
+   */
   let tables = listKeys(data)
 
   return getBiggestInArray(tables.map(table => {
@@ -21,6 +27,9 @@ const getMaxCols = (data) => {
 
 
 const keyify = (obj, prefix = '') =>
+  /* get an array with all the keys from a given object
+   * used to get table headers
+   */
   Object.keys(obj).reduce((res, el) => {
     if (Array.isArray(obj[el])) {
       return res;
@@ -32,6 +41,9 @@ const keyify = (obj, prefix = '') =>
   }, []);
 
 const flattenObject = (obj, prefix = "") =>
+  /* Flattens the object into an array, including
+   * nested properties.
+   */
   Object.keys(obj).reduce((acc, k) => {
     const pre = prefix.length ? prefix + "." : "";
     if (typeof obj[k] === "object")
@@ -42,6 +54,9 @@ const flattenObject = (obj, prefix = "") =>
 
 
 const translateHeader = (item) => {
+  /* Renames the headers according to this object.
+   * Useful for making prettier header names
+   */
   const headerNames = {
     'name': 'Name',
     'startup': 'Startup',
@@ -68,6 +83,9 @@ const translateHeader = (item) => {
 }
 
 const buildHeader = (data, maxCols) => {
+  /* Makes the thead of the table
+   */
+
   let headers = keyify(data[0])
   if(headers.length < maxCols) {
     headers = headers.concat(...Array(maxCols - headers.length).fill(''))
@@ -82,6 +100,9 @@ const buildHeader = (data, maxCols) => {
 }
 
 const buildMoves = (data, maxCols) => {
+  /* Print the moves of a given table
+   * 
+   */
   let moves = data.map(move => {
     return Object.values(flattenObject(move))
   })
