@@ -74,6 +74,18 @@ td:first-child, th:first-child {
 
 /* Presentation */
 
+.plus {
+  color: #8cc189;
+}
+
+.minus {
+  color:#ff6f69;
+}
+
+.neutral {
+  color: #ffbc55;
+}
+
 th, td:first-child {
   color: rgba(0,0,0,0.75);
   font-weight:400;
@@ -101,7 +113,7 @@ td:first-child{
 
 th,td {
   text-align:right;
-  padding: 1rem;
+  padding: 0.8rem;
 }
 
 tr.header th {

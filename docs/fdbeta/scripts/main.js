@@ -85,6 +85,19 @@ const buildMoves = (data, maxCols) => {
   let moves = data.map(move => {
     return Object.values(flattenObject(move))
   })
+
+  let headers = keyify(data[0])
+  if (headers.length < maxCols) {
+    headers = headers.concat(...Array(maxCols - headers.length).fill(''))
+  }
+
+  const handleTdClass = (index, headers) => {
+    if(headers[index]) {
+      return headers[index]
+    } else {
+      return ''
+    }
+  }
   
   if(moves.length < maxCols) {
     moves = moves.map(move => {
@@ -94,11 +107,28 @@ const buildMoves = (data, maxCols) => {
 
   let string = '<tbody>';
 
-  moves.map(item => {
-    string += `<tr>\n${item.map(value => `\t<td>${value}</td>\n`).join('')}</tr>\n`
+  moves.map( (item) => {
+    string += `<tr>\n${item.map((value, index) => `\t<td class="${handleTdClass(index, headers)}">${value}</td>\n`).join('')}</tr>\n`
   })
 
   return string + '</tbody>';
+}
+
+const advantageFormatting = () => {
+  let adv = [].slice.call(document.querySelectorAll("td[class^='frameadvantage']"))
+
+  adv.map(item => {
+    let value = parseInt(item.innerText)
+
+    if(value > 0) {
+      item.classList.add('plus')
+    } else if (value < 0) {
+      item.classList.add('minus')
+    } else if (value === 0) {
+      item.classList.add('neutral')
+    }
+
+  })
 }
 
 const buildTable = (data) => {
@@ -119,6 +149,8 @@ const buildPage = (data) => {
   var tables = [].slice.call(document.querySelectorAll('#framedata table'));
 
   tables.map(table => sorttable.makeSortable(table));
+
+  advantageFormatting();
 }
 
 document.addEventListener("DOMContentLoaded", function () {
