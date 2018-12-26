@@ -21,7 +21,23 @@ Doctrine Dark is a fairly unorthodox character that both plays lame and zone-y, 
 
 (if you don't know what the abbreviations mean, check the [notation](#notation) guide below.)
 
-Hit the buttons until the other player falls down.
+Take Shinobi as your deck, D.Dark can easily lame out the opponent for 12 seconds at the start of the match to get Ghost Triggered, letting you turn invisible when you dash. You also get Guard Cancel, which lets you do Specials and Supers out of blockstun. 
+
+`2MP`, `2LK`, `2MK` and `5LK` are decent pokes.
+
+Zone out the opponent with `EX-Plosive` and `Dark Wire` (236P). This'll often force them to jump. If they land or walk into `EX-Plosive`, it's often a free combo and even from faraway you can catch them with `Dark Wire`
+
+If someone is jumping in on you, either do `5HK` or `2HP`. Super Cancel into `Dark Knife` (236236P) if you get the hit. D.Dark can instead use `Dark Defender` (623P) and juggle into `5HK`/`2HP` > `Dark Knife`.
+
+For jump-ins, stick to `j.MK`. This is also your crossup jump-in normal.
+
+D.Dark has some particularly awkward normals, so for chains stick to `2LK` > `2MK` > `2HK`. The `2HK` is completely safe so feel free to end blockstrings with it.
+
+If your chain hits, instead of `2HK`, you can either do `6MK` > `Dark Shackle` (236236K) or go from the `2MK` into `Dark Wire` (236P).
+
+When you hit with `Dark Wire`, pull them in by doing `Dark Hold` (4P). If you want to activate G.Break by doing `Hard Attack` (MP + MK), you can easily do `Hard Attack` > `Dark Knife`. Otherwise, quickly dash forward (66) and immediately do `5LK` > `5MK` > `5HK` > `Dark Knife`.
+
+If the opponent is knocked down, feel free to put a `EX-Plosive` on top or in front of them as they get up. Mix it up with his `2LK`/`2MK`, normal throws, cross-up `j.MK`.
 
 ### Recommended Decks
 
