@@ -395,7 +395,7 @@ If you've taken a deck with Ghost, you want to try to lame the opponent out at t
 
 Against other characters fireball game (or other specials with long range), you can attempt to use your counters to get the jump on the opponent. Ideally try to approach the traditional way with running in and blocking unless you really have the read with your counters.
 
-For anti-airing, your 2MK and 2HP are pretty excellent normals that can be both Super Cancelled into Torre Pendente Di Pisa (214214P/64P), leading to his setups.
+For anti-airing, your 5MK and 2HP are pretty excellent normals that can be both Super Cancelled into Torre Pendente Di Pisa (214214P/64P), leading to his setups.
 
 Vulcano Rosso has fantastic walk speed and run speed, with a quick low jump. This makes his jump approaches harder to react to. You need to use his mobility as Rosso thrives up close.
 
