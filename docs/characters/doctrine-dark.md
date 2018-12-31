@@ -11,11 +11,11 @@ Doctrine Dark is a fairly unorthodox character that both plays lame and zone-y, 
 
 
 !!! success "Strengths"
-    - Surprisingly strong zoning with his Dark Wire, Dark Defender and EX-Plosive, shutting down many approachs from both air and ground. - Dark Wire can be both combo'd out of and into, making it a great combo starter and combo linker. - Dark Defender allows for fairly easy conversions as an anti-air - With the right gougi, can easily play both very defensively and very offensively, switching as needed.
+    - Surprisingly strong zoning with his Dark Wire, Dark Defender and EX-Plosive, shutting down many approachs from both air and ground. - Dark Wire can be both combo'd out of and into, making it a great combo starter and combo linker. - Dark Defender allows for fairly easy conversions as an anti-air - With the right gougi, can easily play both very defensively and very offensively, switching as needed. - Fantastic setups if D.Dark gets the knockdown, even allowing him to get unblockables with the right setup and Gougi.
 
 !!! failure "Weaknesses"
     - Has quite a few stubby normals, making his strings fairly awkward and limited
-    - Very low damage even with meter, making him a poor comeback character - Doesn't have particularly good ways of spending all his meter in a combo. - No meterless reversals, and his metered reversals aren't great either.
+    - Very low damage even with meter, making him a poor comeback character - Doesn't have particularly good ways of spending all his meter in a combo. - No meterless reversals, and his metered reversals aren't great either. - Fairly technical and doesn't have as many easy rewarding combo routes as other characters
 
 ### 5 Minute Guide
 
@@ -37,7 +37,7 @@ If your chain hits, instead of `2HK`, you can either do `6MK` > `Dark Shackle` (
 
 When you hit with `Dark Wire`, pull them in by doing `Dark Hold` (4P). If you want to activate G.Break by doing `Hard Attack` (MP + MK), you can easily do `Hard Attack` > `Dark Knife`. Otherwise, quickly dash forward (66) and immediately do `5LK` > `5MK` > `5HK` > `Dark Knife`.
 
-If the opponent is knocked down, feel free to put a `EX-Plosive` on top or in front of them as they get up. Mix it up with his `2LK`/`2MK`, normal throws, cross-up `j.MK`.
+If the opponent is knocked down,Put a `EX-Plosive` on top or in front of them as they get up. Mix it up with his `2LK`/`2MK`, normal throws, `Hard Attack` and cross-up `j.MK` along with any gougi-specific mixups such as Hunting or Guard Break.
 
 ### Recommended Decks
 
@@ -165,128 +165,128 @@ When editing, use this guide for the frame data, it's all here. https://docs.goo
     <tr>
         <td><b>5LP</b></td>
         <td>For each normal, talk about it's speed, its purpose and any other notes (is it good for frame traps? Does it anti-air? Is it particularly negative? Does it hit high low mid etc.)</td>
-        <td>What's the startup?</td>
-        <td>Standing block frame advantage?</td>
-        <td>Crouching block frame advantage?</td>
+        <td>4</td>
+        <td>-5</td>
+        <td>-1</td>
     </tr>
     <tr>
         <td><b>5MP</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>6</td>
+        <td>-13</td>
+        <td>-9</td>
     </tr>
     <tr>
         <td><b>5HP</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>9</td>
+        <td>-1</td>
+        <td>1</td>
     </tr>
     <tr>
         <td><b>5LK</b></td>
-        <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>D.Dark's quickest low, decent range</td>
+        <td>5</td>
+        <td>-12</td>
+        <td>-8</td>
     </tr>
     <tr>
         <td><b>5MK</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>7</td>
+        <td>-2</td>
+        <td>-8</td>
     </tr>
     <tr>
         <td><b>5HK</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>9</td>
+        <td>-2</td>
+        <td>0</td>
     </tr>
     <tr>
         <td><b>2LP</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>5</td>
+        <td>-5</td>
+        <td>-1</td>
     </tr>
     <tr>
         <td><b>2MP</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>6</td>
+        <td>-4</td>
+        <td>0</td>
     </tr>
     <tr>
         <td><b>2HP</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>8</td>
+        <td>-8</td>
+        <td>-5</td>
     </tr>
     <tr>
         <td><b>2LK</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>5</td>
+        <td>Hits Low</td>
+        <td>-1</td>
     </tr>
     <tr>
         <td><b>2MK</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>6</td>
+        <td>Hits Low</td>
+        <td>-1</td>
     </tr>
     <tr>
         <td><b>2HK</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>10</td>
+        <td>Hits Low</td>
+        <td>-3</td>
     </tr>
     <tr>
         <td><b>j.LP</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>4</td>
+        <td>5</td>
+        <td>Hits Overhead</td>
     </tr>
     <tr>
         <td><b>j.MP</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>5</td>
+        <td>13</td>
+        <td>Hits Overhead</td>
     </tr>
     <tr>
         <td><b>j.HP</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>5</td>
+        <td>13</td>
+        <td>Hits Overhead</td>
     </tr>
     <tr>
         <td><b>j.LK</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>5</td>
+        <td>5</td>
+        <td>Hits Overhead</td>
     </tr>
     <tr>
         <td><b>j.MK</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>4</td>
+        <td>13</td>
+        <td>Hits Overhead</td>
     </tr>
     <tr>
         <td><b>j.HK</b></td>
         <td>Description</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>7</td>
+        <td>13</td>
+        <td>Hits Overhead</td>
     </tr>
 </table>
 
@@ -301,18 +301,25 @@ When editing, use this guide for the frame data, it's all here. https://docs.goo
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>6MK</b></td>
-    <td>Worth reminding people that you can go into command normals from any normal. Also, is it a overhead? Super cancellable? Special cancellable? etc.</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+    <td><b>Death Spinkick (4MK)</b></td>
+    <td>As per most command normals this can be chained into from any other normal and is super cancellable only. From a full chain into `Death Spinkick`, the best super to cancel into is `Dark Shackle` (236236K/46K) which leads to roughly 70 damage which is pretty decent for a bar of meter. However,  Dark Wire confirms from strings are generally more safe, reliable and can potentially lead to more damage. Specific interactions with Gougi (IE. landing 4 Hard Attacks) also make Dark Wire routes generally the better option. Feel free to use `Death Spinkick` if you want a clean way to end the round and you only have 1 bar of meter to work.</td>
+        <td>18</td>
+        <td>-8</td>
+        <td>-4</td>
 </tr>
 <tr>
-    <td><b>MP+MK (Hard Attack)</b></td>
-    <td>This character's universal overhead? Anything special about it? Is it particularly good for this character or a gougi deck they take?</td>
-    <td>32</td>
+    <td><b>Knife Nightmare(4MP)</b></td>
+    <td>A faster overhead than Hard Attack but is neither special or super cancellable and is actually 0 on hit, meaning the opponent gets to act the same time you do. It can be chained into from any normal like `Death Spinkick`, so it can be used to insert a surprise overhead into chains. Given its shorter reach, this should be relegated to dash-in chains. As it's unsafe and there's no option of super cancelling to catch a punish, this is a move you should only throw out once or twice a match. </td>
+        <td>18</td>
+        <td>-10</td>
+        <td>-4</td>
+</tr>
+<tr>
+    <td><b>Shudder Blade (Hard Attack, MP+MK)</b></td>
+    <td>D.Dark's universal overhead. As always, massively unsafe on block but is super cancellable and keeps them grounded on hit which allows him to get decent damage off a `Dark Shackle`. Can be combo'd into from a Dark Wire confirm and then into `Dark Knife` which is what allows D.Dark to get the Guard Break gougi Triggered easier than any other character. Has a strange interaction with `EX-plosive`, causing it to instantly go off as `Shudder Blade` starts up. Most likely intended to prevent easy unblockable setups.</td>
+    <td>28</td>
     <td>-34</td>
-    <td>-4</td>
+    <td>Hits Overhead</td>
 </table>
 
 ### Specials
@@ -326,25 +333,39 @@ When editing, use this guide for the frame data, it's all here. https://docs.goo
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>Special Move 1 (Classic Input/Progressive input)</b></td>
-    <td>Describe the special move simply, what function does it have, any special properties? What do the button strengths do? Applications in combos? etc. </td>
-    <td>Light Strength framedata/Medium Strength framedata/Heavy Strength framedata</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
+    <td><b>Dark Wire (236P/4P)</b></td>
+    <td>D.Dark sends out a wire that destroys projectiles and if it hits a grounded opponent, will latch onto them, allowing you to do `Dark Spark` or `Dark Hold`. The strength of the punch affects how far the wire will go. `Dark Hold` is almost always the better option, allowing you to pull the opponent in and extend your combo, Mortal Kombat's Scorpion style. Almost all of your grounded combos should lead in this move, and there's several extensions that are worth learning.</td>
+    <td>11/11/11</td>
+    <td>-24/-24/-24</td>
+    <td>-20/-20/-20</td>
 </tr>
 <tr>
-    <td><b>Special Move 2(623P/3P)</b></td>
-    <td>Description</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
+    <td><b>Dark Spark(After Dark Wire, do nothing)</b></td>
+    <td>D.Dark sends out a spark that goes down the wire and deals fairly low damage to the opponent. Really, `Dark Hold` is what you should be using a majority of the time, although 'Dark Spark' finds its niche as a easy meterless knockdown in the corner.</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>N/A</td>
 </tr>
 <tr>
-    <td><b>Special Move 3(63214K/8K)</b></td>
-    <td>Description</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
+    <td><b>Dark Hold(After Dark Wire, 4P)</b></td>
+    <td>D.Dark pulls the opponent in, staggering them and allowing him to easily combo. This will only work if Dark Wire hit a grounded opponent. This is your main followup after a `Dark Wire`. A few things to note is that it is a fixed distance, so certain combos (particularly combos involving j.HK as a starter) may need to be adjusted to still land. Also, the opponent is in a special state that means they won't be grounded after being hit. This prevents you from just doing yet another regular combo back into Dark Wire, but does still allow decent followups. Check the combo section below to figure out your followups. </td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>N/A</td>
+</tr>
+<tr>
+    <td><b>Dark Defender(623P/3P)</b></td>
+    <td>D.Dark sends out a wire at a 45 degree angle. The strength of the punch button affects how far the wire travels. A fairly decent anti-air that can lead into a solid juggle combo. If it hits an airborne opponent raw, it'll send them into a slow descending spiral. Otherwise, it'll knock them up slightly instead and cannot be followed up on except with a Super Cancel into `Dark Knife`. As a result, it's not a combo extension tool like `Dark Wire` but is an excellent anti-air combo starter. Use this to catch out obvious jump-ins, especially when the opponent is trying to get over a `EX-plosive`.</td>
+    <td>11/11/11</td>
+    <td>-6/-6/-6</td>
+    <td>Whiffs on crouchers.</td>
+</tr>
+<tr>
+    <td><b>EX-plosive(236K/6K)</b></td>
+    <td>D.Dark throws out a bomb directly in front of him. The bomb will explode on contact with the opponent, if D.Dark gets hit or after a certain amount of time. The strength of the kick determines how long it takes for the bomb to go off. Along with `Dark Wire`, this is D.Dark's main zoning tool, but is also used for many of his setups. Unless the bomb hits the opponent before it even gets to the ground, a hit can easily be followed up on. This is both good for catching people jumping or walking into it in neutral and using it as a meaty on a knocked down opponent. A regular `2LK` > `2MK` > etc. combo will work as normal off a successful bomb hit.</td>
+    <td>13/13/13</td>
+    <td>-8/-8/-8</td>
+    <td>-5/-5/-5</td>
 </tr>
 </table>
 
@@ -359,19 +380,27 @@ Quick note, in startup framedata (eg. x + y), x means the startup until Super Fr
     <th>C.blo</th>
 </tr>
 <tr>
-    <td><b>Super 1 (236236P/46P)</b></td>
-    <td>Describe the super. Is it only good for combos? Any neutral applications? Is it a relaunch like Allen's Justice Fist? Does it combo particularly well into another super?</td>
-    <td>? + ?</td>
+    <td><b>Dark Knife (236236P/46P)</b></td>
+    <td>D.Dark does a series of uppercuts with his energy blade. Use this super as a combo tool on airborne/launched opponents (In particular, from a `Dark Wire` combo.. Unfortunately does very little damage but is mostly useful as it can score a hard knockdown on opponents, allowing you to have enough times to get your setups while the opponent is knocked down. Comes out slightly quicker than Dark Shackle, so is generally the better reversal.</td>
+    <td>3 + 2</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
-    <td><b>Super 2(236236K/46K)</b></td>
-    <td>Description</td>
-    <td>? + ?</td>
+    <td><b>Dark Shackle(236236K/46K)</b></td>
+    <td>D.Dark does a series of thrusts with his energy blade before impaling and smashing them to the ground and then bombing them.  Does fairly decent damage and is the super of choice on a grounded opponent. If for whatever reason you won't be doing a `Dark Wire` route, you'll be using this.</td>
+    <td>5 + 3</td>
     <td>?</td>
     <td>?</td>
 </tr>
+<tr>
+    <td><b>EX-prominence(236236K/46K)</b></td>
+    <td>D.Dark throws out a massive bomb which detonates as it hits the ground. Has an incredibly slow startup and has a deceptively small vertical hitbox (basically the top half of the actual explosion doesn't count as a hitbox.) This usually can't be combo'd into outside of `Dark Wire` or `Dark Defender` either and if it lands cannot be combo'd out of. It is plus on block however. </td>
+    <td>7 + 33</td>
+    <td>?</td>
+    <td>?</td>
+</tr>
+
 
 </table>
 
@@ -381,9 +410,9 @@ Quick note, in startup framedata (eg. x + y), x means the startup until Super Fr
 ## Gameplan
 ### Neutral
 
-What are the character's pokes?
+D.Dark doesn't have too many pokes given that a lot of his standing normals are very close ranged elbow and knee strikes. Use `2LK`, `2MK` and `2MP` as your general normal pokes. 
 
-Do they have a fireball game? Do their specials have application in the neutral? (IE. Allen's fireball game, D.Dark's EXplosives and Dark Wire)
+D.Dark instead shines in neutral through use of his `Dark Wire`, dark blah blah blah
 
 How do they antiair?
 
@@ -478,5 +507,9 @@ All characters can chain from a normal to a higher strength normal, either punch
 
 !!! quote "Whatever > Super > Combo Filler > Super > Combo Filler > Super > Combo Ender"
     Any particular input tricks? How does hitstun decay affect the later part of the combos?
+
+## Credits
+
+The FEXL discord for providing info and tech, in particular, Labryz, Eddy_Bam and AyoItsDave.
 
 
