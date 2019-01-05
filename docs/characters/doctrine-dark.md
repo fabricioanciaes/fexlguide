@@ -164,105 +164,105 @@ When editing, use this guide for the frame data, it's all here. https://docs.goo
     </tr>
     <tr>
         <td><b>5LP</b></td>
-        <td>For each normal, talk about it's speed, its purpose and any other notes (is it good for frame traps? Does it anti-air? Is it particularly negative? Does it hit high low mid etc.)</td>
+        <td>A pretty poor jab that'll often whiff on crouchers, you're best sticking to `2LP` for a jab. Is his fastest normal however. Special and Super Cancellable.</td>
         <td>4</td>
         <td>-5</td>
         <td>-1</td>
     </tr>
     <tr>
         <td><b>5MP</b></td>
-        <td>Description</td>
+        <td>An advancing elbow strike with a deceptively large hitbox. Sadly whiffs on crouchers so not particularly useful in strings. Special and Super Cancellable.</td>
         <td>6</td>
         <td>-13</td>
         <td>-9</td>
     </tr>
     <tr>
         <td><b>5HP</b></td>
-        <td>Description</td>
+        <td>A short-range swing, has a fairly weird hitbox that'll sometimes whiff or hit depending on whether it's point blank or not, and this varies between characters. Not a great normal in any case. Super Cancellable.</td>
         <td>9</td>
         <td>-1</td>
         <td>1</td>
     </tr>
     <tr>
         <td><b>5LK</b></td>
-        <td>D.Dark's quickest low, decent range</td>
+        <td>A kick upwards, outside of point blank range will whiff on crouchers, can be used as a quick antiair if needs be but you're generally better off stick to `2HK` and `5HK` for that. Special and Super Cancellable.</td>
         <td>5</td>
         <td>-12</td>
         <td>-8</td>
     </tr>
     <tr>
         <td><b>5MK</b></td>
-        <td>Description</td>
+        <td>An advancing knee strike, short range but actually does hit crouchers, making it his most reliable standing normal for block strings. Special and Super Cancellable.</td>
         <td>7</td>
-        <td>-2</td>
+        <td>-12</td>
         <td>-8</td>
     </tr>
     <tr>
         <td><b>5HK</b></td>
-        <td>Description</td>
+        <td>A roundhouse kick. One of D.Dark's dedicated antiair buttons, has a pretty good range to it. This one is better if characters are jumping in from further away, but if the character is close enough to you `2HP` is preferred. Super Cancellable.</td>
         <td>9</td>
         <td>-2</td>
         <td>0</td>
     </tr>
     <tr>
         <td><b>2LP</b></td>
-        <td>Description</td>
+        <td>A quick jab with decent range, this is your preferred quick normal as it's only a frame slower than `5LP`. Special and Super Cancellable.</td>
         <td>5</td>
         <td>-5</td>
         <td>-1</td>
     </tr>
     <tr>
         <td><b>2MP</b></td>
-        <td>Description</td>
+        <td>A decent long range punch, one of your main combo starters along with `2LK` and `2MK`. Special and Super Cancellable.</td>
         <td>6</td>
         <td>-4</td>
         <td>0</td>
     </tr>
     <tr>
         <td><b>2HP</b></td>
-        <td>Description</td>
+        <td>A short ranged uppercut. D.Dark's other dedicated anti-air button, this one is better for opponents jumping right on top of you, with `5HK` being preferred for opponents jumping in from further away. Is also your most reliable heavy normal to chain into for combos as it doesn't whiff on crouchers, but you'll need to do it from a dash-in combo due to its poor range. Super Cancellable.</td>
         <td>8</td>
         <td>-8</td>
         <td>-5</td>
     </tr>
     <tr>
         <td><b>2LK</b></td>
-        <td>Description</td>
+        <td>A decent-ranged kick, D.Dark's quickest main combo starter normal and also his quickest Low. Pretty decent for tick throws as it's only -1 on block. Special and Super Cancellable.</td>
         <td>5</td>
         <td>Hits Low</td>
         <td>-1</td>
     </tr>
     <tr>
         <td><b>2MK</b></td>
-        <td>Description</td>
+        <td>A long range kick that hits low, generally the normal to end your chain with before you cancel into a Dark Wire. In neutral, this is preferred over `2LK` as it has better range and damage and is only 1 frame slower. Special and Super Cancellable.</td>
         <td>6</td>
         <td>Hits Low</td>
         <td>-1</td>
     </tr>
     <tr>
         <td><b>2HK</b></td>
-        <td>Description</td>
+        <td>A long range sweep, a solid block string ender as it is only -3. Also scores a knockdown which D.Dark thrives on, although unfortunately it isn't a hard knockdown, allowing the opponent to Recover. Is also the key to Kara-cancelling into EX-Plosive. Super Cancellable (however, no supers will combo from it.)</td>
         <td>10</td>
         <td>Hits Low</td>
         <td>-3</td>
     </tr>
     <tr>
         <td><b>j.LP</b></td>
-        <td>Description</td>
+        <td>A downwards jab, is useful for setting up tick throws as it keeps them in blockstun for less time compared to `j.MP` and `j.HP`</td>
         <td>4</td>
         <td>5</td>
         <td>Hits Overhead</td>
     </tr>
     <tr>
         <td><b>j.MP</b></td>
-        <td>Description</td>
+        <td>A downwards jab, exactly the same as `j.HP` but less damage so use that instead.</td>
         <td>5</td>
         <td>13</td>
         <td>Hits Overhead</td>
     </tr>
     <tr>
         <td><b>j.HP</b></td>
-        <td>Description</td>
+        <td>Another downwards jab, use this over `j.MP`.</td>
         <td>5</td>
         <td>13</td>
         <td>Hits Overhead</td>
@@ -272,21 +272,21 @@ When editing, use this guide for the frame data, it's all here. https://docs.goo
         <td>Description</td>
         <td>5</td>
         <td>5</td>
-        <td>Hits Overhead</td>
+        <td>A jumping knee strike, similarly to j.LP is pretty decent for tick throws. Is also active for a long time, making it a decent air-to-air.</td>
     </tr>
     <tr>
         <td><b>j.MK</b></td>
         <td>Description</td>
         <td>4</td>
         <td>13</td>
-        <td>Hits Overhead</td>
+        <td>D.Dark's crossup jump-in normal, also a pretty great air-to-air given its range.</td>
     </tr>
     <tr>
         <td><b>j.HK</b></td>
         <td>Description</td>
         <td>7</td>
         <td>13</td>
-        <td>Hits Overhead</td>
+        <td>A dedicated air-to-air normal and what D.Dark uses in certain Dark Wire combos.</td>
     </tr>
 </table>
 
@@ -362,7 +362,7 @@ When editing, use this guide for the frame data, it's all here. https://docs.goo
 </tr>
 <tr>
     <td><b>EX-plosive(236K/6K)</b></td>
-    <td>D.Dark throws out a bomb directly in front of him. The bomb will explode on contact with the opponent, if D.Dark gets hit or after a certain amount of time. The strength of the kick determines how long it takes for the bomb to go off. Along with `Dark Wire`, this is D.Dark's main zoning tool, but is also used for many of his setups. Unless the bomb hits the opponent before it even gets to the ground, a hit can easily be followed up on. This is both good for catching people jumping or walking into it in neutral and using it as a meaty on a knocked down opponent. A regular `2LK` > `2MK` > etc. combo will work as normal off a successful bomb hit.</td>
+    <td>D.Dark throws out a bomb directly in front of him. The bomb will explode on contact with the opponent, if D.Dark gets hit or after a certain amount of time. The strength of the kick determines how long it takes for the bomb to go off. Along with `Dark Wire`, this is D.Dark's main zoning tool, but is also used for many of his setups. Unless the bomb hits the opponent before it even gets to the ground, a hit can easily be followed up on. This is both good for catching people jumping or walking into it in neutral and using it as a meaty on a knocked down opponent. A regular `2LK` > `2MK` > etc. combo will work as normal off a successful bomb hit. Importantly it becomes even better if kara-cancelled from a `2HK`, giving the bomb toss more effective range and moving D.Dark forward.</td>
     <td>13/13/13</td>
     <td>-8/-8/-8</td>
     <td>-5/-5/-5</td>
@@ -412,16 +412,22 @@ Quick note, in startup framedata (eg. x + y), x means the startup until Super Fr
 
 D.Dark doesn't have too many pokes given that a lot of his standing normals are very close ranged elbow and knee strikes. Use `2LK`, `2MK` and `2MP` as your general normal pokes. 
 
-D.Dark instead shines in neutral through use of his `Dark Wire`, dark blah blah blah
+D.Dark instead shines in neutral through use of his `Dark Wire` and `EX-Plosive`. The bombs can easily prevent grounded approaches and forces the opponent to take obvious jump arcs to avoid it, playing into D.Dark's anti-air game. His `Dark Wire` also destroys fireballs, forcing a stalemate against other fireball character.
 
-How do they antiair?
+Unlike other fireball characters however, D.Dark can't really chip the opponent out from full screen, so he will need to eventually go on the offense. He has decent mobility but no dedicated moves to help him out and a standard jump arc which is why Gougi Decks such as Shinobi and Stealth Raptor help him out so much.
 
-How is their mobility? Are they fast? Is their jump arc notable?
+Your general gameplan for most of D.Dark's Decks is to lame out the opponent for long enough to get Ghost at which point you'll mix it up between zoning and approaching the opponent. D.Dark's damage is very poor and he struggles to really dump his meter, so getting health leads and keeping them is key.
+
+For anti-airing, you'll want to stick to `2HP` and `5HK`. `Dark Defender` can be used but has a fairly awkward angle and is awful to whiff.
+
+
 
 ### Offense
 ### Mix-Ups
 
-High-low mixups? Do they focus more on frame traps or tickthrows? Any left-right mix up? Do they have a solid throw game? Do any gougis they take give them mix up options?
+D.Dark has incredibly solid mix ups and ways to force the mixup on opponents. You have access to the usual arsenal of quick low-hitting attacks, command Overheads (`Hard Attack` and `Knife Nightmare` crossups, jumps into jumping normals that hit overhead or otherwise doing a empty jump into a low, frametraps and tick-throws. His `EX-plosive` placed as a meaty forces the opponent to block as they get up, giving D.Dark free reign to enforce his mixup.
+
+He does have 2 command overheads, but in particular if he takes a deck with Guard Break he gets access to a unblockable that leads to full combos and even gets unblockable setups.
 
 ### Set-Ups
 
