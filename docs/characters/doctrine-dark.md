@@ -447,7 +447,7 @@ He does have 2 command overheads, but in particular if he takes a deck with Guar
 ### Set-Ups
 
 !!! quote "In the corner, 2HK > Whiff 2LP > 236LP/236MP"
-    A excellent setup which will be a meaty on both a normal getup and a Recover. If it connects, you can combo into 2MP/2MK. Otherwise, you'll be +2 on crouching block or -1 on standing block. On a normal getup you'll also have enough time to set the bomb and block any reversals, including Allen's Rising Dragon and Blair Dame's Lightning Knee/Shoot Upper. (Credit to Labryz.)
+    A excellent setup which will be a meaty on both a normal getup and a Recover. If it connects, you can combo into `2MP`/`2MK`. Otherwise, you'll be +2 on crouching block or -1 on standing block. On a normal getup you'll also have enough time to set the bomb and block any reversals, including Allen's Rising Dragon and Blair Dame's Lightning Knee/Shoot Upper. The EX-Plosive will combo into Hard Attack as well, and if they block the bomb a Guard Break Hard Attack is almost guaranteed to land. (Credit to Labryz.)
 
 
 ### Frame-Traps
