@@ -453,11 +453,11 @@ Does your character have anything interesting outside of the normal defensive ro
 
 ### Reversals
 
-Do they have wising dwagon (also all supers have invuln as well I guess)
+D.Dark unfortunate
 
 ### Escapes
 
-Is your character particularly good for getting out? Teleports for example? Any Gougi that helps?
+Outside of Utsusemi, D.Dark really doesn't have anything to get out of pressure.
 
 ---
 
