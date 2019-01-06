@@ -497,7 +497,7 @@ All characters can chain from a normal to a higher strength normal, either punch
 !!! quote "2/5LK > 2/5MK > (2HP) > 4MK > Dark Shackle"
     The 2HP can be added if you're dashing in, otherwise it'll likely drop. A decent combo if you're catching the opponent grounded but generally getting into a Dark Wire Combo is preferred.
 
-#### Dark Wire Routes
+#### Dark Wire/Dark Defender Routes
 
 !!! quote "2/5LK > 2/5MK > Dark Wire > Dash-in 5MP > 5HK > Dark Knife"
    The main bread and butter combo for D.Dark. You have to dash in with the 5MP as otherwise when you cancel into `Dark Knife`, the opponent will be too far away.
