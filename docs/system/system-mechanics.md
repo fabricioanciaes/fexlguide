@@ -103,9 +103,10 @@ Crouch blocking, like most 2D fighting games, is by far the most foolproof kind 
 
 Specials and Supers that are blocked will still inflict damage called Chip Damage, but much less than usual. The amount of chip damage depends on the special and the amount of hits. Multi-hit moves tend to do 1 chip damage per hit while single hit moves can do 3 to 5.
 
-Chip damage can kill in this game, like old Street Fighter games, so doing an inescapable string of specials into supers to get chip damage on the opponent is an entirely viable and practical option.
+Chip damage can kill in this game, like older Street Fighter games, so doing an inescapable string of specials into supers to get chip damage on the opponent is a viable and practical option.
 
 Some Decks and Gougi buff this, notably Chip Up in the Aggro deck and the entire Berserker Deck, which has a Gougi called Pierce that allows normal moves to inflict Chip Damage.
 
 ## Frame Data
+
 
