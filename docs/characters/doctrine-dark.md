@@ -468,17 +468,21 @@ He does have 2 command overheads, but in particular if he takes a deck with Guar
 
 ### Defense
 
-Doctrine Dark doesn't have amazing defensive options as he lacks good reversals or escape tools. However, Shinobi allows him to Guard Cancel, which massively buffs his options while blocking, either going immediately into a `Dark Knife` or pulling off a `Dark Wire`.
+Doctrine Dark's defensive play is strong from the start of the match. A backdash that covers a huge amount of ground allows him to quickly peel himself away from the opponent. It's a decent round opener.
+
+Once you have enough space, laying down a `EX-Plosive` makes it much more difficult for the opponent to approach. Running into it without blocking or jumping on top of it keeps them grounded and is a free `Dark Wire` or Dash-in `2LK` combo. 
+
+The opponent can jump over it, but their jump arc will be much more obvious as they'll get to get clear over the bomb. D.Dark has a suite of good anti-airs to deal with this as well. His `2HP` will catch opponents jumping in on top of him, while `2HK` catches opponent jumping in from further away. Both of these can cancel into a `Dark Knife` and score a hard knockdown. `Dark Defender`, while having a fairly awkward arc, leads to a much stronger follow up (check the [Dark Wire/Dark Defender Routes](#darkwire/darkdefenderroutes)). `Dark Wire` is both long ranged and pretty active so it makes a decent anti-air for jump-ins that neither your normals or `Dark Defender` could reach.
 
 ### Reversals
 
-D.Dark unfortunately has no meterless reversals. Dark Knife is probably your best bet due to its quick startup and potential to start your own vortex as it'll hard knockdown the opponent.
+D.Dark unfortunately has no meterless reversals. Dark Knife is probably your best bet due to its quick startup and potential to start your own vortex as it'll hard knockdown the opponent. Shinobi allows him to Guard Cancel, which massively buffs his options while blocking, either going immediately into a `Dark Knife` or pulling off a `Dark Wire`.
 
 ### Escapes
 
-Outside of Utsusemi, D.Dark really doesn't have anything to get out of pressure.
+D.Dark has a particularly good backdash that travels a long distance. While the usual weaknesses of being grounded for the duration and a lack of non-throw invuln still apply, D.Dark can be pretty slippery. Utsusemi (part of the Stealth Raptor deck) also heavily buffs his Recovery and makes potential backdashes and jump outs much less obvious.
 
----
+--- 
 
 ## Character Specific Techniques
 ## Combos
@@ -503,7 +507,7 @@ All characters can chain from a normal to a higher strength normal, either punch
    The main bread and butter combo for D.Dark. You have to dash in with the 5MP as otherwise when you cancel into `Dark Knife`, the opponent will be too far away.
 
 !!! quote "j.HP/j.HK, dash-in 5MP > 5HK > (In Corner, 4MK) > Dark Knife"
-   Similar to the combo before but is a bit more finnicky and spacing dependent. You'll want to be closer to your opponent, but too close and you'll either jump too far back or otherwise jump over the opponent. If the opponent is more than a half screen away, you'll mostly likely need to jump straight up instead of back.
+   Similar to the combo before but is a bit more finicky and spacing dependent. You'll want to be closer to your opponent, but too close and you'll either jump too far back or otherwise jump over the opponent. If the opponent is more than a half screen away, you'll mostly likely need to jump straight up instead of back.
 
 !!! quote "Dark Hold > EX-Prominence"
     A potential route to take if you land a full screen Dark Wire. The opponent gets to stumble into EX-Prominence and is one of the few times you'll get to combo into it.
@@ -518,11 +522,11 @@ All characters can chain from a normal to a higher strength normal, either punch
 !!! quote "2MP > 2MP > 2MK > Dark Wire Route"
     The momentum from your dash allows you to link (Not chain, so timing is a lot more strict) a second `2MP` which can then link into `2MK`.
     
-    This is definitely more difficular than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Mix it up with cancelling your `2MP`s into a slightly delayed `2HP`.
+    This is definitely more difficult than your chains and on blocks there's fairly noticeable gaps that the opponent can jab through. Mix it up with cancelling your `2MP`s into a slightly delayed `2HP`.
 
 ### Hit-Confirms
 
-D.Dark's normal combo routes unfortunately end with unsafe specials or supers. For the most part, ending your combo routes in 2HK is the way to go..
+D.Dark's normal combo routes unfortunately end with unsafe specials or supers. For the most part, ending your combo routes in 2HK is the way to go.
 
 ### Anti-Air Conversions
 
@@ -538,13 +542,16 @@ A easy enough conversion to make from Dark Defender which leads to a hard knockd
     As D.Dark has no air supers, he relies on this height dependent route, and it's entirely possible that the opponent will land before you do. Your safest bet is to try and combo into `5HK` and THEN go into `Dark Knife`.
 
 
-### Spending 3 Bars
+### Spending More than 1 bar
 
 !!! quote "Dark Shackle > Dark Knife > Dark Shackle"
     D.Dark isn't particularly good at dumping all his meter into a combo. From a grounded hit, this is the best 3 super route to make. You'll want to cancel into the second `Dark Shackle` before the `Dark Knife` can launch the opponent so you can hit `Dark Shackle` grounded and get the second part of the super. If the opponent is airborne, you can invert the combo (`Dark Knife` > `Dark Shackle` > `Dark Knife`) but this is even less damage.
 
+!!! quote "Dark Knife > EX-Prominence"
+    Another grounded route, this time from Dark Knife which will most likely be from when you use it as a reversal. On the fourth hit, as D.Dark is about to make his second uppercut lunge, cancel into the EX-Prominence.
+
 ## Credits
 
-The FEXL discord for providing info and tech, in particular, Labryz, Eddy_Bam and AyoItsDave.
+The FEXL discord for providing info and tech, in particular, Labryz, Eddy_Bam, Sinjul and AyoItsDave.
 
 
