@@ -20,7 +20,7 @@ Press 1, 2 or 3 to crouch down. This gives you access to a different set of norm
 
 ### Backdash
 
-Press 44 to backdash. Your character moves away quicker than walking backwards but must finish their backdash before they can block, attack or do anything else. Backdashes have no invulnerability for normal attacks so are purely for movement in that sense. They are also not considered airborne even if a lot of characters seem to move off the ground. However they are throw invulnerable which makes them useful for baiting normal and command throws. Jumping is generally safer for this anyway.
+Press 44 to backdash. Your character moves away quicker than walking backwards but must finish their backdash before they can block, attack or do anything else. Backdashes have no invulnerability for normal attacks so are purely for movement in that sense. They are also not considered airborne even if a lot of characters seem to move off the ground. However they are throw invulnerable which makes them useful for baiting normal and command throws.
 
 ### Jumping
 
@@ -28,7 +28,7 @@ Pressing 8 will make your character jump straight up, 9 will make them jump forw
 
 ### Dash-in Momentum
 
-Dash-in momentum is what it sounds like, your character gets to keep moving for a bit after a run forward before they come to a halt. This lets them do advancing normals and create combos that normally wouldn't be possible by staying in range for the next hit using dash-in momentum to combat the pushback that naturally comes up when moves hit.
+Dash-in momentum is what it sounds like, your character gets to keep moving for a bit after a run forward before they come to a halt. This lets them do advancing normals and create combos that normally wouldn't be possible by staying in range for the next hit using dash-in momentum to combat the pushback that naturally comes up when moves hit. Learning this is the key to really pulling off chains and combos as a lot of chains don't naturally hit.
 
 ## Combo System
 
@@ -71,9 +71,9 @@ Cancels are similar to chains in that they allow you to do one move and then imm
 
 There are 2 variations of this, Special Cancels, which means you can cancel into a Special Move. An example of Special Cancellable moves are most character's LPs/LKs and MPs/MKs. For example, Allen can press `2MK` and then immediately Special Cancel into Soul Force when the `2MK` hits.
 
-The other variation is Super Cancels, which work similarly except that you get to do Super Moves. Examples for most characters are their HPs/HKs, which are Super Cancellable but NOT Special Cancellable. Some command normals are Super Cancellable. Also, almost all Special Moves are Super Cancellable and all Super Moves are Super Cancellable (not into the same Super so while Allen can Fire Force into Triple Break, he can't Fire Force into Fire Force).
+The other variation is Super Cancels, which work similarly except that you get to do Super Moves. Almost all normal moves are Super Cancellable, but notably you get HPs/HKs are Super Cancellable but NOT Special Cancellable. Some command normals are Super Cancellable. Also, almost all Special Moves are Super Cancellable and all Super Moves are Super Cancellable (not into the same Super so while Allen can Fire Force into Triple Break, he can't Fire Force into Fire Force, after the different super you can go back to the first super you did however IE. Fire Force > Triple Break > Fire Force).
 
-In combinations with chains, this allows you to a series of normals that all combo into special moves which then combo into supers which adds up for massive damage. A sample combo for almost all characters would be `2LK` > `2MK` > Special Move > Super Move > Different Super Move > Super Move or `2LK` > `2MK` > Command Normal > Super Move > Different Super Move > Super Move
+In combinations with chains, this allows you to perform a series of normals that all combo into special moves which then combo into supers which adds up for massive damage. A sample combo for almost all characters would be `2LK` > `2MK` > Special Move > Super Move > Different Super Move > Super Move or `2LK` > `2MK` > Command Normal > Super Move > Different Super Move > Super Move
 
 ### Links
 
@@ -95,18 +95,20 @@ Blocking while crouching will block Highs as well, and will block Lows which are
 
 Crouch blocking, like most 2D fighting games, is by far the most foolproof kind of block. Many Lows are unreactably fast and on good, rewarding normals such as LKs, MKs and HKs while most Overheads are on jumping Attacks that are much easier to react to, and certain Unique Normals that are also easier to react to and are often not as rewarding as Lows. You want to Crouch Block by default and switch to Standing Block only if you see the opponent attempting a overhead attack.
 
-!!! tip "Blocking while standing reduces blockstun"
-
-    FEXL does have one mechanic that does change this however. Standing Block will actually let you recover from blocking quicker than Crouching Block. Therefore, certain moves will become unsafe if blocked standing, compared to blocking crouched. Doctrine Dark's Death Spinkick (`4MK`) is -4 on Crouching block, which is only punishable by standing LPs, which are usually out of range anyway. Standing blocks make this move -8 on block instead, which can be punished by most MKs and MPs. For a further explanation on how frame data works, [click here](#frame-data).
+However, Standing Block will actually let you recover from blocking quicker than Crouching Block. Therefore, certain moves will become unsafe if blocked standing, compared to blocking crouched. Doctrine Dark's Death Spinkick (`4MK`) is -4 on Crouching block, which is only punishable by standing LPs, which are usually out of range anyway. Standing blocks make this move -8 on block instead, which can be punished by most MKs and MPs. For a further explanation on how frame data works, [click here](#frame-data).
 
 ### Chip Damage
 
-Specials and Supers that are blocked will still inflict damage called Chip Damage, but much less than usual. The amount of chip damage depends on the special and the amount of hits. Multi-hit moves tend to do 1 chip damage per hit while single hit moves can do 3 to 5.
+Specials and Supers that are blocked will still inflict damage called Chip Damage, but much less than usual. The amount of chip damage depends on the special and the amount of hits. Multi-hit moves tend to do 1 chip damage per hit while single hit moves can do 3+ damage.
 
 Chip damage can kill in this game, like older Street Fighter games, so doing an inescapable string of specials into supers to get chip damage on the opponent is a viable and practical option.
 
 Some Decks and Gougi buff this, notably Chip Up in the Aggro deck and the entire Berserker Deck, which has a Gougi called Pierce that allows normal moves to inflict Chip Damage.
 
 ## Frame Data
+
+All moves, Specials and Supers have an amount of time for them to start up, an amount of time where the move can actually hit and the amount of time to then return to a neutral state. This is called Startup, Active (frames), and Recovery respectively.
+
+FEXL runs at 60 frames per second, so these periods of times are measured in frames, each frame naturally being a 60th of a second. 
 
 
