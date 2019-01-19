@@ -586,7 +586,7 @@ This is THE Allen Snider combo. Easily converts from any move that super cancels
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8PnfR_YRj7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-!!! quote "A small video on further optimizing Triple Break Loop juggles."
+!!! quote "A small video on further optimizing Triple Break Loop juggles by starrich55."
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n-tkU22xl-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
