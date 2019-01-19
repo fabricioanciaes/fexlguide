@@ -474,7 +474,7 @@ Guard cancel allows him to Justice Fist his way out of pressure, making for an e
 
 #### Escapes
 
-Allen doesn't really have any special moves or supers that get him out of trouble sadly. For the most part he needs to run away the old fashioned way or use his Reversals.
+Allen doesn't really have any special moves or supers that get him out of trouble. For the most part he needs to run away the old fashioned way or use his Reversals.
 
 - - -
 
@@ -586,6 +586,9 @@ This is THE Allen Snider combo. Easily converts from any move that super cancels
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8PnfR_YRj7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+!!! quote "A small video on further optimizing Triple Break Loop juggles."
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/n-tkU22xl-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Tech
 
