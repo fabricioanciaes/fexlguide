@@ -450,9 +450,9 @@ He does have 2 command overheads, but in particular if he takes a deck with Guar
 ### Set-Ups
 
 !!! quote "Hard Knockdown (From a Dark Knife for example) > EX-Plosive > Just block"
-    The most basic okizeme/vortex you can pull off, if an opponent is consistently attempt to mash/reversal out as they get back up, you'll be able to block them and combo them for free either as they come back down or from getting hit by the `EX-Plosive`. Otherwise, if they block in turn you have enough time to react and then continue your pressure on the blocking opponent.
+    The most basic okizeme/vortex you can pull off, if an opponent is consistently attempt to mash/reversal out as they get back up, you'll be able to block them and combo them for free either as they come back down or from getting hit by the `EX-Plosive`. Otherwise, if they block in turn you have enough time to react and then continue your pressure on the blocking opponent
 
-!!! quote "In the corner, 2HK > Whiff 2LP > 236LP/236MP (Dark Wire)"
+!!! quote "In the corner, 2HK > Whiff 2LP > 236LK/236MK (EX-Plosive)"
     A excellent setup which will be a meaty on both a normal getup and a Recover. If it connects, you can combo into `2MP`/`2MK`. Otherwise, you'll be +2 on crouching block or -1 on standing block. On a normal getup you'll also have enough time to set the bomb and block any reversals, including Allen's Rising Dragon and Blair Dame's Lightning Knee/Shoot Upper. The EX-Plosive will combo into Hard Attack as well, and if they block the bomb a Guard Break Hard Attack is almost guaranteed to land. (Credit to Labryz.)
 
 
@@ -476,7 +476,7 @@ He does have 2 command overheads, but in particular if he takes a deck with Guar
 
 Doctrine Dark's defensive play is strong from the start of the match. A backdash that covers a huge amount of ground allows him to quickly peel himself away from the opponent. It's a decent round opener.
 
-Once you have enough space, laying down a `EX-Plosive` makes it much more difficult for the opponent to approach. Running into it without blocking or jumping on top of it keeps them grounded and is a free `Dark Wire` or Dash-in `2LK` combo. 
+Once you have enough space, laying down a `EX-Plosive` makes it much more difficult for the opponent to approach. Opponents running into it without blocking or jumping on top of it keeps them grounded and is a free `Dark Wire` or Dash-in `2LK` combo. 
 
 The opponent can jump over it, but their jump arc will be much more obvious as they'll get to get clear over the bomb. D.Dark has a suite of good anti-airs to deal with this as well. His `2HP` will catch opponents jumping in on top of him, while `2HK` catches opponent jumping in from further away. Both of these can cancel into a `Dark Knife` and score a hard knockdown. `Dark Defender`, while having a fairly awkward arc, leads to a much stronger follow up (check the [Dark Wire/Dark Defender Routes](#darkwire/darkdefenderroutes)). `Dark Wire` is both long ranged and pretty active so it makes a decent anti-air for jump-ins that neither your normals or `Dark Defender` could reach.
 
