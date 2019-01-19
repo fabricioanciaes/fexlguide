@@ -49,21 +49,26 @@ The best combo to learn immediately is 2LK > 2MK > 236P > P > K or instead do 2L
 !!! tip "Shinobi"
     - Very solid Blue Gougi granting him an 5% damage increase and 10% speed increase almost immediately into the match.
     - Guard Cancel as always is a fantastic defensive Gougi. Vulcano Rosso struggles to spend meter as is, so doesn't mind spending the bar either on his Rage of Vesuvio or his counters, Umiliazione Di Canossa.
-    - Guard Break allows Vulcano Russo to set up difficult to escape unblockable situations and get huge rewards. Doesn't quite get to land the Hard Attacks for free like D.Dark does, but is still not too bad at sneaking them in. - Ghost makes approaching much easier for Vulcano Russo, allowing him to start enforcing his pressure and vortex much more reliably. Once he's in, a quick dash makes his mixup even scarier and unpredictable. Is also fairly good at stalling for the 12 seconds needed to Trigger the Ghost with his 214P which is pretty good at preventing the opponent from rushing in.
+    - Guard Break allows Vulcano Russo to set up difficult to escape unblockable situations and get huge rewards. Doesn't quite get to land the Hard Attacks for free like D.Dark does, but is still not too bad at sneaking them in. 
+    - Ghost makes approaching much easier for Vulcano Russo, allowing him to start enforcing his pressure and vortex much more reliably. Once he's in, a quick dash makes his mixup even scarier and unpredictable. Is also fairly good at stalling for the 12 seconds needed to Trigger the Ghost with his 214P which is pretty good at preventing the opponent from rushing in.
 
 !!! tip "Stealth Raptor"
     - Very solid selection of Blue Gougi, the 2 Speed Ups boosts V.Rosso's mobility by 20% while the Grab Up gives him a handy range increase, making his shimmying even stronger.
-    - Utsusemi helps with V.Rosso's lackluster defense and prevents a lot of other characters from enforcing their vortex and mixup on Rosso himself. - Hunting Dash gives Rosso a even better Short Hop with a different timing.
+    - Utsusemi helps with V.Rosso's lackluster defense and prevents a lot of other characters from enforcing their vortex and mixup on Rosso himself. 
+    - Hunting Dash gives Rosso a even better Short Hop with a different timing.
 
 !!! tip "Infinity"
     - Probably the best Blue Gougi of any deck, allowing you to get 130% meter gain near instantly. This lets V.Rosso get the bars needed for Guard Cancel and his combos into his Torre Pendente Di Pisa so he can ensure a hard knockdown.
-    - Guard Cancel as always is a fantastic defensive Gougi. Vulcano Rosso struggles to spend meter as is, so doesn't mind spending the bar either on his Rage of Vesuvio or his counters, Umiliazione Di Canossa. His command hop is also very nice for punishing easy Low blockstrings. - Rage is a very nice buff for Rosso's meter gain. While Rosso isn't fantastic at spending a lot of meter, always having the bar for his Torre Pendente Di Pisa and Guard Cancels is incredibly useful - While this isn't the absolute best fit for Rosso, the deck itself is so strong that it's still probably his go-to Deck outside of Shinobi and is by far the easiest one to make use out of.
+    - Guard Cancel as always is a fantastic defensive Gougi. Vulcano Rosso struggles to spend meter as is, so doesn't mind spending the bar either on his Rage of Vesuvio or his counters, Umiliazione Di Canossa. His command hop is also very nice for punishing easy Low blockstrings. 
+    - Rage is a very nice buff for Rosso's meter gain. While Rosso isn't fantastic at spending a lot of meter, always having the bar for his Torre Pendente Di Pisa and Guard Cancels is incredibly useful 
+    - While this isn't the absolute best fit for Rosso, the deck itself is so strong that it's still probably his go-to Deck outside of Shinobi and is by far the easiest one to make use out of.
 
 !!! tip "Nightmare"
     - Very easy Blue Gougi to Trigger, getting a permanent 20% Speed boost with 2 Speed Ups after only 10 seconds into the match is ideal for Rosso.
-    - Ghost just like with Shinobi is an easy Yellow Gougi to Trigger with an amazing Effect that massively buffs Rosso's approach and Mix Up. - Energy Drain is the main difference between taking Shinobi and taking Nightmare. Rosso can very easily score the 4 knockdowns needed for Energy Drain, and its Effect gives Rosso both a source of Meter Gain and also gets rid of meter from the opponent that they could otherwise use for Guard Cancels or Reversal Supers. - Soul Drain is honestly icing on the cake and is most likely going to be Triggered in the final round, but it makes his pressure even more disgusting, shredding the enemy of their Health and Meter. - This is fairly similar to Shinobi, but while Shinobi has more utility with Guard Break and especially Guard Cancel, Nightmare makes his vortex even stronger and rewarding with a powerful late-game Effect in his Soul Drain.
-
-
+    - Ghost just like with Shinobi is an easy Yellow Gougi to Trigger with an amazing Effect that massively buffs Rosso's approach and Mix Up. 
+    - Energy Drain is the main difference between taking Shinobi and taking Nightmare. Rosso can very easily score the 4 knockdowns needed for Energy Drain, and its Effect gives Rosso both a source of Meter Gain and also gets rid of meter from the opponent that they could otherwise use for Guard Cancels or Reversal Supers. 
+    - Soul Drain is honestly icing on the cake and is most likely going to be Triggered in the final round, but it makes his pressure even more disgusting, shredding the enemy of their Health and Meter. 
+    - This is fairly similar to Shinobi, but while Shinobi has more utility with Guard Break and especially Guard Cancel, Nightmare makes his vortex even stronger and rewarding with a powerful late-game Effect in his Soul Drain.
 
 ---
 
