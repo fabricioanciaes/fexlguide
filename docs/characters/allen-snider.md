@@ -11,17 +11,19 @@ summary: Brief guide of how to play Allen Snider
 Allen is a shotokan style character with a bit of a twist. His solid fireball and Dragon Punch (well, Rising Dragon) and generally good normals are supplemented with relatively easy and damaging loops using his Triple Break super to launch the opponent over and over as long as he has the meter. His command grab and Justice Fist, a super cancellable and high damaging move that's otherwise negative on hit(!) rounds him out and in general is a incredibly solid and accessible character. 
 
 !!! success "Strengths"
-    - His projectile (Soul Force, `236P`) and dragon punch (Rising Dragon, `623P`) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with Rising Dragon.
+    - His projectile (Soul Force, `236P`) and dragon punch (Rising Dragon, `623P`) allows  for solid "Super Turbo" style play by zoning out the opponent with fireballs and catching their jumps with Rising Dragon or his 5HK
     - Decent chip options with both Soul Force and Fire Force without having to use Gougi such as Berserker
-    - Can consistently turn confirms into high damage with [Triple Break Loop](#triple-break-loopss)s, allowing him to easily cash out damage from his meter.
+    - Can consistently turn confirms into high damage with [Triple Break Loop](#triple-break-loops)s, allowing him to easily cash out damage from his meter
     - Has both a dragon punch (Rising Dragon) and his `5HK` for anti airing
     - Decent normals in general
+    - Has a great meterless reversal with Rising Dragon
     - His fireball game allows him to generate meter in the neutral very well.
 
 !!! failure "Weaknesses"
     - Somewhat low damage without meter
     - No real 100% guaranteed anti-air / air-to-air conversions, attempting to cash in more damage is a risk
-    - Many of his damaging options are unsafe and often fully punishable if they don't hit or are blocked.    - Reversal options are all unsafe or punishable, making them incredibly risky.
+    - Many of his damaging options are unsafe and often fully punishable if they don't hit or are blocked    
+    - Reversal options are all unsafe or punishable, making them incredibly risky.
 
 ### 5 Minute Guide
 
@@ -33,28 +35,38 @@ Take Infinity as your deck, lets you gain 130% meter almost immediately, after d
 
 If someone is jumping in on you, either do `5HK` or `623P`. You can do `623P` as you're getting up if someone is trying to hit you, you'll get combo'd for free if it's blocked.
 
-For combos, start off with light kicks or punches, move up to medium kicks or punches and then to hard kicks or punches. Easiest one is `2LK > 2MK > 2HK`.
+For combos, start off with light kicks or punches, move up to medium kicks or punches and then to hard kicks or punches. Easiest and most reliable one is `2LK > 2MK > 2HK`.
 
 If your combo lands, as long as you haven't done `2HK` yet you can do `6MK` and then immediately do `236236P` to get a fireball super. This'll deal about 20% of their health in damage.
 
 If you do `236236K` instead of `236236P` in combos, you can catch the opponent on the way down with `421P` and immediately do `236236K` again. You can do this over and over as long as you have the meter. When you've done your last `236236K` do `623P` instead of `421P` so that they can't hit you while Allen keeps posing.
 
+A good sample block string would be `2LK` > `2MK` > `236P`. If this hits, cancel into 236236P OR 236236K into [Triple Break Loop](#triple-break-loops).
+
 ### Recommended Decks
 
 !!! tip "Infinity"
-    * Solid and easy to activate Blue Gougi and extremely powerful Yellow Gougi makes this deck a no-brainer pick.
-        - Allen really wants meter for his damage, which Infinity provides almost immediately with its 3 Meter Ups
-        - Guard Cancel is generally solid anyway, but Allen has both a strong combo starter with Justice Fist and a reversal with Rising Dragon to punish people's blockstrings and pressure
-        - Rage is a very nice bonus, allowing Allen to consistently get full 
-    [Triple Break Loop](#triple-break-loopss)s in the later rounds.
+    - Solid and easy to activate Blue Gougi and extremely powerful Yellow Gougi makes this deck a no-brainer pick.
+    - Allen really wants meter for his damage, which Infinity provides almost immediately with its 3 Meter Ups
+    - Guard Cancel is generally solid anyway, but Allen has both a strong combo starter with Justice Fist and a reversal with Rising Dragon to punish people's blockstrings and pressure
+    - Rage is a very nice bonus, allowing Allen to consistently get full 
+    [Triple Break Loop](#triple-break-loops)s in the later rounds.
 
 !!! tip "Aggro" 
 
-    * Very solid Blue Gougi and 2 fairly easy to Trigger Yellow Gougi means this Deck cashes out very quickly. - Chip up is a difficult Blue Gougi to Trigger quickly, but has a genuinely quite solid effect. It will increase the chip of Soul Force by 50% and increase Fire Force's chip by 100%. - Grab Up is very handy as Allen relies more than usual on his normal throw to open opponents up. - Erase Blow is not immediately useful, but is good against Doctrine Dark's EX-Plosive. - Illusion is a very handy automatic escape from highly damaging combos, which mitigates dropping combos or being overzealous with Rising Dragon. -Rampage is a very nice buff to Allen's damage, and Allen can play aggressively and use Soul Force to keep the Rampage stacks topped up.
+    - Very solid Blue Gougi and 2 fairly easy to Trigger Yellow Gougi means this Deck cashes out very quickly. 
+    - Chip Up is a difficult Blue Gougi to Trigger quickly, but has a solid effect. It will increase the chip of Soul Force by 50% and increase Fire Force's chip by 100%. 
+    - Grab Up is very handy as Allen relies more than usual on his normal throw to open opponents up. 
+    - Erase Blow is not immediately useful as he can already deal with projectiles normally, but is good against Doctrine Dark's EX-Plosive. 
+    - Illusion is a very handy automatic escape from highly damaging combos, which mitigates dropping combos or being overzealous with Rising Dragon. 
+    - Rampage is a big buff to Allen's damage, and Allen can play aggressively and use Soul Force to keep the Rampage stacks topped up.
 
 !!! tip "Nightmare" 
 
-    * Has the easiest Blue Gougi in the game to Trigger with 2 solid Yellow Gougi, Soul Drain unfortunately being very difficult to Trigger. - Speed Up makes Allen's approach even better - Ghost is both easy to Trigger with Allen's fireball game and extended combos (such as his [Triple Break Loop](#triple-break-loopss)) and exceptionally powerful, allowing Allen to approach and mix up the opponent while being completely invisible - Energy Drain is a very solid Yellow Gougi, getting Allen his meter. Also very easy to Trigger given that Allen's 2HK is safe and special cancellable, allowing him to easily end meterless combos in a knockdown. - Soul Drain is very much a Round 5 Gougi but does have a powerful Effect that stacks with his Energy Drain.
+    - Has the easiest Blue Gougi in the game to Trigger with 2 solid Yellow Gougi, Soul Drain unfortunately being very difficult to Trigger. 
+    - Speed Up makes Allen's approach even better - Ghost is both easy to Trigger with Allen's fireball game and extended combos (such as his [Triple Break Loop](#triple-break-loops)) and exceptionally powerful, allowing Allen to approach and mix up the opponent while being completely invisible 
+    - Energy Drain is a very solid Yellow Gougi, getting Allen his meter. Also very easy to Trigger given that Allen's 2HK is safe and special cancellable, allowing him to easily end meterless combos in a knockdown. 
+    - Soul Drain is very much a Round 5 Gougi but does have a powerful Effect that stacks with his Energy Drain.
 
 - - -
 
@@ -174,7 +186,7 @@ C.blo is similar but when the opponent crouch blocks instead.
     </tr>
     <tr>
         <td><b>5HK</b></td>
-        <td>Allen's dedicated anti-air button. This one works better for catching people jumping in far away, as its angle is pretty poor for people jumping right on top of you. Super cancellable, so is a decent way of starting <a href="#triplebreakloops">Triple Break Loops</a>. Whiffs on crouchers. Super Cancels.</td>
+        <td>Allen's dedicated anti-air button. This one works better for catching people jumping in far away, as its angle is pretty poor for people jumping right on top of you (Use <a href="#Specials">Rising Dragon</a> instead for that). Super cancellable, so is a decent way of starting <a href="#triplebreakloops">Triple Break Loops</a>. Whiffs on crouchers.</td>
         <td>8</td>
         <td>8</td>
         <td>-3</td>
@@ -198,7 +210,7 @@ C.blo is similar but when the opponent crouch blocks instead.
     </tr>
     <tr>
         <td><b>2HP</b></td>
-        <td>An okay mid hitting punch, 2HK's long range makes it better for blockstrings. Super Cancels</td>
+        <td>An okay mid hitting punch, 2HK's long range makes it better for blockstrings. Sees more use for Allen's frame traps. Super Cancels</td>
         <td>8</td>
         <td>6</td>
         <td>-5</td>
@@ -214,7 +226,7 @@ C.blo is similar but when the opponent crouch blocks instead.
     </tr>
     <tr>
         <td><b>2MK</b></td>
-        <td>Like 2LK with slightly longer, another solid button and can very much be used like any Street Fighter shoto's 2MK. Special Cancels.</td>
+        <td>Like 2LK but slightly longer, another solid button and can be used like any Street Fighter shoto's 2MK to catch opponents dashing in. Special Cancels.</td>
         <td>6</td>
         <td>5</td>
         <td>Hits Low</td>
@@ -290,7 +302,7 @@ C.blo is similar but when the opponent crouch blocks instead.
 </tr>
 <tr>
     <td><b>6MK</b></td>
-    <td>Can be chained into from any normal, super cancelable only. The slow startup and poor frame advantage means this should only be used in strings that have already hit. Still, it's a great way of getting into Triple Break from a confirmed string.</td>
+    <td>Can be chained into from any normal, Super Cancelable only. The slow startup and poor frame advantage means this should only be used in strings that have already hit. Will actually get over most `2LKs` and `2MKs`. Still, it's a great way of getting into Triple Break from a confirmed string. Has a good niche against D.Dark's EX-Prominence as it'll easily move past its hitbox.</td>
     <td>17</td>
     <td>-12</td>
     <td>-8</td>
@@ -345,7 +357,7 @@ Very importantly, it super cancels which makes it excellent as combo filler for 
 
 The strength of the button determines the length Allen travels.
 
-Has a pretty near "clean hit" mechanic, where hitting with the tip of the fist deals more damage (29 damage to 34) and sets the opponent aflame (cosmetic only, no actual effect.)
+Has a pretty near "clean hit" mechanic, where hitting with the tip of the fist deals more damage (29 damage to 34), builds slightly more meter and  sets the opponent aflame (cosmetic only, no actual effect.)
 
 While it does destroy fireballs, it should only be used in combos since it's way too dangerous to  miss. Fantastic combo filler, don't use it to end combos if you can help it, especially in the corner.</td>
     <td>15/-79/-75</td>
@@ -419,7 +431,7 @@ Allen's fast walk speed and run speed allows him to quickly get ground on the op
 
 #### Mix-Ups
 
-Allen doesn't have overhead normals or specials apart from `MP+MK`, so Allen relies on [Frame Traps](#frame-traps) and [Tick Throws](#tickthrows) along with his command grab to open a turtling opponent. His solid crossup kick also lets him get some left-right mixup on opponents recovering from a knockdown. Allen's solid chip options also means that it is no big loss for his strings to be blocked.
+Allen doesn't have overhead normals or specials apart from `MP+MK`, so Allen relies on [Frame Traps](#frame-traps) and [Tick Throws](#tickthrows) along with his command grab (especially a  to open a turtling opponent. His solid crossup kick also lets him get some left-right mixup on opponents recovering from a knockdown. Allen's solid chip options also means that it is no big loss for his strings to be blocked.
 
 #### Set-Ups
 
@@ -439,20 +451,30 @@ Allen doesn't have overhead normals or specials apart from `MP+MK`, so Allen rel
 
 !!! quote "2MK/2MP > Soul Force"
 
-    Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start [Triple Break Loop](#triple-break-loopss)s. `5HP` works as well, sadly `5HP` still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
+    Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start [Triple Break Loop](#triple-break-loops)s. `5HP` works as well, sadly `5HP` still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
+
+!!! quote "5LK/2LK > 2HP"
+
+    A good route to catch people trying to throw through your strings and requires no manual timing. The only downside is that `2HP` is -5 on standing block which is potentially punishable by `2LK` from most characters which makes it weaker for dash-ins. However, `2LK` > `2MK` is a safe route that'll also catch someone attempting to stand block after a `2LK` and there's always the threat of a delayed Fire Force to catch a potential `2LK` punish. It's also possible to tech a throw in the case they attempt that as their punish.
+
+!!! quote "Dash-in 2LK > 5HK"
+
+`5HK` is an alternate ender for the previous route as it's -3 on standing block and if done point blank won't whiff on crouchers. This can still be punished with a throw but Allen can still tech the throw.
+
 
 ### Defense
 
-Outside of the usual defense options, Allen does have Rising Dragon to potentially worm his way out of gaps in the opponent's pressure.
-Guard cancel allows him to Justice Fist his way out of pressure, making for an excellent combo starter. 
+Allen's defensive play is decent. While not to the level of D.Dark, he can control the stage well with use of his Soul Forces and his 5HKs and Rising Dragons to catch people jumping over the Soul Forces. Unlike D.Dark he can't get combos from stray hits across the screen, so his damage output massively drops. If he has a life lead however and time is running out, he's still pretty good at keeping the opponent out and punishing them for poor approaches and/or winning through a timeout.
 
 #### Reversals
 
-The netplay classic DP lives on in Rising Dragon and it's usually just as bad of an idea. Don't sleep on it though, if the opponent isn't using setups to keep them out of reach of your Rising Dragon, it can allow you to shift the momentum and make them scared to pressure you upclose on your wakeup. Ultimately this comes down to knowledge and knowing when it isn't working out for you. Fire Force is somewhat decent as it is much less punishable than a blocked Rising Dragon.
+Allen unlike most characters has access to a meterless reversal in his `Rising Dragon`. Unfortunately, Ultimately this comes down to knowledge and knowing when it isn't working out for you. Fire Force can be used as well but is often still punishable when blocked.
+
+Guard cancel allows him to Justice Fist his way out of pressure, making for an excellent combo starter. Rising Dragon can also work well as a guard cancel special since the invulnerability should let him get out of most followups to a string.
 
 #### Escapes
 
-Allen doesn't really have any special moves or supers that get him out of trouble sadly. For the most part he needs to run away the old fashioned way.
+Allen doesn't really have any special moves or supers that get him out of trouble. For the most part he needs to run away the old fashioned way or use his Reversals.
 
 - - -
 
@@ -472,21 +494,21 @@ As per all characters, Allen can chain from a normal to a higher strength normal
 
     A nice, safe and fairly rewarding chain as it scores you a knockdown and works off your standing or crouching kicks.
 
-!!! quote "2/5LK > 2/5MK > (5HK) > 6MK > ([Triple Break Loop](#triple-break-loopss)/ Fire Force)"
+!!! quote "2/5LK > 2/5MK > (5HK) > 6MK > ([Triple Break Loop](#triple-break-loops)/ Fire Force)"
 
-    A slightly more risky string as 6MK is poor on block. If the opponent is definitely standing, feel free to put the 5HK in for the extra damage.
+    A slightly more risky string as `6MK` is poor on block. If the opponent is definitely standing, feel free to put the `5HK` in for the extra damage.
 
-    If the `6MK` connects, rev up your [Triple Break Loop](#triple-break-loopss).
+    If the `6MK` connects, rev up your [Triple Break Loop](#triple-break-loops).
 
 !!! quote "Whatever > Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
 
     A nice and beginner friendly loop. While the individual parts are dangerous to drop, it is fairly easy to pull off regardless.
 
-    It's extremely important to not end the combo with Justice Fist, especially in the corner (and you will be in the corner, as this combo has fantastic corner carry.)
+    It's extremely important to not end the combo with Justice Fist if it won't end the round, especially in the corner (and you will be in the corner, as this combo has fantastic corner carry.)
 
 #### Dash-In combos
 
-!!! quote "2MP > 2MP > 2MK > Soul Force/6MK > ([Triple Break Loop](#triple-break-loopss)/ Fire Force)"
+!!! quote "2MP > 2MP > 2MK > Soul Force/6MK > ([Triple Break Loop](#triple-break-loops)/ Fire Force)"
 
     The momentum from your dash allows you to link (Not chain, so timing is a lot more strict) a second `2MP` which can then link into `2MK`.
 
@@ -503,13 +525,13 @@ As per all characters, Allen can chain from a normal to a higher strength normal
 !!! quote "Whatever > Soul Force"
 
     Soul Force is both a decent blockstring ender and can go into both Fire Force or Triple Break, making it a no-brainer to cancel into from a chain of normals for the most part.
-    Soul Force becomes way more unsafe in the corner however
+    Soul Force becomes way more unsafe in the corner however and so you'll prefer to end corner strings in `2HK`.
 
 ### Anti-Air Conversions
 
 !!! quote "5HK > Triple Break"
 
-    This allows Allen to potentially deal 50%+ off antiairs using a [Triple Break Loop](#triple-break-loopss). Annoyingly, this can easily drop off max range 5HK connects, making it pretty risky to confirm.
+    This allows Allen to potentially deal 50%+ off antiairs using a [Triple Break Loop](#triple-break-loops). Annoyingly, this can easily drop off max range 5HK connects, making it pretty risky to confirm.
 
 !!! quote "5HK > Fire Force"
 
@@ -519,7 +541,7 @@ As per all characters, Allen can chain from a normal to a higher strength normal
 
 !!! quote "Rising Dragon > Triple Break"
 
-    This is very much on the ballsy side, but allows you to use Rising Dragon to get past jump-ins that beat your `5HK` (And there's quite a few, such as Darun's j.HK, Shadowgeist's Shadow Sword Kick and Pullum Purna's Drill Purrus) and get your [Triple Break Loop](#triple-break-loopss).
+    This is very much on the ballsy side, but allows you to use Rising Dragon to get past jump-ins that beat your `5HK` (And there's quite a few, such as Darun's j.HK, Shadowgeist's Shadow Sword Kick and Pullum Purna's Drill Purrus) and get your [Triple Break Loop](#triple-break-loops).
 
 ### Air to Air Conversions
 
@@ -528,17 +550,17 @@ As per all characters, Allen can chain from a normal to a higher strength normal
     Depending on both your height and the opponent's height, you can fairly often get Triple Break to catch them as they fall.
     As a rule, if you hit them as you're on your way up your jump, you'll probably not land in time for the Triple Break.
 
-!!! quote "j.MK/HK > 5HK"
+!!! quote "j.MK/HK > 5HK > (Triple Break)"
 
-    `5HK` will fairly often catch the opponent similarly to Triple Break but way less dangerous if it misses.
+    `5HK` will fairly often catch the opponent similarly to Triple Break but way less dangerous if it misses. 
 
 !!! quote "j.MK/HK > Justice Fist > Triple Break"
 
-    Despite how dangerous the Justice Fist is to whiff, it actually works fairly reliably. The HP version of Justice Fist can often go under people and whiff, definitely practice this in training on a jumping opponent to get a feel for it. If you can land this, you can do 50% damage very easily off a basic full [Triple Break Loop](#triple-break-loopss)
+    Despite how dangerous the Justice Fist is to whiff, it actually works fairly reliably. The HP version of Justice Fist can often go under people and whiff, definitely practice this in training on a jumping opponent to get a feel for it. If you can land this, you can do 50% damage very easily off a basic full [Triple Break Loop](#triple-break-loops)
 
 ### Triple Break Loops
 
-This is THE Allen Snider combo. Easily converts from any move that super cancels and repeated as long as you have the meter. Also gives you an oppurtunity to figure out what Allen is actually shouting (Four Two Kick? Fortune Break?). You can potentially squeeze more damage out by getting clean hits of Justice Fist, but really, it's best to make sure the combo is finished.
+This is THE Allen Snider combo. Easily converts from any move that super cancels and repeated as long as you have the meter. Also gives you an opportunity to figure out what Allen is actually shouting (Four Two Kick? Fortune Break?). You can potentially squeeze more damage out by getting clean hits of Justice Fist, but really, it's best to make sure the combo is finished.
 
 !!! quote "Whatever > Triple Break > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
     
@@ -550,9 +572,9 @@ This is THE Allen Snider combo. Easily converts from any move that super cancels
 
     Any of these extensions only work after the first Triple Break, just stick to Justice Fist after the 2nd or third Triple Breaks.
 
-!!! quote "Whatever > Triple Break > 5HP > Justice Fist > Triple Break > Justice Fist > Triple Break > Rising Dragon"
+!!! quote "Whatever > Triple Break > 5LK > 5MK > 5HK > (in corner 6MK) > Triple Break > 5LK > 5MK > 5HK > (in corner 6MK) > Triple Break > Rising Dragon"
 
-    Similar to the previous loop, but works midscreen.
+    Another potential loop, the trick is to get the 5LK to hit late during the first loop but then do it quicker the second time. Builds a lot of meter, often allowing you to sneak in one more Triple Break than usual.
 
 ## Resources
 
@@ -563,6 +585,10 @@ This is THE Allen Snider combo. Easily converts from any move that super cancels
 !!! quote "Allen Snider Primer by Hidden Gem. Somewhat outdated but still very useful."
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8PnfR_YRj7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+!!! quote "A small video on further optimizing Triple Break Loop juggles by starrich55."
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/n-tkU22xl-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Tech
 
