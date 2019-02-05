@@ -641,4 +641,8 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 
 ## Resources
 
+!!! quote "A overview of all the gougi decks in the game by PB Geki."
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/42F5npuUcHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
