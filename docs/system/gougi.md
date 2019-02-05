@@ -10,7 +10,7 @@ Gougi is the most recognizable unique mechanic for Fighting Ex Layer. When you p
 
 For the sake of example, let's take a look at Aggro:
 
-***BIG OLD AGGRO DECK IMAGE HERE***
+![alt text](http://www.arika.co.jp/product/fexl_hp/character/system_eng/gougi_eng01.png "Aggro Deck")
 
 The Trigger is the condition you need to fill for the Gougi's Effect to activate. So, with Grab Up, once you land 2 non-command throws, you get a nice 20% increase to your grab range for the rest of the match. Erase Blow also has a simple Trigger with a simple but useful effect. 
 
@@ -638,3 +638,7 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
     </td>
   </tr>
 </table>
+
+## Resources
+
+
