@@ -468,9 +468,9 @@ Allen's defensive play is decent. While not to the level of D.Dark, he can contr
 
 #### Reversals
 
-Allen unlike most characters has access to a meterless reversal in his `Rising Dragon`. Unfortunately, Ultimately this comes down to knowledge and knowing when it isn't working out for you. Fire Force can be used as well but is often still punishable when blocked.
+Allen unlike most characters has access to a meterless reversal in his `Rising Dragon`. Unfortunately, he lacks a super cancel that'll keep him safe if the `Rising Dragon` is blocked. Ultimately this comes down to knowledge and knowing when it isn't working out for you.
 
-Guard cancel allows him to Justice Fist his way out of pressure, making for an excellent combo starter. Rising Dragon can also work well as a guard cancel special since the invulnerability should let him get out of most followups to a string.
+Allen takes a lot of decks with Guard Cancel and Guard Cancel allows him to Justice Fist his way out of pressure, making for an excellent combo starter. Rising Dragon can also work well as a guard cancel special since the invulnerability should let him get out of most followups to a string.
 
 #### Escapes
 
