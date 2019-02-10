@@ -459,7 +459,7 @@ Allen doesn't have overhead normals or specials apart from `MP+MK`, so Allen rel
 
 !!! quote "Dash-in 2LK > 5HK"
 
-`5HK` is an alternate ender for the previous route as it's -3 on standing block and if done point blank won't whiff on crouchers. This can still be punished with a throw but Allen can still tech the throw.
+    `5HK` is an alternate ender for the previous route as it's -3 on standing block and if done point blank won't whiff on crouchers. This can still be punished with a throw but Allen can still tech the throw.
 
 
 ### Defense
