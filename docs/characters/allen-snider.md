@@ -451,7 +451,7 @@ Allen doesn't have overhead normals or specials apart from `MP+MK`, so Allen rel
 
 !!! quote "2MK/2MP > Soul Force"
 
-    Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Foce will catch these normals and as it super cancels can start [Triple Break Loop](#triple-break-loops)s. `5HP` works as well, sadly `5HP` still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
+    Both these normals unchained have a gap that can be beaten out by 5f startup moves, Soul Force will catch these normals and as it super cancels can start [Triple Break Loops](#triple-break-loops). `5HP` works as well, sadly `5HP` still whiffs on some characters if they keep blocking while crouched, including Allen himself (Maybe a full list? Definitely works on D. Dark.) Justice Fist actually works if you feel like being a man and/or being at least -79 if you guess wrong.
 
 !!! quote "5LK/2LK > 2HP"
 
