@@ -57,7 +57,7 @@ If the opponent is knocked down, put a `EX-Plosive` on top or in front of them a
 !!! tip "Stealth Raptor"
     - Very solid selection of Blue Gougi, the 2 Speed Ups boosts D.Dark's mobility by 20% while the Grab Up gives him a handy range increase, making his shimmying even stronger.
     - Utsusemi helps with D.Dark's poor defense and lack of real escapes. Not on the level of Guard Cancel, but a decent defensive buff regardless.
-    - Hunting gives D.Dark a strong short hop, massively improving his mixup.
+    - Hunting gives D.Dark a strong short hop, massively improving his mixup by giving him instant overheads that can also cross up.
 
 
 
@@ -291,7 +291,7 @@ When editing, use this guide for the frame data, it's all here. https://docs.goo
     </tr>
     <tr>
         <td><b>j.MK</b></td>
-        <td>>D.Dark's crossup jump-in normal, also a pretty great air-to-air given its range.</td>
+        <td>>D.Dark's crossup jump-in normal and general jump-in normal, also a pretty great air-to-air given its range.</td>
         <td>4</td>
         <td>13</td>
         <td>Hits Overhead</td>
@@ -317,21 +317,21 @@ When editing, use this guide for the frame data, it's all here. https://docs.goo
 </tr>
 <tr>
     <td><b>Death Spinkick (4MK)</b></td>
-    <td>As per most command normals this can be chained into from any other normal and is super cancellable only. From a full chain into `Death Spinkick`, the best super to cancel into is `Dark Shackle` (236236K/46K) which leads to roughly 70 damage which is pretty decent for a bar of meter. However,  Dark Wire confirms from strings are generally more safe, reliable and can potentially lead to more damage. Specific interactions with Gougi (IE. landing 4 Hard Attacks) also make Dark Wire routes generally the better option. Feel free to use `Death Spinkick` if you want a clean way to end the round and you only have 1 bar of meter to work.</td>
+    <td>As per most command normals this can be chained into from any other normal and is super cancellable only. From a full chain into `Death Spinkick`, the best super to cancel into is `Dark Shackle` (236236K/46K) which leads to roughly 70 damage which is pretty decent for a bar of meter. However,  Dark Wire confirms from strings are generally more reliable and can potentially lead to more damage and setups. Specific interactions with Gougi (IE. landing 4 Hard Attacks) also make Dark Wire routes generally the better option. `Death Spinkick` has a decent niche as a frametrap to catch people jumping out of pressure and is pretty much safe if blocked crouching as `5LP` (the only normal that'll be 4F) usually won't have the reach to catch it. </td>
         <td>18</td>
         <td>-8</td>
         <td>-4</td>
 </tr>
 <tr>
     <td><b>Knife Nightmare(4MP)</b></td>
-    <td>A faster overhead than Hard Attack but is neither special or super cancellable and is actually 0 on hit, meaning the opponent gets to act the same time you do. It can be chained into from any normal like `Death Spinkick`, so it can be used to insert a surprise overhead into chains. Given its shorter reach, this should be relegated to dash-in chains. As it's unsafe and there's no option of super cancelling to catch a punish, this is a move you should only throw out once or twice a match. </td>
+    <td>A faster overhead than Hard Attack but is neither special or super cancellable and is actually 0 on hit, meaning the opponent gets to act the same time you do. It can be chained into from any normal like `Death Spinkick`, so it can be used to insert a surprise overhead into chains. Given its shorter reach, this should be relegated to dash-in chains. As it's unsafe and there's no option of super cancelling to catch a punish, this is a move you should only throw out once or twice a match normally, but it finds its niche in certain setups and notably doesn't cause `EX-Plosive` to explode immediately like `Hard Attack`, allowing you to actually combo from a well-timed explosion. </td>
         <td>18</td>
         <td>-10</td>
         <td>-4</td>
 </tr>
 <tr>
     <td><b>Shudder Blade (Hard Attack, MP+MK)</b></td>
-    <td>D.Dark's universal overhead. As always, massively unsafe on block but is super cancellable and keeps them grounded on hit which allows him to get decent damage off a `Dark Shackle`. Can be combo'd into from a Dark Wire confirm and then into `Dark Knife` which is what allows D.Dark to get the Guard Break gougi Triggered easier than any other character. Has a strange interaction with `EX-plosive`, causing it to instantly go off as `Shudder Blade` starts up. Most likely intended to prevent easy unblockable setups.</td>
+    <td>D.Dark's universal overhead. As always, massively unsafe on block but is super cancellable and keeps them grounded on hit which allows him to get decent damage off a `Dark Shackle`. Can be combo'd into from a Dark Wire confirm and then into `Dark Knife` which is what allows D.Dark to get the Guard Break gougi Triggered easier than any other character. Has a strange interaction with `EX-plosive`, causing it to instantly go off as `Shudder Blade` starts up. Most likely intended to prevent easy unblockable setups. Can be combo'd from meterlessly with a `5LP` in the corner which can then go into a normal combo.</td>
     <td>28</td>
     <td>-34</td>
     <td>Hits Overhead</td>
@@ -363,7 +363,7 @@ When editing, use this guide for the frame data, it's all here. https://docs.goo
 </tr>
 <tr>
     <td><b>Dark Hold(After Dark Wire, 4P)</b></td>
-    <td>D.Dark pulls the opponent in, staggering them and allowing him to easily combo. This will only work if Dark Wire hit a grounded opponent. This is your main followup after a `Dark Wire`. A few things to note is that it is a fixed distance that the opponent stumbles, so certain combos (particularly combos involving j.HK as a starter) may need to be adjusted to still land. Also, the opponent is in a special state that means they won't be grounded after being hit. This prevents you from just doing yet another regular combo back into Dark Wire, but does still allow decent followups. Check the combo section below to figure out your followups. </td>
+    <td>D.Dark pulls the opponent in, staggering them and allowing him to easily combo. This will only work if Dark Wire hit a grounded opponent. This is your main followup after a `Dark Wire`. A few things to note is that it is a fixed distance that the opponent stumbles, so certain combos (particularly combos involving j.HK as a starter) may need to be adjusted to still land. Also, the opponent is in a special state that means they won't be grounded after being hit. This prevents you from just doing yet another regular combo back into Dark Wire, but does still allow decent followups. Check the [Dark Wire/Dark Defender Routes section](#darkwire/darkdefenderroutes) below to figure out your followups. </td>
     <td>N/A</td>
     <td>N/A</td>
     <td>N/A</td>
@@ -396,21 +396,21 @@ Quick note, in startup framedata (eg. x + y), x means the startup until Super Fr
 </tr>
 <tr>
     <td><b>Dark Knife (236236P/46P)</b></td>
-    <td>D.Dark does a series of uppercuts with his energy blade. Use this super as a combo tool on airborne/launched opponents (In particular, from a `Dark Wire` combo.. Unfortunately does very little damage but is mostly useful as it can score a hard knockdown on opponents, allowing you to have enough times to get your setups while the opponent is knocked down. Comes out slightly quicker than Dark Shackle, so is generally the better reversal.</td>
+    <td>D.Dark does a series of uppercuts with his energy blade. Use this super as a combo tool on airborne/launched opponents (In particular, from a [Dark Wire/Dark Defender combo](#darkwire/darkdefenderroutes). Unfortunately does very little damage but is mostly useful as it can score a hard knockdown on opponents, allowing you to have enough times to get your setups while the opponent is knocked down. Comes out slightly quicker than Dark Shackle, so is generally the better reversal.</td>
     <td>3 + 2</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>Dark Shackle(236236K/46K)</b></td>
-    <td>D.Dark does a series of thrusts with his energy blade before impaling and smashing them to the ground and then bombing them.  Does fairly decent damage and is the super of choice on a grounded opponent. If for whatever reason you won't be doing a `Dark Wire` route, you'll be using this.</td>
+    <td>D.Dark does a series of thrusts with his energy blade before impaling and smashing them to the ground and then bombing them.  Does fairly decent damage and is the super of choice on a grounded opponent. If for whatever reason you won't be doing a [Dark Wire Route](#darkwire/darkdefenderroutes), you'll be using this.</td>
     <td>5 + 3</td>
     <td>?</td>
     <td>?</td>
 </tr>
 <tr>
     <td><b>EX-prominence(236236K/46K)</b></td>
-    <td>D.Dark throws out a massive bomb which detonates as it hits the ground. Has an incredibly slow startup and has a deceptively small vertical hitbox (basically the top half of the actual explosion doesn't count as a hitbox.) This usually can't be combo'd into outside of `Dark Wire` or `Dark Defender` either and if it lands cannot be combo'd out of. It is plus on block however. </td>
+    <td>D.Dark throws out a massive bomb which detonates as it hits the ground. Has an incredibly slow startup and has a deceptively small vertical hitbox (basically the top half of the actual explosion doesn't count as a hitbox.) This usually can't be combo'd into outside of `Dark Wire`/`Dark Defender` or `Hard Attack` either and if it lands cannot be combo'd out of. It is plus on block however. </td>
     <td>7 + 33</td>
     <td>?</td>
     <td>?</td>
@@ -445,15 +445,22 @@ D.Dark isn't necessarily the best character to rush down an opponent with, but h
 
 D.Dark has incredibly solid mix ups and ways to force the mixup on opponents. You have access to the usual arsenal of quick low-hitting attacks, command Overheads (`Hard Attack` and `Knife Nightmare` crossups, jumps into jumping normals that hit overhead or otherwise doing a empty jump into a low, frametraps and tick-throws. His `EX-plosive` placed as a meaty forces the opponent to block as they get up, giving D.Dark free reign to enforce his mixup.
 
-He does have 2 command overheads, but in particular if he takes a deck with Guard Break he gets access to a unblockable that leads to full combos and even gets unblockable setups.
+He does have 2 command overheads with his `4MK` and `Hard Attack`, but in particular if he takes a deck with Guard Break he gets access to a unblockable that leads to full combos and even gets unblockable setups.
+
+If you take the Stealth Raptor Gougi deck and Trigger Hunting, you not only get a shorthop for instant overheads, but it'll also crossup on crouching opponents. This doesn't work if they're right in the corner but it's an incredibly good mixup tool.
 
 ### Set-Ups
 
 !!! quote "Hard Knockdown (From a Dark Knife for example) > EX-Plosive > Just block"
-    The most basic okizeme/vortex you can pull off, if an opponent is consistently attempt to mash/reversal out as they get back up, you'll be able to block them and combo them for free either as they come back down or from getting hit by the `EX-Plosive`. Otherwise, if they block in turn you have enough time to react and then continue your pressure on the blocking opponent
+    The most basic okizeme/vortex you can pull off, if an opponent is consistently attempt to mash/reversal out as they get back up, you'll be able to block them and combo them for free either as they come back down or from getting hit by the `EX-Plosive`. Otherwise, if they block in turn you have enough time to react and then continue your pressure on the blocking opponent.
 
 !!! quote "In the corner, 2HK > Whiff 2LP > 236LK/236MK (EX-Plosive)"
     A excellent setup which will be a meaty on both a normal getup and a Recover. If it connects, you can combo into `2MP`/`2MK`. Otherwise, you'll be +2 on crouching block or -1 on standing block. On a normal getup you'll also have enough time to set the bomb and block any reversals, including Allen's Rising Dragon and Blair Dame's Lightning Knee/Shoot Upper. The EX-Plosive will combo into Hard Attack as well, and if they block the bomb a Guard Break Hard Attack is almost guaranteed to land. (Credit to Labryz.)
+
+!!! quote "Land Dark Knife in the corner > Dash-in EX-Plosive (ideally the HP version)"
+
+If you land `Dark Knife` in the corner, this gives you time to be right next to the corner and place a bomb. This won't actually hit the opponent but be directly behind them. This allows you to actually make use of the explosion which reachs slightly further than the bomb's hitbox. If the opponent is still in the corner, this forces them to block it, and it actually allows you to combo from a `4MP`. A sample combo would look like 4MP > Explosion From `EX-Plosive" hits > 2MK > [Dark Wire Route](#darkwire/darkdefenderroutes).
+    
 
 
 ### Frame-Traps
@@ -472,13 +479,15 @@ He does have 2 command overheads, but in particular if he takes a deck with Guar
 !!! quote "Dash-in 2MP > 2HP"
     Requires a slightly delay, but is good for catching people attempting to throw you if you keep trying to link 2MP. from a dash-in.
 
+!!! quote "2LK
+
 ### Defense
 
 Doctrine Dark's defensive play is strong from the start of the match. A backdash that covers a huge amount of ground allows him to quickly peel himself away from the opponent. It's a decent round opener.
 
 Once you have enough space, laying down a `EX-Plosive` makes it much more difficult for the opponent to approach. Opponents running into it without blocking or jumping on top of it keeps them grounded and is a free `Dark Wire` or Dash-in `2LK` combo. 
 
-The opponent can jump over it, but their jump arc will be much more obvious as they'll get to get clear over the bomb. D.Dark has a suite of good anti-airs to deal with this as well. His `2HP` will catch opponents jumping in on top of him, while `2HK` catches opponent jumping in from further away. Both of these can cancel into a `Dark Knife` and score a hard knockdown. `Dark Defender`, while having a fairly awkward arc, leads to a much stronger follow up (check the [Dark Wire/Dark Defender Routes](#darkwire/darkdefenderroutes)). `Dark Wire` is both long ranged and pretty active so it makes a decent anti-air for jump-ins that neither your normals or `Dark Defender` could reach.
+The opponent can jump over it, but their jump arc will be much more obvious as they'll make sure they jump clear over the bomb. D.Dark has a suite of good anti-airs to deal with this as well. His `2HP` will catch opponents jumping in on top of him, while `2HK` catches opponent jumping in from further away. Both of these can cancel into a `Dark Knife` and score a hard knockdown. `Dark Defender`, while having a fairly awkward arc, leads to a much stronger follow up (check the [Dark Wire/Dark Defender Routes](#darkwire/darkdefenderroutes)). `Dark Wire` is both long ranged and pretty active so it makes a decent but low reward anti-air for jump-ins that neither your normals or `Dark Defender` could reach.
 
 D.Dark however doesn't completely zone out the opponent from anywhere on the screen. His `Dark Wire` isn't quite fullscreen and without the threat of a nearby `EX-Plosive` opponents can move forward safely. Playing fullscreen won't allow you to chip out an opponent or even effectively control space that well, so you want to make sure you're within around 2/3rds camera distance from the opponent as a rule. 
 
