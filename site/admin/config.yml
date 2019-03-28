@@ -1,0 +1,46 @@
+backend:
+  name: git-gateway
+  repo: fabricioanciaes/fexlguide
+  branch: master
+
+public_folder: "/images/"
+media_folder: "/docs/images"
+publish_mode: editorial_workflow
+
+collections:
+  - name: "General"
+    label: "General"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Summary", name: "summary", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Characters"
+    label: "Characters"
+    folder: "docs/characters"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "System"
+    label: "System"
+    folder: "docs/system"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Frame Data"
+    label: "Frame Data"
+    folder: "docs/framedata"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

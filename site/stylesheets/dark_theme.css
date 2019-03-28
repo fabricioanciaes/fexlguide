@@ -20,6 +20,15 @@ Main headlines
   color: white !important;
 }
 
+.md-content h1,
+.md-content h2,
+.md-content h3,
+.md-content h4,
+.md-content h5,
+.md-content h6 {
+  color: white !important;
+}
+
 /*
 Tables
 */
@@ -134,4 +143,65 @@ article preview text color
 
 .md-nav__link[data-md-state="blur"] {
   color: rgba(255, 255, 255, 0.45)
+}
+
+/* 
+Less padding to the tables
+*/
+
+.md-typeset table:not([class]) th {padding:0.85rem}
+.md-typeset table:not([class]) td {padding:0.85rem}
+
+/*
+Remove min width for the table cells (Helps with framedata tables)
+*/
+
+.md-typeset table:not([class]) th {min-width:0;}
+
+/*
+Zebra tables: Helps readability
+*/
+
+tr:nth-child(even) {
+  background-color:rgba(0,0,0,0.15);
+}
+
+/* 
+Borders between cells
+*/
+td {
+  border-right:1px dashed rgba(0,0,0,0.2);
+}
+th {
+  border-right:1px dashed rgba(0,0,0,0.8);
+}
+
+td:last-child, th:last-child{
+  border-right: none;
+}
+
+/* 
+Widen out the md-content area and fix sidebar
+*/
+
+.md-grid {
+  max-width:100%;
+}
+
+@media only screen and (min-width: 76.25em){
+  .md-sidebar--secondary {
+    margin-left: 100vw;
+  }
+}
+
+/* 
+make a certain td occupy the whole screen on mobile.
+Useful for text heavy tables
+*/
+
+@media(max-width:768px) {
+  .text-heavy {
+    min-width: calc(100vw - 1.8rem) !important;
+    background-color:red;
+  }
 }

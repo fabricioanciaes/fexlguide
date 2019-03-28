@@ -1,0 +1,176 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+
+/* Functionality css */
+
+.responsive-table {
+  margin:0;
+  padding:0;
+  overflow-x: auto;
+  white-space: nowrap;
+  height:100vh;
+  display:grid;
+}
+
+table {
+  margin:0;
+  padding:0;
+  background:none;
+  border:none;
+  border-spacing:0;
+}
+
+tr {
+  transition: all 0.2s cubic-bezier(.55,0,.1,1);
+}
+
+tr.header th {
+  z-index:101;
+}
+
+tr.header th:first-child {
+  z-index:102;
+}
+
+td:first-child {
+  z-index:100;
+}
+
+td {
+  padding: 0.5rem;
+  text-align:right;
+}
+
+td:first-child {
+  text-align:left;
+}
+
+td:last-child, tr.header th:last-child {
+  column-span: 100%;
+}
+
+
+td:first-child, th:first-child {
+  position: sticky;
+  left:0;
+  white-space: normal;
+  font-size:12px;
+  min-width:30vw;
+  max-width:30vw;
+  width:30vw;
+}
+
+@media(min-width:640px) {
+  td:first-child, th:first-child {
+    min-width:200px;
+    max-width:200px;
+    width:200px;
+  }
+}
+
+/* Presentation */
+
+.plus {
+  color: #8cc189;
+}
+
+.minus {
+  color:#ff6f69;
+}
+
+.neutral {
+  color: #ffbc55;
+}
+
+th, td:first-child {
+  color: rgba(0,0,0,0.75);
+  font-weight:400;
+}
+
+td {
+  color: rgba(0,0,0,0.5);
+  font-weight:400;
+  font-size:16px;
+}
+
+body {
+  font-family: Roboto;
+  font-size: 16px;
+}
+
+table {
+  background-color: #f0f0f0;
+}
+
+th:first-child,
+td:first-child{
+  text-align:left;
+}
+
+th,td {
+  text-align:right;
+  padding: 0.8rem;
+}
+
+tr.header th {
+  position:sticky;
+  top:0;
+  background-color: white;
+}
+
+tr.header {
+  background-color:white;
+}
+
+tr:not(.header) {
+  border-bottom: 1px solid #e8e8e8;
+}
+
+tr.header th {
+  text-transform: Capitalize;
+}
+
+/* Colors */
+
+td:first-child {
+  background-color: #f0f0f0;
+}
+
+tr:nth-child(odd) td:first-child {
+  background-color: #ebebeb;
+}
+
+td:first-child:after {
+  content:"";
+  display:block;
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background-color:teal;
+  overflow:hidden;
+  background: linear-gradient(90deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 20%);
+  transform:translateX(100%);
+  pointer-events:none;
+}
+
+tr.header th:first-child {
+  box-shadow: 0.5rem 0 1.25rem rgba(0,0,0,0.1);
+}
+
+tr:not(.header):nth-child(odd) {
+  background-color:rgba(0,0,0,0.02)
+}
+
+tr:hover {
+  background-color: rgba(255,255,255,0.5) !important;
+}
+
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
+    content: " \25B4\25BE" 
+}

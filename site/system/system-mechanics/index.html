@@ -2,7 +2,7 @@
 
 
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" class="no-js">
   <head>
     
@@ -13,7 +13,7 @@
         <meta name="description" content="Fighting EX Layer resources and guides">
       
       
-        <link rel="canonical" href="https://fabricioanciaes.github.io/fexl-guide/system/system-mechanics/">
+        <link rel="canonical" href="https://fexl.netlify.com/system/system-mechanics/">
       
       
         <meta name="author" content="FEXL Discord">
@@ -38,26 +38,26 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.1.0">
     
     
       
-        <title>Mechanics - FEXL Guide</title>
+        <title>System Mechanics</title>
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/application.11e41852.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/application.982221ab.css">
       
-        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.22915126.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.224b79ff.css">
       
       
         
         
-        <meta name="theme-color" content="#546e7a">
+        <meta name="theme-color" content="#ffa000">
       
     
     
-      <script src="../../assets/javascripts/modernizr.20ef595d.js"></script>
+      <script src="../../assets/javascripts/modernizr.01ccdecf.js"></script>
     
     
       
@@ -74,6 +74,9 @@
       <link rel="stylesheet" href="../../stylesheets/codehilite.css">
     
     
+      
+    
+    
 <meta name="theme-color" content="#212121">
 
 <link rel='icon' href='/assets/images/favicon.ico'>
@@ -82,11 +85,13 @@
 <meta name='mobile-web-app-capable' content='yes'>
 <link rel="manifest" href="/manifest.json">
 
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
   </head>
   
     
     
-    <body dir="ltr" data-md-color-primary="blue-grey" data-md-color-accent="cyan">
+    <body dir="ltr" data-md-color-primary="amber" data-md-color-accent="amber">
   
     <svg class="md-svg">
       <defs>
@@ -107,7 +112,7 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="https://fabricioanciaes.github.io/fexl-guide/" title="FEXL Guide" class="md-header-nav__button md-logo">
+        <a href="https://fexl.netlify.com" title="FEXL Guide" class="md-header-nav__button md-logo">
           
             <i class="md-icon"></i>
           
@@ -119,22 +124,19 @@
       <div class="md-flex__cell md-flex__cell--stretch">
         <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
           
-            
-              <span class="md-header-nav__topic">
-                FEXL Guide
-              </span>
-              <span class="md-header-nav__topic">
-                Mechanics
-              </span>
-            
+            <span class="md-header-nav__topic">
+              FEXL Guide
+            </span>
+            <span class="md-header-nav__topic">
+              Mechanics
+            </span>
           
         </div>
       </div>
       <div class="md-flex__cell md-flex__cell--shrink">
         
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
           
-            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
-            
 <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
@@ -157,7 +159,6 @@
     </div>
   </div>
 </div>
-          
         
       </div>
       
@@ -233,7 +234,7 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="https://fabricioanciaes.github.io/fexl-guide/" title="FEXL Guide" class="md-nav__button md-logo">
+    <a href="https://fexl.netlify.com" title="FEXL Guide" class="md-nav__button md-logo">
       
         <i class="md-icon"></i>
       
@@ -342,22 +343,162 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Mechanics
+      </label>
+    
     <a href="./" title="Mechanics" class="md-nav__link md-nav__link--active">
       Mechanics
     </a>
     
-  </li>
-
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#movement" title="Movement" class="md-nav__link">
+    Movement
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
         
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="../deck/" title="Deck" class="md-nav__link">
-      Deck
-    </a>
+          <li class="md-nav__item">
+  <a href="#walk" title="Walk" class="md-nav__link">
+    Walk
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#run" title="Run" class="md-nav__link">
+    Run
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crouch" title="Crouch" class="md-nav__link">
+    Crouch
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#backdash" title="Backdash" class="md-nav__link">
+    Backdash
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jumping" title="Jumping" class="md-nav__link">
+    Jumping
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dash-in-momentum" title="Dash-in Momentum" class="md-nav__link">
+    Dash-in Momentum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#combo-system" title="Combo System" class="md-nav__link">
+    Combo System
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-is-a-combo" title="What is a combo?" class="md-nav__link">
+    What is a combo?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chain" title="Chain" class="md-nav__link">
+    Chain
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cancels" title="Cancels" class="md-nav__link">
+    Cancels
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#links" title="Links" class="md-nav__link">
+    Links
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#defense" title="Defense" class="md-nav__link">
+    Defense
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#blocking" title="Blocking" class="md-nav__link">
+    Blocking
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chip-damage" title="Chip Damage" class="md-nav__link">
+    Chip Damage
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frame-data" title="Frame Data" class="md-nav__link">
+    Frame Data
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
         
@@ -635,6 +776,145 @@
     
   
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#movement" title="Movement" class="md-nav__link">
+    Movement
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#walk" title="Walk" class="md-nav__link">
+    Walk
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#run" title="Run" class="md-nav__link">
+    Run
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crouch" title="Crouch" class="md-nav__link">
+    Crouch
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#backdash" title="Backdash" class="md-nav__link">
+    Backdash
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jumping" title="Jumping" class="md-nav__link">
+    Jumping
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dash-in-momentum" title="Dash-in Momentum" class="md-nav__link">
+    Dash-in Momentum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#combo-system" title="Combo System" class="md-nav__link">
+    Combo System
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-is-a-combo" title="What is a combo?" class="md-nav__link">
+    What is a combo?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chain" title="Chain" class="md-nav__link">
+    Chain
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cancels" title="Cancels" class="md-nav__link">
+    Cancels
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#links" title="Links" class="md-nav__link">
+    Links
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#defense" title="Defense" class="md-nav__link">
+    Defense
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#blocking" title="Blocking" class="md-nav__link">
+    Blocking
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chip-damage" title="Chip Damage" class="md-nav__link">
+    Chip Damage
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frame-data" title="Frame Data" class="md-nav__link">
+    Frame Data
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -647,7 +927,75 @@
                 
                 
                 <h1 id="system-mechanics">System Mechanics</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit arcu porta libero eleifend, eu condimentum odio tristique. Aenean nec lacinia felis.</p>
+<h2 id="movement">Movement</h2>
+<h3 id="walk">Walk</h3>
+<p>Press 6 to walk forward, 4 to walk back. This is the most simple form of movement. While walking, attacks will be Standing Normals. Different characters have different walk speeds. 4 or 1 will also make your character block attacks, standing and crouching respectively, so if your character needs to block, they will do that instead of walking back. Walk Speed can be increased by Triggered Speed Up Gougi.</p>
+<h3 id="run">Run</h3>
+<p>Press 66 and hold 6 to run forward. This gets you moving a lot quicker and also gives you dash-in momentum, making you skid forward. While running, attacks will be Standing Normals (IE. <code>5LP</code>, <code>5MK</code>). You can press and hold 4 or 1 and start blocking, standing and crouching respecively. Different characters have different run speeds. Run Speed can be increased by Triggered Speed Up Gougi.</p>
+<h3 id="crouch">Crouch</h3>
+<p>Press 1, 2 or 3 to crouch down. This gives you access to a different set of normal moves called Crouching Normals. (IE. <code>2LP</code>, <code>2MK</code>) You cannot move while crouched. If you press and hold 1, you will also do crouching blocks if you need to block, so using 1 by default is the best way to crouch.</p>
+<h3 id="backdash">Backdash</h3>
+<p>Press 44 to backdash. Your character moves away quicker than walking backwards but must finish their backdash before they can block, attack or do anything else. Backdashes have no invulnerability for normal attacks so are purely for movement in that sense. They are also not considered airborne even if a lot of characters seem to move off the ground. However they are throw invulnerable which makes them useful for baiting normal and command throws.</p>
+<h3 id="jumping">Jumping</h3>
+<p>Pressing 8 will make your character jump straight up, 9 will make them jump forward and 7 will make them jump back. You cannot block, but you get access to a new suite of normals and possibly some new special moves or supers (dependent on character, most specials and supers are either on-ground or in-air.) Characters also have different speeds and jump arcs. Allen has a fairly normal jump that is noticably higher and slower than Shirase's jump but is faster than Pullum's jump for example.</p>
+<h3 id="dash-in-momentum">Dash-in Momentum</h3>
+<p>Dash-in momentum is what it sounds like, your character gets to keep moving for a bit after a run forward before they come to a halt. This lets them do advancing normals and create combos that normally wouldn't be possible by staying in range for the next hit using dash-in momentum to combat the pushback that naturally comes up when moves hit. Learning this is the key to really pulling off chains and combos as a lot of chains don't naturally hit.</p>
+<h2 id="combo-system">Combo System</h2>
+<h3 id="what-is-a-combo">What is a combo?</h3>
+<p>A combo is a series of attacks you make that the opponent takes and cannot act between. If you do a combo, you will see a hit counter appear under your character which will increment with each hit in the combo until the combo "drops" and the opponent can act again. By using your normals, special moves and super moves well, you can constuct longer and longer combos that deal more and more damage, letting you get the most out of a hit. Some moves have more than one hit that will naturally combo anyway such as Fire Force, which is a large fireball that has 5 hits. While this is technically a combo, combos from now on will refer to when you do distinct attacks and get a combo rather just one attack (ie. Fire Force by itself won't be called a combo despite getting 5 hits on the hit while <code>2MK</code> &gt; Fire Force will, as you made 2 different actions.)</p>
+<h3 id="chain">Chain</h3>
+<p>FEXL has a fun combo system that allows you to do a normal attack such as <code>5LP</code> and if it hits, blocked or otherwise, it'll allow you to immediately go into a stronger attack such as <code>5MP</code> or <code>5MK</code>. You can switch from crouching to standard normals and vice versa at any time in the chain. This lets you do chains like:</p>
+<div class="admonition success">
+<p class="admonition-title">Possible String examples</p>
+<ul>
+<li><code>5LP</code> &gt; <code>5MP</code> &gt; <code>5HP</code></li>
+<li><code>5LK</code> &gt; <code>5MK</code> &gt; <code>5HP</code></li>
+<li><code>2LK</code> &gt; <code>2MK</code> &gt; <code>2HK</code></li>
+<li><code>5LK</code> &gt; <code>5MP</code> &gt; <code>2HK</code></li>
+<li><code>2LP</code> &gt; <code>2MP</code> &gt; <code>5HK</code></li>
+</ul>
+</div>
+<p>You cannot chain into a normal of the same strength and you can't chain into a lower strength so these won't work :</p>
+<div class="admonition failure">
+<p class="admonition-title">Impossible String examples</p>
+<ul>
+<li><code>2LK</code> &gt; <code>2LP</code> &gt; <code>5MP</code> &gt; <code>5MK</code> &gt; <code>2HK</code></li>
+<li><code>5HP</code> &gt; <code>2MK</code> &gt; <code>2HK</code></li>
+<li><code>5HP</code> &gt; <code>2LK</code> &gt; <code>5LK</code></li>
+</ul>
+</div>
+<p>There is a specific Gougi called <a href="/system/gougi/#6chain">6 Chain</a> which slightly changes up the rules. This allows you to actually go from a punch to the same strength kick which is normally not possible. Otherwise, the same rules apply.</p>
+<div class="admonition success">
+<p class="admonition-title">Only Possible when 6 Chain is in effect</p>
+<ul>
+<li><code>5LP</code> &gt; <code>5LK</code> &gt; <code>5MP</code> &gt; <code>5MK</code> &gt; <code>5HP</code> &gt; <code>5HK</code></li>
+<li><code>5LP</code> &gt; <code>2LK</code> &gt; <code>2MP</code> &gt; <code>5MK</code> &gt; <code>5HP</code> &gt; <code>2HK</code></li>
+</ul>
+</div>
+<p>Naturally, these chains make comboing and stringing together attacks much easier and are well worth learning. The first thing you should get comfortable with when picking the game or a new character is finding a chain that you can reliably land and lets you deal good damage and/or is safe to do against someone blocking. Lastly, most characters have command normals (called Unique Normals in the move list in-game.) All characters have a Hard Attack listed that can not be chained into, but often they will have another listed move that CAN be chained into from any normal move. For example, Allen has <code>6MK</code> which can chained into from <code>5HK</code> which would be impossble if it was a regular normal. You can use these particular command normals to further extend your chain, getting 4 or more hits for your chains.</p>
+<h3 id="cancels">Cancels</h3>
+<p>Cancels are similar to chains in that they allow you to do one move and then immediately go into another move on hit or block. (They're called cancels as you get to "cancel" the normal recovery of a move and just start up a whole new move.) This allows you to do normal moves and easily combo into Specials or Supers.</p>
+<p>There are 2 variations of this, Special Cancels, which means you can cancel into a Special Move. An example of Special Cancellable moves are most character's LPs/LKs and MPs/MKs. For example, Allen can press <code>2MK</code> and then immediately Special Cancel into Soul Force when the <code>2MK</code> hits.</p>
+<p>The other variation is Super Cancels, which work similarly except that you get to do Super Moves. Almost all normal moves are Super Cancellable, but notably you get HPs/HKs are Super Cancellable but NOT Special Cancellable. Some command normals are Super Cancellable. Also, almost all Special Moves are Super Cancellable and all Super Moves are Super Cancellable (not into the same Super so while Allen can Fire Force into Triple Break, he can't Fire Force into Fire Force, after the different super you can go back to the first super you did however IE. Fire Force &gt; Triple Break &gt; Fire Force).</p>
+<p>In combinations with chains, this allows you to perform a series of normals that all combo into special moves which then combo into supers which adds up for massive damage. A sample combo for almost all characters would be <code>2LK</code> &gt; <code>2MK</code> &gt; Special Move &gt; Super Move &gt; Different Super Move &gt; Super Move or <code>2LK</code> &gt; <code>2MK</code> &gt; Command Normal &gt; Super Move &gt; Different Super Move &gt; Super Move</p>
+<h3 id="links">Links</h3>
+<p>Links are where you cannot chain or cancel a move but are still able to combo, despite having to wait for the first/previous move to fully recover. An example of this for most characters is <code>2MP</code> into <code>2MK</code> which if done quickly enough will combo. This is usually much harder but is definitely worth learning once you've grasped chains and cancels. Links are also massively affected by pushback and will often lead to dropped combos. For example, <code>2MP</code> actually links into itself, but naturally the pushback prevents you from forever linking <code>2MP</code> to itself. Dash-in momentum counteracts this and allows you get a second <code>2MP</code> which you would then link into something with more range, often a <code>2MK</code>.</p>
+<p>Using links, we can further expand our combos and blockstrings. A sample combo for most characters in dash-in &gt; <code>2MP</code> &gt; <code>2MP</code> &gt; <code>2MK</code> &gt; Special Move &gt; Super Move or dash-in &gt; <code>2MP</code> &gt; <code>2MP</code> &gt; <code>2MK</code> &gt; Command Normal &gt; Super Move.</p>
+<h2 id="defense">Defense</h2>
+<h3 id="blocking">Blocking</h3>
+<p>If you are about to be attacked, if you are holding 4, you will block while standing. If 1 is held instead, you will block while crouching. Blocking is important for not getting heavily damaged or combo'd by every attack the opponent throws out. You can only block on the ground, not in the air.</p>
+<p>As a rule, if you're not doing anything in particular or you can't do anything (IE. you've done a blockstring and must wait to recover from the last move), holding 4 or 1 is a no-brainer as you'll block instantly as long as your character isn't recovering. </p>
+<p>Blocking while standing will block attacks that hit High, which is the vast majority of attacks in the game, and attacks that hit Overhead which are almost always jumping Attacks. All Hard Attacks (MP+MK) are overheads and some characters have other command normals that hit overhead.</p>
+<p>Blocking while crouching will block Highs as well, and will block Lows which are generally Crouching Kicks.</p>
+<p>Crouch blocking, like most 2D fighting games, is by far the most foolproof kind of block. Many Lows are unreactably fast and on good, rewarding normals such as LKs, MKs and HKs while most Overheads are on jumping Attacks that are much easier to react to, and certain Unique Normals that are also easier to react to and are often not as rewarding as Lows. You want to Crouch Block by default and switch to Standing Block only if you see the opponent attempting a overhead attack.</p>
+<p>However, Standing Block will actually let you recover from blocking quicker than Crouching Block. Therefore, certain moves will become unsafe if blocked standing, compared to blocking crouched. Doctrine Dark's Death Spinkick (<code>4MK</code>) is -4 on Crouching block, which is only punishable by standing LPs, which are usually out of range anyway. Standing blocks make this move -8 on block instead, which can be punished by most MKs and MPs. For a further explanation on how frame data works, <a href="#frame-data">click here</a>.</p>
+<h3 id="chip-damage">Chip Damage</h3>
+<p>Specials and Supers that are blocked will still inflict damage called Chip Damage, but much less than usual. The amount of chip damage depends on the special and the amount of hits. Multi-hit moves tend to do 1 chip damage per hit while single hit moves can do 3+ damage.</p>
+<p>Chip damage can kill in this game, like older Street Fighter games, so doing an inescapable string of specials into supers to get chip damage on the opponent is a viable and practical option.</p>
+<p>Some Decks and Gougi buff this, notably Chip Up in the Aggro deck and the entire Berserker Deck, which has a Gougi called Pierce that allows normal moves to inflict Chip Damage.</p>
+<h2 id="frame-data">Frame Data</h2>
+<p>All moves, Specials and Supers have an amount of time for them to start up, an amount of time where the move can actually hit and the amount of time to then return to a neutral state. This is called Startup, Active (frames), and Recovery respectively.</p>
+<p>FEXL runs at 60 frames per second, so these periods of times are measured in frames, each frame naturally being a 60<sup>th</sup> of a second. </p>
                 
                   
                 
@@ -721,12 +1069,9 @@
       
     </div>
     
-      <script src="../../assets/javascripts/application.9e1f3b71.js"></script>
+      <script src="../../assets/javascripts/application.2ba8dec4.js"></script>
       
       <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
-      
-    
-    
       
     
   </body>
