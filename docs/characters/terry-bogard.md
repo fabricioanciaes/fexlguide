@@ -8,18 +8,19 @@ summary: Brief guide of how to play Terry Bogard
 
 ### Type of Character
 
-Terry Bogard, a guest character originally from the Fatal Fury games and a mainstay of King Of Fighters is a shoto on steroids. His high damage and complete kit  [[summary of his playstyle, moves and so on]]
+Terry Bogard, a guest character originally from the Fatal Fury games and a mainstay of King Of Fighters is [[summary of his playstyle, moves and so on]]
 
 !!! success "Strengths"
-    - Solid fireball game with a good selection of antiairs
-    - Easily converts meter to damage with [Power Geyser Loops](#power-geyser-loops) from both grounded strings and anti-airs
-    - Has an extremely well-rounded kit with a 
-    - 
+    - aaa
+    - bbb
+    - ccc
+    - ddd
 
 !!! failure "Weaknesses"
-    - Has a fairly poor kara-cancel from his sweep
-    - Somewhat stubby normals combined with a somewhat slow run speed.
-    - Has no safe supers to cancel into, forcing Terry to hitconfirm correctly.
+    - aaa
+    - bbb
+    - ccc
+    - ddd
 
 ### 5 Minute Guide
 
@@ -27,7 +28,7 @@ Terry Bogard, a guest character originally from the Fatal Fury games and a mains
 
 Take Infinity as your deck, lets you gain 130% meter almost immediately, after doing 10 supers you get a rapidly regenerating super bar. Other decks you could use is Aggro as a general beginner friendly deck, or Stealth Raptor if you want to have Terry bring his shorthops along from KOF.
 
-2LK, 2MK, 2MP, and 5MK are solid pokes.
+[[Normals and moves to throw out in neutral, pokes and the like]]
 
 [[Anti-airs and reversals]]
 
