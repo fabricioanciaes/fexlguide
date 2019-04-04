@@ -13,13 +13,15 @@ Terry Bogard, a guest character originally from the Fatal Fury games and a mains
 !!! success "Strengths"
     - Solid fireball game with a good selection of antiairs
     - Easily converts meter to damage with [Power Geyser Loops](#power-geyser-loops) from both grounded strings and anti-airs
-    - Has an extremely well-rounded kit with a 
-    - 
+    - Has an extremely well-rounded kit with a great fireball, 2 special anti-airs in Rising Tackle and Crack Shoot, a strong special linker with Burn Knuckle and a command grab (for reasons unknown to man)
+    - Very solid selection of normals with a sweep that's both safe on block and special cancellable.
 
 !!! failure "Weaknesses"
-    - Has a fairly poor kara-cancel from his sweep
-    - Somewhat stubby normals combined with a somewhat slow run speed.
-    - Has no safe supers to cancel into, forcing Terry to hitconfirm correctly.
+    - Has a fairly poor kara-cancel from his sweep which keeps his potential command grab game in check
+    - Somewhat stubby normals combined with a somewhat slow run speed makes his approach mediocre compared to many other characters in the cast.
+    - Has no safe supers to cancel into and unsafe specials (with the exception of a spaced Power Wave) forcing Terry to hitconfirm correctly or otherwise end in unrewarding strings to stay safe when pressuring.
+    - His fireball game is not as strong as other characters and will often lose the fireball war.
+ 
 
 ### 5 Minute Guide
 
@@ -27,25 +29,23 @@ Terry Bogard, a guest character originally from the Fatal Fury games and a mains
 
 Take Infinity as your deck, lets you gain 130% meter almost immediately, after doing 10 supers you get a rapidly regenerating super bar. Other decks you could use is Aggro as a general beginner friendly deck, or Stealth Raptor if you want to have Terry bring his shorthops along from KOF.
 
-2LK, 2MK, 2MP, and 5MK are solid pokes.
+`2LK`, `2MK`, `2MP`, and `5MK` are solid pokes with `2HK` being a slower but longer range option to catch out enemy pokes and dash ins.
 
-[[Anti-airs and reversals]]
+Many of your special moves do move you forward but are unsafe on block. Stick to `236LP/6LP` and general movement to approach safely.
 
-For combos, start off with light kicks or punches, move up to medium kicks or punches and then to heavy kicks or punches. Easiest and most reliable one is [[safe and easy route, like `2LK > 2MK > 2HK`]]. Lights and Mediums go into specials and supers, Heavies go into supers only.
+`2HP` is your go-to antiair. Unlike many heavy attacks, it is special cancellable, letting you easily combo into a `214LP/4LP` which can then go into a [Power Geyser Loop](#power-geyser-loops) or `236236K/46K`. Otherwise you have [2]8K and 214K/4K
 
-If your combo lands, as long as you haven't done [[safe ender]] you can [[linker into special > super]]
+For combos, start off with light kicks or punches, move up to medium kicks or punches and then either to heavy kicks or punches or special moves. Dashing in will make your combos far more consistent. `2LK` > `2MK` > `2HK` > (`236P/6P` on block) is a solid and safe string that will knock down on hit or will be safe and deal chip damage on block.  
 
-[[potential easy optimization]]
+A good sample block string would be `2LK` > `2MK` > `236P/6P`. If this hits, cancel into  `236236K/46K`. If you want to get even more damage, instead cancel into `21416P/46P` ` into [Power Geyser Loops](#power-geyser-loops). A quick sample Power Geyser Loop might be `21416P/46P` > `214LP/4LP` > `21416P/46P` > etc.
 
-A good sample block string would be `2LK` > `2MK` > `236P`. If this hits, cancel into 236236P OR 236236K into [Power Geyser Loops](#power-geyser-loops).
 
 ### Recommended Decks
 
 !!! tip "Infinity"
-    - Solid and easy to activate Blue Gougi and extremely powerful Yellow Gougi makes this deck a no-brainer pick.
-    - bbb
-    - Guard Cancel is generally solid anyway, but Terry has blahblahblah
-    - Rage is a very nice bonus, allowing Terry to consistently
+    - Solid and easy to activate Blue Gougi and extremely powerful Yellow Gougi makes this deck a no-brainer pick on any character, never mind Terry with his [Power Geyser Loops](#power-geyser-loops) and Level 3 supers.
+    - Guard Cancel is a massive buff to Terry's Defense who can catch people out with a Back Spin Attack, Burn Knuckle or Rising Tackle.
+    - Rage is a very nice bonus, allowing Terry to consistently push out [Power Geyser Loops](#power-geyser-loops) on any confirm.
 
 !!! tip "Aggro" 
 
@@ -55,7 +55,7 @@ A good sample block string would be `2LK` > `2MK` > `236P`. If this hits, cancel
     - fff
 
 
-!!! tip "Nightmare" 
+!!! tip "Stealth Raptor" 
 
     - ccc
     - ddd
@@ -140,128 +140,128 @@ C.blo is similar but when the opponent crouch blocks instead.
     </tr>
     <tr>
         <td><b>5LP</b></td>
-        <td>For each normal, talk about it's speed, its purpose and any other notes (is it good for frame traps? Does it anti-air? Is it particularly negative? Does it hit high low mid etc.)</td>
+        <td>A standing jab that whiffs on crouchers. Not that useful aside from having a 4f startup(?) but `2LK` outclasses it otherwise. Only really used in difficult dash jab combos. Special and Super Cancellable.</td>
         <td>What's the startup?</td>
         <td>Standing block frame advantage?</td>
         <td>Crouching block frame advantage?</td>
     </tr>
     <tr>
         <td><b>5MP</b></td>
-        <td>Description</td>
+        <td>A rolling uppercut that hits twice. Hits crouchers. Fairly short range, but the 2 hits gives you more time to confirm. Special and Super Cancellable.</td>
         <td>?</td>
         <td>?</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>5HP</b></td>
-        <td>Description</td>
+        <td>A straight punch. Decently long range, hits crouchers, and fulfills a niche as a move to frametrap into from a dash-in 2LK as well as a decent ender for a blocked string, as it's safe even from throws and if it lands can be Super Cancelled (Not Special Cancellable however unlike 2HP), whereas a 2HK on hit will knock down and prevent any followups. </td>
         <td>?</td>
         <td>?</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>5LK</b></td>
-        <td>Description</td>
+        <td>A shallow kick with good range that hits mid despite looking like a standing low. 2LK has slightly more range and hits low so 2LK is preferred. Special and Super Cancellable.</td>
         <td>?</td>
         <td>?</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>5MK</b></td>
-        <td>Description</td>
+        <td>A standing kick with decent range. Has a similar issue with 5LK where its crouching counterpart is typically better in neutral. Special and Super Cancellable</td>
         <td>?</td>
         <td>?</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>5HK</b></td>
-        <td>Description</td>
+        <td>A upwards kick. Is decent as an anti-air for jumps at a longer range that 2HP may not catch, but is only Super Cancellable unlike 2HP and as a string ender suffers from whiffing on crouch unless the opponent is point blank. </td>
         <td>?</td>
         <td>?</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>2LP</b></td>
-        <td>Description</td>
+        <td>A crouching jab that hits mid. 2LK generally overshadows this in every way. Special and Super Cancellable.</td>
         <td>?</td>
         <td>?</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>2MP</b></td>
-        <td>Description</td>
+        <td>A full crouching punch that hits mid. 2MP is a decent normal in neutral but excels as a combo tool in strings as it links into itself or 2LK, allowing for extended strings. Keep in mind that attempting these links are massively unsafe on block so are best used to punish or with a frametrap in mind to catch throws and 2LKs.</td>
         <td>?</td>
         <td>?</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>2HP</b></td>
-        <td>Description</td>
+        <td>A uppercut that is useful for multiple purposes. It works as an anti-air generally for close-range or shallow jump-ins, is unique both Special and Super Cancellable unlike most heavy normals, allowing Terry to cancel into Burn Knuckle into [Power Geyser Loops](#power-geyser-loops) that can deal 50+% damage easily. The special cancel property also makes it very good for strings, allowing Terry to land a strong heavy hit before moving into the Special Cancel part of the combo. 2HK is generally safer as a heavy ender and 5HK is a safer option that also functions as a frame trap but 2HK is better for a combo.</td>
         <td>?</td>
         <td>?</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>2LK</b></td>
-        <td>Description</td>
+        <td>A quick kick that hits low. As with most characters in FEXL this is your go-to normal for block strings, combos, mixup and neutral.Your strings will almost always start with it. Its own weakness is its incredibly poor framedata by itself, but can always go into a string that can either frame trap or end safely. Special and Super Cancellable.</td>
         <td>?</td>
         <td>?</td>
-        <td>?</td>
+        <td>Hits Low</td>
     </tr>
     <tr>
         <td><b>2MK</b></td>
-        <td>Description</td>
+        <td>2LK but slightly longer range and slower. Still hits low and is 99% of the time the normal of choice after 2LK in a string. Choosing between it and the other crouching kicks in neutral ultimately boils down to what balance of speed and range you want and are mostly interchangable.</td>
         <td>?</td>
         <td>?</td>
-        <td>?</td>
+        <td>Hits Low</td>
     </tr>
     <tr>
         <td><b>2HK</b></td>
-        <td>Description</td>
+        <td>A classic fighting game sweep that for some reason is both safe and Special Cancelable along with being Super Cancellable. Scores a soft knockdown on hit which is decent but doesn't allow much time for setups and will also end any potential for a followup. A solid go-to meterless combo ender and blockstring ender.</td>
         <td>?</td>
         <td>?</td>
-        <td>?</td>
+        <td>Hits Low</td>
     </tr>
     <tr>
         <td><b>j.LP</b></td>
         <td>Description</td>
         <td>?</td>
-        <td>?</td>
+        <td>Hits High</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>j.MP</b></td>
         <td>Description</td>
         <td>?</td>
-        <td>?</td>
+        <td>Hits High</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>j.HP</b></td>
-        <td>Description</td>
+        <td>An excellent heavy hitting air-to air with some crossup potential (very difficult to land consistently however) </td>
         <td>?</td>
-        <td>?</td>
+        <td>Hits High</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>j.LK</b></td>
         <td>Description</td>
         <td>?</td>
-        <td>?</td>
+        <td>Hits High</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>j.MK</b></td>
-        <td>Description</td>
+        <td>A solid air-to-air and Terry's crossup jump-in.</td>
         <td>?</td>
-        <td>?</td>
+        <td>Hits High</td>
         <td>?</td>
     </tr>
     <tr>
         <td><b>j.HK</b></td>
         <td>Description</td>
         <td>?</td>
-        <td>?</td>
+        <td>Hits High</td>
         <td>?</td>
     </tr>
 </table>
@@ -278,7 +278,7 @@ C.blo is similar but when the opponent crouch blocks instead.
 </tr>
 <tr>
     <td><b>6HP (Back Knuckle)</b></td>
-    <td>Worth reminding people that you can go into command normals from any normal. Also, is it a overhead? Super cancellable? Special cancellable? etc.</td>
+    <td>A slow turn around punch. Like many Command Normals, this can be chained into at any point in a normal string, allowing for strings to go beyond Light > Medium > Heavy. Is a good Command Normal to cancel into early for frametraps or to extend combos but is unsafe on block.</td>
         <td>?</td>
         <td>?</td>
         <td>?</td>
@@ -286,9 +286,9 @@ C.blo is similar but when the opponent crouch blocks instead.
 <tr>
     <td><b>MP+MK (Hard Attack)</b></td>
     <td>This character's universal overhead? Anything special about it? Is it particularly good for this character or a gougi deck they take?</td>
-    <td>32</td>
-    <td>-34</td>
-    <td>-4</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
 </table>
 
 ### Specials
@@ -303,7 +303,9 @@ C.blo is similar but when the opponent crouch blocks instead.
 </tr>
 <tr>
     <td><b>Power Wave (236P/6P)</b></td>
-    <td>Describe the special move simply, what function does it have, any special properties? What do the button strengths do? Applications in combos? etc. </td>
+    <td>Terry's flavour of Hadoken. Extremely solid fireball which can be used for light zoning and approaching, the strength of the punch controls the speed of the fireball. LP Power Wave in particular is great for running behind which helps Terry's otherwise mediocre approach. Notably is the only safe special move that Terry can cancel into from a string and only at certain spacing. Super Cancels.
+
+Disgustingly, it can hit and destroy D.Dark's EX-Plosives, removing D.Dark's main neutral tool in the matchup.</td>
     <td>Light Strength framedata/Medium Strength framedata/Heavy Strength framedata</td>
     <td>?/?/?</td>
     <td>?/?/?</td>
@@ -331,13 +333,6 @@ C.blo is similar but when the opponent crouch blocks instead.
 </tr>
 <tr>
     <td><b>Power Charge(41236K/6K)</b></td>
-    <td>Description</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-    <td>?/?/?</td>
-</tr>
-<tr>
-    <td><b>Back Spin Attack(63214K/8K)</b></td>
     <td>Description</td>
     <td>?/?/?</td>
     <td>?/?/?</td>
@@ -391,7 +386,7 @@ Quick note, in startup framedata (eg. x + y), x means the startup until Super Fr
     <td>?</td>
 </tr>
 <tr>
-    <td><b>Buster Wolf(6321463214K/64K)</b></td>
+    <td><b>Star Dunk Volcano(6321463214K/64K)</b></td>
     <td>Description</td>
     <td>? + ?</td>
     <td>?</td>
