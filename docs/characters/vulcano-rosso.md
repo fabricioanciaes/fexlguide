@@ -409,7 +409,9 @@ Vulcano Rosso has fantastic walk speed and run speed, with a quick low jump. Thi
 
 Vulcano Rosso is all about mixing up the opponent. Rosso still has access to the regular mixup tools, so remember to use your Lows, normal Throws, Hard Attack crossup j.LK, empty jump-ins into Lows and frame-traps to open the opponent up. 
 
-However, Rosso also has a built-in Short Hop with his Le Ali Di Aero(PP/PP) allowing him to get incredibly quick Overheads and a even better empty jump-in to Low than usual, both of which can be combo'd from. Rosso's Vulcanus(214P/4P) also forces the opponent to block and becomes even better if used meaty. You can also force the opponent to quickly switch the direction they block by using Sciara Del Fuoco (236K/6K) to dash through the opponent.
+However, Rosso also has a built-in Short Hop with his Le Ali Di Aero(PP/PP) allowing him to get incredibly quick Overheads and a even better empty jump-in to Low than usual, both of which can be combo'd from. A lot of V.Rosso's pressure comes from cancelling into Le Ali Di Aero as it'll get out of the way out of mashed 2LKs and if the followup is blocked, you get to restart your pressure. 
+
+Rosso's Vulcanus(214P/4P) also forces the opponent to block and becomes even better if used meaty. You can also force the opponent to quickly switch the direction they block by using Sciara Del Fuoco (236K/6K) to dash through the opponent.
 
 Naturally, mixups can be enforced on most knockdowns, but a great way to set this up is with Rosso's staple combo, listed in the Universal Strings below.
 
@@ -441,16 +443,16 @@ Basically the thing you do when you get a knockdown, forces the opponent to bloc
 
 ### Defense
 
-While Vulcano Rosso can make defense a living hell for other characters, Rosso isn't particularly good at defense himself. A lack of good Special Reversals  and pretty poor Supers mean that Rosso mostly has to hold any pressure or otherwise rely on Guard Cancel if he's running a deck that uses it. Thankfully, as Rosso can often have meter in stock, he's quite happy to pay the 1 bar.
+While Vulcano Rosso can make defense a living hell for other characters, Rosso isn't particularly good at defense himself. A lack of good Special Reversals and pretty poor Supers mean that Rosso mostly has to hold any pressure or otherwise rely on Guard Cancel if he's running a deck that uses it. Thankfully, as Rosso can often have meter in stock, he's quite happy to pay the 1 bar. If the opponent isn't meatying correctly and tries to open you up with 2LKs or 2MKs, Le Ali Di Aero(PP/PP) can often avoid their attack and give you a jump-in punish combo.
 
 
 ### Reversals
 
-Rosso lacks particularly good reversals. His counters have startup before the actual counter becomes active, making them very poor as reversals. If you need to use a reversal, either use Accelerando(214214K/64K) or 236236P. Ponte Dei Sospiri (236236P/46P)
+Rosso lacks particularly good reversals. His counters have startup before the actual counter becomes active, making them very poor as reversals. If you need to use a reversal, either use Accelerando(214214K/64K) or Ponte Dei Sospiri (236236P/46P).
 
 ### Escapes
 
-Vulcano Rosso despite lacking good reversals does have ways of escaping quickly. His Sciara Del Fuoco (236K/6K) is pretty decent for dashing through the opponent. Along with his mobility and preferred decks that include Ghost or Utsusemi, Vulcano Rosso can sneak his way through gaps.
+Vulcano Rosso despite lacking good reversals does have ways of escaping quickly. His Sciara Del Fuoco (236K/6K) is pretty decent for dashing through the opponent. Along with his mobility and preferred decks that include Ghost or Utsusemi, Vulcano Rosso can sneak his way through gaps in pressure.
 
 ---
 
@@ -468,9 +470,11 @@ All characters can chain from a normal to a higher strength normal, either punch
 !!! quote "2/5LK > 2MK > 2HK"
     A somewhat okay string. Unfortunately, 2HK is - on block and can be punished by 2LK easily. If you space it correctly so that you are pushed back far enough, particularly in the corner, you can be pushed out far enough that you can block in time. 
 
-!!! quote "2/5LK > 2MK > Rage Of Vesuvio (236P/6P) > P Follow Up > K Follow Up" A decent meterless string with alright options for follow up. If you have the bar, you'll want to do the combo listed below.
+!!! quote "2/5LK > 2MK > Rage Of Vesuvio (236P/6P) > P Follow Up > K Follow Up" 
+    A decent meterless string with alright options for follow up. If you have the bar, you'll want to do the combo listed below.
 
-!!! quote "2/5LK > 2MK > Rage Of Vesuvio (236P/6P) > P Follow Up > Torre Pendente Di Pisa (214214P/64P)" Basically THE combo for Vulcano Russo. Works anywhere on the screen, lets you get a good vortex setup by chasing after the opponent and is even better in the corner. This is the general framework for your combo.s  
+!!! quote "2/5LK > 2MK > Rage Of Vesuvio (236P/6P) > P Follow Up > Torre Pendente Di Pisa (214214P/64P)" 
+    Basically THE combo for Vulcano Russo. Works anywhere on the screen, lets you get a good vortex setup by chasing after the opponent and is even better in the corner. This is the general framework for your combos.   
 
 #### Dash-In combos
 
@@ -483,8 +487,7 @@ All characters can chain from a normal to a higher strength normal, either punch
 ### Hit-Confirms
 
 !!! quote "2LK> 2MK > Whatever"
-
-Rosso doesn't have particularly good strings that end in safe Specials or Supers. If you aren't hit confirming, it's best to end with the 2MK. At certain spacings, you can sneak in a 2HK, but as it knocks down it has no combo potential.
+    Rosso doesn't have particularly good strings that end in safe Specials or Supers. If you aren't hit confirming, it's best to end with the 2MK. At certain spacings, you can sneak in a 2HK, but as it knocks down it has no combo potential.
     
 
 ### Anti-Air Conversions
@@ -500,6 +503,7 @@ Rosso doesn't have particularly good strings that end in safe Specials or Supers
 
 ### 3 Bar Super Sequence
 
-!!! quote "Accelerando(214214K/64K) (Cancel on 12th Hit) > Ponte Dei Sospiri (236236P/46P) (Cancel on 3rd hit > Accelerando(214214K/64K)" If you HAVE to spend 3 bars, this is the most damaging Super Sequence. Unless this will definitely kill though, this is never worth the bar.
+!!! quote "Accelerando(214214K/64K) (Cancel on 12th Hit) > Ponte Dei Sospiri (236236P/46P) (Cancel on 3rd hit > Accelerando(214214K/64K)" 
+    If you HAVE to spend 3 bars, this is the most damaging Super Sequence. Unless this will definitely kill though, this is never worth the bar.
 
 
