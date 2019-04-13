@@ -67,43 +67,43 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 <tr id="infinity">
     <td><a href="#infinity">Infinity</a></td>
     <td><a href="#rage">Rage</a>, <a href="#guardcancel">Guard Cancel</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a></td>
-    <td>Allen Snider, Jack, Shirase</td>
-    <td>Specially good for meter dependant characters. Loop characters heavily benefit from this deck because of the meter ups.</td>
+    <td>Allen Snider, Jack, Shirase, Hokuto, Terry (and everyone else to be honest)</td>
+    <td>Specially good for meter dependant characters. Characters that can do Super Loops heavily benefit from this deck because of the immediate bonus from Meter Ups and the eventual late game buff of regenerating Super from Rage. This Deck currently is an absolute no brainer for most of the cast and is always a good pick. Certain characters may still take more specialized Decks such as V. Rosso with Stealth Raptor/Shinobi but it's a deck that should always be on your radar.</td>
 </tr>
 
 <tr id="miracle">
     <td><a href="#miracle">Miracle</a></td>
-    <td><a href="#rage">Rage</a>, <a href="#guardcancel">Guard Cancel</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a>, <a href="#meterup">Meter Up</a></td>
-    <td>Allen Snider</td>
-    <td>Notes </td>
+    <td><a href="#overload">Overload</a>, <a href="#hades">Hades</a>, <a href="#soul drain">Soul Drain</a>, <a href="#utsusemi">Utsusemi</a>, <a href="#mammoth">Mammoth</a></td>
+    <td>No one in particular</td>
+    <td>One of the two late game decks (Along with Supernova). While the Effects are incredibly good when activated, actually pulling off any of the Triggers in a match (including Overload which is meant to be an easier option) is far too difficult compared to sticking to other Decks that have immediate good effects with a solid selection of Yellow Gougi. If you're able to successfully hold on to 3 bars of Super and still land 25 specials, you were likely always going to win the match anyway.</td>
 </tr>
 
 <tr id="stealthraptor">
     <td><a href="#stealthraptor">Stealth Raptor</a></td>
     <td><a href="#huntingdash">Hunting Dash</a>, <a href="#utsusemi">Utsusemi</a>, <a href="#grabup">Grab Up</a>, <a href="#speedup">Speed Up</a>, <a href="#speedup">Speed Up</a></td>
-    <td>Doctrine Dark</td>
-    <td>Notes </td>
+    <td>Doctrine Dark, Vulcano Russo</td>
+    <td>An incredibly solid choice that allows characters to gain a extremely strong short hop that will cross up crouching characters, often forcing the other player to not only guess if they need to block standing or crouch, but also which side to block on. The Speed Up gougis greatly help with approaching and combined with Grab Up makes shimmying even stronger.</td>
 </tr>
 
 <tr id="berserker">
     <td><a href="#berserker">Berserker</a></td>
     <td><a href="#6chain">6 Chain</a>, <a href="#pierce">Pierce</a>, <a href="#grabup">Grab Up</a>, <a href="#meterup">Meter Up</a>, <a href="#erase">Erase</a></td>
     <td>Shadow Geist</td>
-    <td>Focused on chip damage. 6chain and pierce heavily synergize with each other for that purpose. Since you're focused on making your opponent block, you can also sneak throws more easily thanks to the Grab Up gougi too.</td>
+    <td>Focused on chip damage. 6 Chain and Pierce heavily synergize with each other for that purpose. Since you're focused on making your opponent block, you can also sneak throws more easily thanks to the Grab Up gougi too. However, as attempting a full 6 Chain blockstring leaves a lot of gaps which opponents can exploit, clever use of frametraps would be needed to make the opponent respect your blockstrings.</td>
 </tr>
 
 <tr id="doubleface">
     <td><a href="#doubleface">Double Face</a></td>
     <td><a href="#headsortails">Heads or Tails</a>, <a href="#guardcancel">Guard Cancel</a>, <a href="#illusion">Illusion</a>, <a href="#grabup">Grab Up</a>, <a href="#speedup">Speed Up</a></td>
     <td>No one in particular</td>
-    <td>Notes </td>
+    <td>Despite what Heads Or Tails implies, this is not a deck focused on randomness. Instead it has a fairly eclectic bunch of Blue Gougi with the main attraction being Heads or Tails, which gives you Hades when you lose a round (only activates under 50% however unlike Juggernaut) and 6 Chain when you win a round. Both of these are great, but especially after the nerf (Double Face used to have Hades active after losing the round even at full health) is overshadowed by other more purpose-built decks that will actually suit the character's needs. </td>
 </tr>
 
 <tr id="skydancer">
     <td><a href="#skydancer">Sky Dancer</a></td>
     <td><a href="#exarrow">EX Arrow</a>, <a href="#guardbreak">Guard Break</a>, <a href="#illusion">Illusion</a>, <a href="#chipup">Chip Up</a>, <a href="#frenzy">Frenzy</a></td>
     <td>Doctrine Dark, Garuda</td>
-    <td>Notes </td>
+    <td>A real powerhouse of a deck once you activate EX Arrow, this deck allows opponents to approach </td>
 </tr>
 
 <tr id="nightmare">
@@ -137,8 +137,8 @@ Most characters thankfully have more than one optimal deck in any case, so you'l
 <tr id="supernova">
     <td><a href="#supernova">Supernova</a></td>
     <td><a href="#overload">Overload</a>, <a href="#rage">Rage</a>, <a href="#guardbreak">Guard Break</a>, <a href="#disrupt">Disrupt</a>, <a href="#meterpower">Meter Power</a></td>
-    <td>???</td>
-    <td>Notes </td>
+    <td>No one in particular</td>
+    <td>One of the two late game decks (Along with Supernova). While the Effects are incredibly good when activated, actually pulling off any of the Triggers in a match (including Overload which is meant to be an easier option) is far too difficult compared to sticking to other Decks that have immediate good effects with a solid selection of Yellow Gougi. If you're able to successfully hold on to 3 bars of Super and still land 25 specials, you were likely always going to win the match anyway.</td>
 </tr>
 
 <tr id="grabmaster">
