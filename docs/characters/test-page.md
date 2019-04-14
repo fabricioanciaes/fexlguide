@@ -424,7 +424,7 @@ All characters can chain from a normal to a higher strength normal, either punch
 !!! quote "2/5LK > 2/5MK > 2HK"
     A nice, safe(?) and fairly rewarding chain as it scores you a knockdown and works off your standing or crouching kicks.
 
-!!! quote "2/5LK > 2/5MK > Command Normal > (Special/Super)"
+!!! quote "2/5LK > 2/5MK > (5HK/HP) > Command Normal > (Special/Super)"
     A slightly more risky string as Command Normal is poor on block.
 
 !!! quote "2/5LK > 2/5MK > Special > Super"
@@ -464,3 +464,30 @@ All characters can chain from a normal to a higher strength normal, either punch
     Any particular input tricks? How does hitstun decay affect the later part of the combos?
 
 
+## Resources
+
+### VODs
+
+### Primers/Tutorials
+
+!!! quote "Allen Snider Primer by Hidden Gem. Somewhat outdated but still very useful."
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8PnfR_YRj7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+!!! quote "A small video on further optimizing Triple Break Loop juggles by starrich55."
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/n-tkU22xl-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Tech
+
+## Glossary
+
+### Kara Cancel
+
+Kara Cancelling (Or "Empty" cancelling) is a fairly old fighting game glitch that lets you start up a move and then almost immediately input a more "difficult" action/move. The input system thinks you've done the simpler move by accident and lets you go straight into your more complicated move. In Allen's case, by Kara Cancelling `2HK` and doing Vaulting Kick, you get the movement from the start of 2HK and then grab, teleporting Allen forward surprisingly far. You don't necessarily need to do anything tricky, just do it quickly and you'll see Allen suddenly scoot forward and maybe catch a few frames of the 2HK startup. A input that might work better would be 63K > 214K.
+
+### Tick Throw
+
+Tick Throws are generally when you drop strings, often only doing jabs and attempted a delayed grab (do it instantly and the opponent will probably still have throw immunity from blockstun, causing the grab to whiff), catching a blocking opponent who is expecting a string to start or continue. 
+
+Unlike most fighting games, your light normals are generally very unsafe on block by themselves, so a wary opponent can easily throw or 2LK in response. If your opponent is doing this, frametraps will force the opponent to respect you more and start blocking again.
